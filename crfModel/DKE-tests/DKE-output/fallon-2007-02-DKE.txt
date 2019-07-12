@@ -1,0 +1,24 @@
+:Statistical analysis
+intent-to-treat
+ITT
+sample
+healthy controls
+clinical characteristics
+IV antibiotic
+IV placebo
+and healthy controls
+multivariate measure of cognition
+six domains
+motor
+psychomotor
+working memory
+longitudinal mixed-effects models
+LMM
+LMM
+maximizing Bayesian information
+selected
+stepwise backward elimination
+select the “ best ” model
+comparison between the groups
+best model
+ITT differences

@@ -1,0 +1,47 @@
+Lyme disease
+B. burgdorferi
+human monocytic ehrlichiosis
+Ehrlichia chaffeensis
+human granulocytic ehrlichiosis
+Ehrlichia phagocytophila
+Rickettsia rickettsii
+Rickettsia typhi
+Q fever
+Coxiella burneti
+tularaemia
+Francisella tularensis
+E. chaffeensis
+E. phagocytophila
+R. rickettsii
+indirect fluorescent antibody assays
+IFA
+F. tularensis
+manufacturer ’ s recommendations
+Difco Laboratories
+Detroit
+MI
+USA
+ELISA
+low-passage wildtype N40
+HBSS
+HBSS
+darkfield microscopy
+centrifugation
+Immulon 4
+Dynex
+Chantilly
+VA
+USA
+antigen
+dry
+added
+incubated
+alkaline phosphatase-conjugated goat antihuman
+Perry Laboratories
+Gaithersburg
+MD
+USA
+diethanolamine buffer
+Negative control
+laboratory staff members
+negative control wells

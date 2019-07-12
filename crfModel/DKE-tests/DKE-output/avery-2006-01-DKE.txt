@@ -1,0 +1,23 @@
+LM
+CDC
+Lyme disease
+positive serology
+Western blot confirmation or erythema migrans
+serologic diagnosis
+commercial laboratories
+initial Lyme-serology
+CDC criteria
+AM
+medical chart.\nLaboratory values
+Lyme serology
+CSF
+CSF WBC
+CSF WBC differential
+CSF bacterial culture
+CSF viral culture
+CSF enterovirus PCR
+Lyme serology
+CSF bacterial and viral cultures
+Philadelphia
+Philadelphia
+PA

@@ -1,0 +1,13 @@
+Recognized Human Disease Agents Transmitted by I. scapularis
+United States
+etiological agent
+eastern United States
+.\nHuman granulocytic anaplasmosis
+human granulocytic ehrlichiosis
+Ehrlichia phagocytophila
+host-seeking activity of I. scapularis and Dermacentor variabilis
+Ixodes ricinus transmits E. phagocytophila
+I. scapularis
+E. phagocytophila
+P. leucopus
+intraleukocytic bacterium

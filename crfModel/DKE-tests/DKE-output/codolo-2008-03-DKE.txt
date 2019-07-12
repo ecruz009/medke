@@ -1,0 +1,26 @@
+'PATIENTS AND METHODS
+Real-time PCR analysis
+RNA
+2 × 10^6 monocytes
+TRIzol solution
+Invitrogen
+San Diego
+CA
+RNA
+GAPDH
+5'-AGCAACAGGGTGGTGGAC-3
+IL-23p19
+5'-TCC-ACCAGGGTCTGATTTTT-3
+IL-12p40
+5'-ACAAAGGAGGCGAGGTTCTAA-3
+IL-6
+5'-AACCTGAACCTTCCAAAGATGG-3
+TGFβ
+5'-AGTGGTTGAGCCGTGGAG-3
+amplification
+data analysis
+second derivative method algorithm
+IL-23p19
+IL-12p40
+IL-6
+untreated cells

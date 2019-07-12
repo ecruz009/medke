@@ -1,0 +1,9 @@
+tick species
+UK
+life stage
+small mammals
+vegetation layer
+nymph stage
+adult stage
+vegetation layer
+ground cover vegetation

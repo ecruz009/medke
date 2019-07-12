@@ -1,0 +1,13 @@
+multivariate model
+identified multiple factors
+Demographic factors
+increasing age
+HR
+black compared with white race
+HR
+CT
+MRI imaging on the index
+alternative diagnosis
+HR
+ischemic stroke
+herpes
