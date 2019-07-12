@@ -1,2 +1,66 @@
 # medke
 Domain knowledge entity extraction for scientific documents in biomedical science.
+
+##Dependencies
+
+Language(s) Used: Python 3.7
+
+Java needed for stanford-postagger 
+
+Python Modules:
+1. sklearn-crfsuite    
+2. nltk            
+3. scipy
+4. numpy
+5. scikit-learn
+
+##Description
+
+The DKE extractor program is a repurposed program based off of the codebase semeval2017 (https://github.com/SeerLabs/semeval2017) with the code being updated from Python 2 to Python 3.  The purpose of this program is the extraction of DKEs from text.  At the time of writing this document, the DKE extractor program consists of 20 executable python files.  
+
+The .py file interactions can be divided into two groups with one group being all .py files found in the crfsemeval folder and the other being any .py file outside said folder. For brevity, the groups will be labeled Crfsemeval and Other respectively.
+
+
+——Crfsemeval (ClassifyCRFtoANN.py, convert.py, CRFNER.py, DataExtraction.py, Domain-Entities-extraction-given-JSON.py, FeatureExtraction.py, PhraseEval.py, and semeval_to_BIO.py)——
+
+
+NOTE:  All current folder names are tentative and may be changed at a later date depending on what new training data is to be supplied.
+
+1.  The files found in the folder `semevaltrainingdata` are to be converted into mallet format and stored in the folder labeled ‘malletformatfeatures’ for later use.
+
+2.  Using `seminal-to-BIO.py`, files from the folder ’semevaltrainingdata’ are converted into BIO-style tags for classification.  The script returning tokenized terms with BIO notation to identify key phrases and offset boundaries.  All outputted files are stored in the ‘malletformatfeaturesBIO’ folder as ‘*_output.txt’.
+
+3. The data is split randomly into train and test data. The file lists are in `training.txt` and `test.txt` which contain only the names of the files. Also, for each original file, three fields were taken, the word (token), the tag (`B_KP`, `I_KP`) and the index. The files are in the folder ‘malletformat’ under `malletformat/training` and `malletformat/test`. `convert.py` was used to convert *_output.txt to training and test files.
+
+4. These files were combined using `awk` [`awk -F"\t" {print $1"\t"$2} malletformat/test/* > semeval-ner-test.txt`] to produce the training data (`semeval-ner-train.txt`) and test data (`semeval-ner-test.txt`). Note these files contain only two columns (tab separated): the token and the tag.
+
+5. 'CRFNER.py' trains a linear chain CRF model and outputs the model as a pickle file (`linear-chain-crf.model.pickle`). You can do a hyper parameter optimization on the training data.
+
+6. `DataExtraction.py` and `FeatureExtraction.py` contains the code to prepare the data and extract features. Both are used by ‘CRFNER.py’. ‘CRFNER.py’ can also use ‘PhraseEval.py’ if the user wishes to view how the phrase extraction works.  Note the pos tags are extracted during the data extraction step.  
+
+7. `ClassifyCRFtoANN.py` uses the trained model to predict the token classes and output the predicted ann file. An example input to the code is a file in `malletformat/test`, e.g., `python ClassifyCRFtoANN.py malletformat/test/S0166218X14003011-mallet.txt`. Output is `malletformat/test/S0166218X14003011-predicted.ann`.  Calls upon ‘DataExtraction.py’, ‘FeatureExtraction.py’, ‘and ‘PhraseEval.py’ to accomplish this.
+
+8.  ‘Domain-Entities-extraction-given-JSON.py’ extracts DKEs from a given JSON through the use of the trained linear chain CRF model (‘linear-chain-crf.model.pickle’) and outputs a file containing the DKEs.  An example input would be any file found in ‘DKE-tests/text’, e.g., ‘python Domain-Entities-extraction-given-JSON.py DKE-tests/text/borchers-2015-06.txt'. Output is `DKE-tests/DKE-output/borchers-2015-06-DKE.txt`. 
+
+
+——Other (annParser.py, config.py, eval.py, gen_keyphrase_*.py, scix_eke-*.py, scix_test.py, and TxtTrainParser.py)——
+
+
+1.  The four ’scix_eke-*.py’ scripts must be supplied with the arguments TESTDIR and OUTDIR in order to execute.  The TESTDIR supplies the directory containing the .txt files to be tested and the OUTDIR supplies the directory containing the output .ann files.  The four scripts take the supplied .txt files, run through them for keyphrases (specifically NP), and output them as .ann files.  For ’scix_eke-3.2.py’, a third argument N is necessary which specifies the the N chars before and after the keyphrase extracted.  Note that each script calls upon a specific ‘gen_keyphrase_*.py’ script.
+- ‘scix_eke-1.0.py’ calls upon ‘gen_keyphrase_core.py’
+- ‘scix_eke-2.0.py’ calls upon ‘gen_keyphrase_core_bounds.py’
+- ‘scix_eke-3.1.py’ and ’scix_eke-3.2.py’ call upon ‘gen_core_keyphrase_core_stanford.py’
+
+2.  The script 'scix_test.py' serves to test a single file for keyphrase generation instead of a whole directory.  It requires a single text file to be supplied for its argument and calls upon ‘gen_keyphrase_core_bounds.py’ when looking for the nounphrases.  
+
+3.  The script ’TxtTrainParser.py’ is a more detailed version of the ‘scix_eke-*.py’ scripts.  It parses through the supplied training data to identify NP, PP,  and VP types while also including phrase labels.  The script ‘annParser.py’ is used heavily by ‘TxtTrainParser.py’ to help accomplish this.  The input and output directories are currently hardcoded and will need to be changed to point to the user’s training data folder and output folder.  It should be noted that the Java configuration pathway may need to be changed depending on the operating system that the script is being executed on.  In addition, the ‘config.py’ script serves only to supply the pathways for the ‘english-bidirectional-distsim.tagger’ and ‘stanford-postagger-3.6.0.jar’.
+
+4.  ‘eval.py’ serves to calculate the P, R, F1, and Macro F when supplied with a folder containing gold standard .ann files and a folder containing prediction .ann files.  Currently the pathways that lead to these folders are hardcoded and may need to be changed.
+
+##To Do
+
+The folders that contain .txt, .ann, .xml files can be considered artifacts of a previous version of the program that will be modified and removed as needed.  The folders in question are labeled: malletformat, malletformatfeatures, malledtformatfeaturesBIO, malletformatfeaturesmultilabel, semevaltrainingdata, scienceie2017_dev, and scienceie2017_train.  The files found in crfsemeval labeled semeval-ner-test.txt, semeval-ner-train.txt, test.txt, train.txt, and linear-chain-crf.model.pickle will also be later removed/modified as needed.
+
+Need to reorganize/rename the entire program to clean up clutter and help better visualize the interactions. 
+
+When the old training/testing files get replaced by the newer ones, all mentions of them will need to be corrected in the description.
