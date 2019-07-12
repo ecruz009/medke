@@ -211,8 +211,8 @@ def normaliseAnnotations(file_anno, remove_anno):
 
 if __name__ == '__main__':
     #The two folder directories are just placeholders.  Need the proper directories in Linux format
-    folder_gold = "/Users/gunnar/Documents/ProvingGround/semeval2017-test/crfsemeval/semevalTestArticles/anns/"
-    folder_pred = "/Users/gunnar/Documents/ProvingGround/semeval2017-test/crfsemeval/malletformat/predicted/"
+    folder_gold = "crfModel/medicalData/testData/anns/"
+    folder_pred = "crfModel/medicalData/predictedANN/"
     remove_anno = "types"  # "", "rel" or "types"
     if len(sys.argv) >= 2:
         folder_gold = sys.argv[1]

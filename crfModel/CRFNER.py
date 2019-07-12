@@ -19,8 +19,8 @@ from PhraseEval import phrasesFromTestSenJustExtraction,phrase_extraction_report
 from DataExtraction import convertCONLLFormJustExtractionSemEval
 
 def main():
-    train_sents = convertCONLLFormJustExtractionSemEval("semeval-ner-train.txt")
-    test_sents = convertCONLLFormJustExtractionSemEval("semeval-ner-test.txt")
+    train_sents = convertCONLLFormJustExtractionSemEval("medicalData/combinedTrain.txt")
+    test_sents = convertCONLLFormJustExtractionSemEval("medicalData/combinedTest.txt")
     
     pprint(train_sents[0])
     pprint(test_sents[0])

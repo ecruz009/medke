@@ -11,16 +11,14 @@ import os
 
 
 #Hardcoded paths to change when testing on own input data
-#input_root ='./semevaltrainingdata'
-input_root ='./semevalTestArticles'
+input_root ='./medicalData/testData'
 anns_folder = 'anns'
 txt_folder = 'txts'
 
 #Lines will be added in append mode, so if output_fold is non-empty,
 # make sure to remove everything in it first
 
-#output_fold ='malletformatfeaturesBIO'
-output_fold ='testBIO'
+output_fold ='./formatBIO/testBIO'
 
 
 txts = sorted( [os.path.join(input_root, txt_folder, txt) for txt in os.listdir(os.path.join(input_root, txt_folder))])
