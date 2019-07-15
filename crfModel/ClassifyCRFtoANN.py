@@ -9,15 +9,12 @@ from FeatureExtraction import sent2labels,sent2features
 from PhraseEval import phrasesFromTestSenJustExtractionWithIndex
 
 fileinLoc = sys.argv[1]
-
-#Previous Output Format
-#fileoutLoc = sys.argv[1].split("-")[0]+"-predicted.ann"
-
-#Format for Dev data testing
 fileoutLoc = sys.argv[1].split(".")[0]+".ann"
+fileoutLoc = fileoutLoc[30:]
+fileoutLoc = "medicalData/predictedANN/" + fileoutLoc
 
 
-crf = pickle.load(open("linear-chain-crf.model.pickle", "rb"))
+crf = pickle.load(open("medicalData/linear-chain-crf.model.pickle", "rb"))
 (test_sents,test_sents_indices) = convertCONLLFormJustExtractionSemEvalPerfile(fileinLoc)
 
 X_test = [sent2features(s) for s in test_sents]

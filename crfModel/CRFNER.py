@@ -19,8 +19,8 @@ from PhraseEval import phrasesFromTestSenJustExtraction,phrase_extraction_report
 from DataExtraction import convertCONLLFormJustExtractionSemEval
 
 def main():
-    train_sents = convertCONLLFormJustExtractionSemEval("medicalData/combinedTrain.txt")
-    test_sents = convertCONLLFormJustExtractionSemEval("medicalData/combinedTest.txt")
+    train_sents = convertCONLLFormJustExtractionSemEval("medicalData/convertedBIO/combinedTrain.txt")
+    test_sents = convertCONLLFormJustExtractionSemEval("medicalData/convertedBIO/combinedTest.txt")
     
     pprint(train_sents[0])
     pprint(test_sents[0])
@@ -43,7 +43,7 @@ def main():
     labels = list(crf.classes_)
     labels.remove('O')
     print(labels)
-    pickle.dump(crf,open("linear-chain-crf.model.pickle","wb"), protocol = 0, fix_imports = True)
+    pickle.dump(crf,open("medicalData/linear-chain-crf.model.pickle","wb"), protocol = 0, fix_imports = True)
     y_pred = crf.predict(X_test)
      
     # Use this if you need to do grid search on training data for parameter optimization.

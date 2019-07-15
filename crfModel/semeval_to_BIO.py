@@ -12,13 +12,15 @@ import os
 
 #Hardcoded paths to change when testing on own input data
 input_root ='./medicalData/testData'
+#input_root ='./medicalData/trainData'
 anns_folder = 'anns'
 txt_folder = 'txts'
 
 #Lines will be added in append mode, so if output_fold is non-empty,
 # make sure to remove everything in it first
 
-output_fold ='./formatBIO/testBIO'
+output_fold ='medicalData/formatBIO/testBIO'
+#output_fold ='medicalData/formatBIO/trainBIO'
 
 
 txts = sorted( [os.path.join(input_root, txt_folder, txt) for txt in os.listdir(os.path.join(input_root, txt_folder))])
