@@ -25,7 +25,7 @@ The .py file interactions can be divided into two groups with one group being al
 
 Note:  All testing and training data can be found in the `medicalData` folder
 
-1.  Using `semeval-to-BIO.py`, files from the `testData` and `trainData` folders are converted into BIO-style tags for classification.  The script returning tokenized terms with BIO notation to identify key phrases and offset boundaries.  All outputted files are stored in the `formatBIO` folder as `*_output.txt`. Note: User must manually change between lines 14/15 and 22/23 to swap between running the testData and the trainData through.
+1.  Using `semeval-to-BIO.py`, files from the `testData` and `trainData` folders are converted into BIO-style tags for classification.  The script returning tokenized terms with BIO notation to identify key phrases and offset boundaries.  All outputted files are stored in the `formatBIO` folder as `*_output.txt`.
 
 2.  For each original file, three fields were taken, the word (`token`), the tag (`B_KP`, `I_KP`) and the index. The files in the folder `formatBIO` under `formatBIO/testBIO` and `formatBIO/trainBIO` are fed into `convert.py` in accordance to the `testList.txt` and `trainList.txt`.  The converted files are stored in `convertedBIO/test` and `convertedBIO/train` respectively.
 
