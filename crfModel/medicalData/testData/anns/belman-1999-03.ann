@@ -1,0 +1,30 @@
+T1	DKE 0 18	Aseptic meningitis
+T2	DKE 38 40	EM
+T3	DKE 44 47	FNP
+T4	DKE 49 64	Lyme meningitis
+T5	DKE 111 121	meningitis
+T6	DKE 161 169	headache
+T7	DKE 171 185	neck stiffness
+T8	DKE 191 196	fever
+T9	DKE 198 212	CSF cell count
+T10	DKE 284 294	meningitis
+T11	DKE 390 402	endemic area
+T12	DKE 408 420	Lyme disease
+T13	DKE 445 455	CSF anti-B
+T14	DKE 457 479	burgdorferi antibodies
+T15	DKE 501 519	Facial nerve palsy
+T16	DKE 546 580	Lyme-associated facial nerve palsy
+T17	DKE 606 628	diopathic Bell's palsy
+T18	DKE 648 650	EM
+T19	DKE 652 664	Lyme disease
+T20	DKE 739 751	endemic area
+T21	DKE 814 842	Anti-B. burgdorferi antibody
+T22	DKE 892 895	CSF
+T23	DKE 918 935	occult meningitis
+T24	DKE 997 1016	serological studies
+T25	DKE 1035 1052	Optic nerve edema
+T26	DKE 1053 1067	optic neuritis
+T27	DKE 1146 1158	Lyme disease
+T28	DKE 1190 1192	EM
+T29	DKE 1212 1226	optic neuritis
+T30	DKE 1230 1247	optic nerve edema

@@ -1,0 +1,18 @@
+T1	DKE 35 37	LM
+T2	DKE 90 102	Lyme disease
+T3	DKE 156 172	erythema migrans
+T4	DKE 235 254	serologic diagnosis
+T5	DKE 379 400	Lyme-serology results
+T6	DKE 491 503	Lyme disease
+T7	DKE 564 576	Lyme disease
+T8	DKE 603 605	AM
+T9	DKE 711 724	Lyme serology
+T10	DKE 726 750	CSF red blood cell count
+T11	DKE 752 759	CSF WBC
+T12	DKE 761 781	CSF WBC differential
+T13	DKE 783 804	CSF bacterial culture
+T14	DKE 806 823	CSF viral culture
+T15	DKE 829 848	CSF enterovirus PCR
+T16	DKE 997 1010	Lyme serology
+T17	DKE 1126 1158	CSF bacterial and viral cultures
+T18	DKE 1260 1287	enterovirus CSF PCR testing
