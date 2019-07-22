@@ -1,24 +1,59 @@
-T0	PROCESS 0 1	biofilm production
-T0	PROCESS 0 1	complex array
-T0	PROCESS 0 1	rpon rpos alternative sigma factor
-T0	PROCESS 0 1	lux quorumsensing pathway
-T0	PROCESS 0 1	several cellular function
-T0	PROCESS 0 1	environmental stress
-T0	PROCESS 0 1	temperature variation
-T0	PROCESS 0 1	high osmolarity
-T0	PROCESS 0 1	oxidative stress
-T0	PROCESS 0 1	high cell density
-T0	PROCESS 0 1	nutrient starvation
-T0	PROCESS 0 1	host infection
-T0	PROCESS 0 1	rpon rpos pathway
-T0	PROCESS 0 1	adaptive change
-T0	PROCESS 0 1	tick vector
-T0	PROCESS 0 1	mammalian host
-T0	PROCESS 0 1	rpon rpos pathway relies
-T0	PROCESS 0 1	rpon-type promoter sequence
-T0	PROCESS 0 1	bacterial enhancer-binding protein
-T0	PROCESS 0 1	dependent activator
-T0	PROCESS 0 1	global gene regulator
-T0	PROCESS 0 1	different gene
-T0	PROCESS 0 1	stress response
-T0	PROCESS 0 1	biofilm formation
+T0	KEYPHRASE-NOTYPES 0 18	Biofilm production,"","in "
+T1	KEYPHRASE-NOTYPES 44 54	modulation,"the","of "
+T2	KEYPHRASE-NOTYPES 60 73	complex array,"f a","of "
+T3	KEYPHRASE-NOTYPES 77 96	signaling processes," of","whi"
+T4	KEYPHRASE-NOTYPES 110 121	spirochetes,"ows","to "
+T5	KEYPHRASE-NOTYPES 146 169	surrounding environment,"the"," Th"
+T6	KEYPHRASE-NOTYPES 175 209	RpoN RpoS alternative sigma factor,"The","and"
+T7	KEYPHRASE-NOTYPES 218 245	LuxS quorumsensing pathways,"the"," wh"
+T8	KEYPHRASE-NOTYPES 269 295	several cellular functions," in","in "
+T9	KEYPHRASE-NOTYPES 299 307	response," in","to "
+T10	KEYPHRASE-NOTYPES 311 333	environmental stresses," to","(pH"
+T11	KEYPHRASE-NOTYPES 335 337	pH,"es ","and"
+T12	KEYPHRASE-NOTYPES 342 364	temperature variations,"and"," hi"
+T13	KEYPHRASE-NOTYPES 366 381	high osmolarity,"ns,"," ox"
+T14	KEYPHRASE-NOTYPES 383 399	oxidative stress,"ty,"," hi"
+T15	KEYPHRASE-NOTYPES 401 418	high cell density,"ss,"," nu"
+T16	KEYPHRASE-NOTYPES 420 439	nutrient starvation,"ty,"," ho"
+T17	KEYPHRASE-NOTYPES 441 455	host infection,"on,",", p"
+T18	KEYPHRASE-NOTYPES 473 491	biofilm production," in","in "
+T19	KEYPHRASE-NOTYPES 495 496	B," in"," bu"
+T20	KEYPHRASE-NOTYPES 525 542	RpoN RpoS pathway,"The"," al"
+T21	KEYPHRASE-NOTYPES 562 564	σ ^,"the","54}"
+T22	KEYPHRASE-NOTYPES 569 570	σ,"54}","{S}"
+T23	KEYPHRASE-NOTYPES 572 582	cascade,"-σ^"," re"
+T24	KEYPHRASE-NOTYPES 594 610	adaptive changes,"tes","in "
+T25	KEYPHRASE-NOTYPES 614 615	B," in"," bu"
+T26	KEYPHRASE-NOTYPES 640 650	transition,"the","bet"
+T27	KEYPHRASE-NOTYPES 663 674	tick vector,"the","and"
+T28	KEYPHRASE-NOTYPES 679 693	mammalian host,"and","(91"
+T29	KEYPHRASE-NOTYPES 708 725	RpoN RpoS pathway,"The","rel"
+T30	KEYPHRASE-NOTYPES 740 748	activity,"the","of "
+T31	KEYPHRASE-NOTYPES 752 756	RpoN," of","(σ^"
+T32	KEYPHRASE-NOTYPES 758 759	σ,"oN ","{54"
+T33	KEYPHRASE-NOTYPES 786 799	transcription,"the","of "
+T34	KEYPHRASE-NOTYPES 803 807	RpoS," of","(σ^"
+T35	KEYPHRASE-NOTYPES 809 810	σ,"oS ","{S}"
+T36	KEYPHRASE-NOTYPES 828 835	binding,"the","to "
+T37	KEYPHRASE-NOTYPES 859 886	RpoN-type promoter sequence,"−12","(95"
+T38	KEYPHRASE-NOTYPES 902 912	activation,"The","of "
+T39	KEYPHRASE-NOTYPES 920 922	σ ^,"the","54}"
+T40	KEYPHRASE-NOTYPES 927 928	σ,"54}","{S}"
+T41	KEYPHRASE-NOTYPES 930 940	cascade,"-σ^"," in"
+T42	KEYPHRASE-NOTYPES 945 949	turn," in"," is"
+T43	KEYPHRASE-NOTYPES 969 1003	bacterial enhancer-binding protein,"y a","(bE"
+T44	KEYPHRASE-NOTYPES 1005 1009	bEBP,"in ","/σ^"
+T45	KEYPHRASE-NOTYPES 1011 1012	σ,"BP)","{54"
+T46	KEYPHRASE-NOTYPES 1018 1037	dependent activator,"54}","(Rr"
+T47	KEYPHRASE-NOTYPES 1039 1043	Rrp2,"or "," in"
+T48	KEYPHRASE-NOTYPES 1048 1055	concert," in","wit"
+T49	KEYPHRASE-NOTYPES 1061 1065	BosR,"ith","(91"
+T50	KEYPHRASE-NOTYPES 1095 1105	activation,"the"," Rp"
+T51	KEYPHRASE-NOTYPES 1107 1111	RpoS,"on,","act"
+T52	KEYPHRASE-NOTYPES 1122 1143	global gene regulator,"s a","con"
+T53	KEYPHRASE-NOTYPES 1160 1170	expression,"the","of "
+T54	KEYPHRASE-NOTYPES 1183 1198	different genes,"100","inv"
+T55	KEYPHRASE-NOTYPES 1211 1227	stress responses," in"," ho"
+T56	KEYPHRASE-NOTYPES 1229 1243	host infection,"es,","and"
+T57	KEYPHRASE-NOTYPES 1248 1256	survival,"and"," in"
+T58	KEYPHRASE-NOTYPES 1268 1285	biofilm formation,"ing","(87"

@@ -1,19 +1,43 @@
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	united state
-T0	PROCESS 0 1	new form
-T0	PROCESS 0 1	inflammatory arthritis
-T0	PROCESS 0 1	etiological agent
-T0	PROCESS 0 1	numerous small mammal
-T0	PROCESS 0 1	white-footed mouse
-T0	PROCESS 0 1	important reservoir
-T0	PROCESS 0 1	eastern united state
-T0	PROCESS 0 1	nhuman granulocytic anaplasmosis
-T0	PROCESS 0 1	human granulocytic ehrlichiosis
-T0	PROCESS 0 1	ehrlichia phagocytophila
-T0	PROCESS 0 1	northern minnesota
-T0	PROCESS 0 1	acute febrile illness
-T0	PROCESS 0 1	host-seeking activity
-T0	PROCESS 0 1	dermacentor variabilis
-T0	PROCESS 0 1	related ixodes ricinus transmits
-T0	PROCESS 0 1	competent reservoir
-T0	PROCESS 0 1	intraleukocytic bacterium
+T0	KEYPHRASE-NOTYPES 0 12	Lyme disease,"","was"
+T1	KEYPHRASE-NOTYPES 41 54	United States,"the","as "
+T2	KEYPHRASE-NOTYPES 60 68	new form,"s a","of "
+T3	KEYPHRASE-NOTYPES 72 94	inflammatory arthritis," of","in "
+T4	KEYPHRASE-NOTYPES 120 130	spirochete,", a"," la"
+T5	KEYPHRASE-NOTYPES 138 145	namedBo,"ter"," bu"
+T6	KEYPHRASE-NOTYPES 187 204	etiological agent,"the","and"
+T7	KEYPHRASE-NOTYPES 241 251	scapularis," I.","[2,"
+T8	KEYPHRASE-NOTYPES 268 290	numerous small mammals,"ugh","and"
+T9	KEYPHRASE-NOTYPES 295 300	birds,"and","hav"
+T10	KEYPHRASE-NOTYPES 325 335	reservoirs," as","of "
+T11	KEYPHRASE-NOTYPES 339 341	Bo," of"," bu"
+T12	KEYPHRASE-NOTYPES 360 378	white-footed mouse,"the","is "
+T13	KEYPHRASE-NOTYPES 397 417	important reservoirs,"ost","in "
+T14	KEYPHRASE-NOTYPES 425 446	eastern United States,"the","[15"
+T15	KEYPHRASE-NOTYPES 462 494	nHuman granulocytic anaplasmosis,"5]."," or"
+T16	KEYPHRASE-NOTYPES 520 551	human granulocytic ehrlichiosis," as","(Eh"
+T17	KEYPHRASE-NOTYPES 553 577	Ehrlichia phagocytophila,"is ",", w"
+T18	KEYPHRASE-NOTYPES 608 616	patients,"six","fro"
+T19	KEYPHRASE-NOTYPES 622 640	northern Minnesota,"rom","and"
+T20	KEYPHRASE-NOTYPES 645 654	Wisconsin,"and","pre"
+T21	KEYPHRASE-NOTYPES 671 694	acute febrile illnesses,"ith","bet"
+T22	KEYPHRASE-NOTYPES 722 728	timing,"The","of "
+T23	KEYPHRASE-NOTYPES 732 737	onset," of","of "
+T24	KEYPHRASE-NOTYPES 741 746	cases," of","was"
+T25	KEYPHRASE-NOTYPES 767 788	host-seeking activity,"ith","of "
+T26	KEYPHRASE-NOTYPES 795 805	scapularis," I.","and"
+T27	KEYPHRASE-NOTYPES 810 832	Dermacentor variabilis,"and","and"
+T28	KEYPHRASE-NOTYPES 868 874	vector,"s a","bas"
+T29	KEYPHRASE-NOTYPES 884 892	evidence," on","tha"
+T30	KEYPHRASE-NOTYPES 910 932	related Ixodes ricinus,"ely","tra"
+T31	KEYPHRASE-NOTYPES 943 944	E,"its"," ph"
+T32	KEYPHRASE-NOTYPES 946 960	phagocytophila," E.","in "
+T33	KEYPHRASE-NOTYPES 964 970	Europe," in","[56"
+T34	KEYPHRASE-NOTYPES 989 999	scapularis," I.","was"
+T35	KEYPHRASE-NOTYPES 1034 1040	vector,"s a","of "
+T36	KEYPHRASE-NOTYPES 1044 1045	E," of"," ph"
+T37	KEYPHRASE-NOTYPES 1047 1061	phagocytophila," E."," an"
+T38	KEYPHRASE-NOTYPES 1067 1068	P,"and"," le"
+T39	KEYPHRASE-NOTYPES 1070 1078	leucopus," P.","was"
+T40	KEYPHRASE-NOTYPES 1097 1116	competent reservoir,"e a","[57"
+T41	KEYPHRASE-NOTYPES 1137 1162	intraleukocytic bacterium,"his","was"
+T42	KEYPHRASE-NOTYPES 1178 1193	phagocytophilum," A.","[58"

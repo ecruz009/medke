@@ -1,14 +1,22 @@
-T0	PROCESS 0 1	previous author
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	shoulder joint
-T0	PROCESS 0 1	avascular articular surface
-T0	PROCESS 0 1	distal supraspinatus tendon
-T0	PROCESS 0 1	favorable location
-T0	PROCESS 0 1	hypoxic condition
-T0	PROCESS 0 1	patient distal supraspinatus tendinopathy
-T0	PROCESS 0 1	consequent pain
-T0	PROCESS 0 1	associated spirochete load
-T0	PROCESS 0 1	supraspinatus impingement
-T0	PROCESS 0 1	several symptom
-T0	PROCESS 0 1	physical therapist
-T0	PROCESS 0 1	underlying condition
+T0	KEYPHRASE-NOTYPES 0 16	Previous authors,"","hav"
+T1	KEYPHRASE-NOTYPES 38 50	Lyme disease,"hat","aff"
+T2	KEYPHRASE-NOTYPES 63 77	shoulder joint,"the"," [5"
+T3	KEYPHRASE-NOTYPES 93 120	avascular articular surface,"the","of "
+T4	KEYPHRASE-NOTYPES 128 155	distal supraspinatus tendon,"the","[28"
+T5	KEYPHRASE-NOTYPES 166 184	favorable location,"s a","for"
+T6	KEYPHRASE-NOTYPES 193 204	spirochetes,"the","due"
+T7	KEYPHRASE-NOTYPES 225 242	hypoxic condition,"hat","of "
+T8	KEYPHRASE-NOTYPES 250 254	area,"the"," It"
+T9	KEYPHRASE-NOTYPES 276 283	patient,"the","s d"
+T10	KEYPHRASE-NOTYPES 286 319	distal supraspinatus tendinopathy,"t’s"," wi"
+T11	KEYPHRASE-NOTYPES 326 341	consequent pain,"ith","and"
+T12	KEYPHRASE-NOTYPES 346 358	inflammation,"and"," wa"
+T13	KEYPHRASE-NOTYPES 366 373	symptom,"s a","of "
+T14	KEYPHRASE-NOTYPES 377 389	Lyme disease," of","and"
+T15	KEYPHRASE-NOTYPES 409 424	spirochete load,"ted","and"
+T16	KEYPHRASE-NOTYPES 448 473	supraspinatus impingement,"sed"," Se"
+T17	KEYPHRASE-NOTYPES 475 491	Several symptoms,"nt.","dis"
+T18	KEYPHRASE-NOTYPES 509 518	treatment,"ing","dem"
+T19	KEYPHRASE-NOTYPES 539 557	physical therapist,"the","tha"
+T20	KEYPHRASE-NOTYPES 566 586	underlying condition," an","suc"
+T21	KEYPHRASE-NOTYPES 595 607	Lyme disease," as","was"

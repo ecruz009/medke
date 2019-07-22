@@ -1,19 +1,48 @@
-T0	PROCESS 0 1	chemotherapeutic dos
-T0	PROCESS 0 1	maintenance mtx infusion
-T0	PROCESS 0 1	complete remission
-T0	PROCESS 0 1	cns lymphoma
-T0	PROCESS 0 1	cognitive change
-T0	PROCESS 0 1	radiologic evidence
-T0	PROCESS 0 1	new lesion
-T0	PROCESS 0 1	brain mri scan
-T0	PROCESS 0 1	new brain lesion
-T0	PROCESS 0 1	high-dose mtx
-T0	PROCESS 0 1	third recurrence
-T0	PROCESS 0 1	myeloablative chemotherapy consisting
-T0	PROCESS 0 1	autologous bone marrow rescue
-T0	PROCESS 0 1	bone marrow transplant
-T0	PROCESS 0 1	current presentation
-T0	PROCESS 0 1	oncologic history
-T0	PROCESS 0 1	past medical history
-T0	PROCESS 0 1	caesarean section delivery
-T0	PROCESS 0 1	placenta previa
+T0	KEYPHRASE-NOTYPES 4 11	patient,"The","had"
+T1	KEYPHRASE-NOTYPES 18 25	history,"d a","of "
+T2	KEYPHRASE-NOTYPES 29 76	diffuse large non-Hodgkin B cell CNS lymphoma," of"," Th"
+T3	KEYPHRASE-NOTYPES 105 110	years," 10","bef"
+T4	KEYPHRASE-NOTYPES 118 127	admission,"ore","and"
+T5	KEYPHRASE-NOTYPES 145 167	chemotherapeutic doses,"ith","of "
+T6	KEYPHRASE-NOTYPES 171 183	methotrexate," of","(MT"
+T7	KEYPHRASE-NOTYPES 185 188	MTX,"te ",", a"
+T8	KEYPHRASE-NOTYPES 211 236	maintenance MTX infusions," by"," Sh"
+T9	KEYPHRASE-NOTYPES 257 275	complete remission,"d a","for"
+T10	KEYPHRASE-NOTYPES 282 287	years,"r 4","on "
+T11	KEYPHRASE-NOTYPES 296 303	regimen,"his"," Si"
+T12	KEYPHRASE-NOTYPES 309 314	years,"Six","bef"
+T13	KEYPHRASE-NOTYPES 322 331	admission,"ore"," th"
+T14	KEYPHRASE-NOTYPES 337 344	patient,"the","had"
+T15	KEYPHRASE-NOTYPES 363 373	recurrence,"d a","of "
+T16	KEYPHRASE-NOTYPES 381 393	CNS lymphoma,"her"," ma"
+T17	KEYPHRASE-NOTYPES 409 426	cognitive changes," by","and"
+T18	KEYPHRASE-NOTYPES 446 465	radiologic evidence," by","of "
+T19	KEYPHRASE-NOTYPES 469 480	new lesions," of","on "
+T20	KEYPHRASE-NOTYPES 486 495	brain MRI,"n a","sca"
+T21	KEYPHRASE-NOTYPES 515 522	therapy,"med","wit"
+T22	KEYPHRASE-NOTYPES 528 531	MTX,"ith"," wh"
+T23	KEYPHRASE-NOTYPES 586 603	new brain lesions,"ped","tha"
+T24	KEYPHRASE-NOTYPES 631 642	combination,"the","of "
+T25	KEYPHRASE-NOTYPES 646 659	high-dose MTX," of"," ri"
+T26	KEYPHRASE-NOTYPES 661 670	rituximab,"TX,"," an"
+T27	KEYPHRASE-NOTYPES 676 688	temozolomide,"and"," Th"
+T28	KEYPHRASE-NOTYPES 695 702	regimen,"his","ind"
+T29	KEYPHRASE-NOTYPES 719 737	complete remission,"her"," bu"
+T30	KEYPHRASE-NOTYPES 761 777	third recurrence,"d a","in "
+T31	KEYPHRASE-NOTYPES 796 800	time,"ich","she"
+T32	KEYPHRASE-NOTYPES 822 848	myeloablative chemotherapy,"ith","con"
+T33	KEYPHRASE-NOTYPES 863 873	cytarabine," of","(Ar"
+T34	KEYPHRASE-NOTYPES 875 880	Ara-C,"ne ","/et"
+T35	KEYPHRASE-NOTYPES 882 891	etoposide,"-C)","(VP"
+T36	KEYPHRASE-NOTYPES 893 898	VP-16,"de ",", f"
+T37	KEYPHRASE-NOTYPES 913 942	autologous bone marrow rescue," by"," Fo"
+T38	KEYPHRASE-NOTYPES 958 980	bone marrow transplant,"her"," sh"
+T39	KEYPHRASE-NOTYPES 1002 1011	remission," in","unt"
+T40	KEYPHRASE-NOTYPES 1022 1026	time,"the","of "
+T41	KEYPHRASE-NOTYPES 1034 1054	current presentation,"the"," As"
+T42	KEYPHRASE-NOTYPES 1071 1088	oncologic history,"her"," th"
+T43	KEYPHRASE-NOTYPES 1094 1125	past medical history,"the","of "
+T44	KEYPHRASE-NOTYPES 1129 1133	note," of","was"
+T45	KEYPHRASE-NOTYPES 1140 1166	caesarean section delivery,"s a","per"
+T46	KEYPHRASE-NOTYPES 1206 1218	hysterectomy,"y a","for"
+T47	KEYPHRASE-NOTYPES 1223 1238	placenta previa,"for",""

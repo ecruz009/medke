@@ -1,16 +1,51 @@
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	recent year
-T0	PROCESS 0 1	infection rate
-T0	PROCESS 0 1	small mammal
-T0	PROCESS 0 1	field mouse
-T0	PROCESS 0 1	european case
-T0	PROCESS 0 1	new forest
-T0	PROCESS 0 1	south down
-T0	PROCESS 0 1	thetford forest
-T0	PROCESS 0 1	east anglia
-T0	PROCESS 0 1	lake district
-T0	PROCESS 0 1	yorkshire moor
-T0	PROCESS 0 1	scottish highland
-T0	PROCESS 0 1	eastern europe
-T0	PROCESS 0 1	north west
-T0	PROCESS 0 1	chiltern hill
+T0	KEYPHRASE-NOTYPES 0 5	Cases,"","of "
+T1	KEYPHRASE-NOTYPES 9 21	Lyme disease," of","hav"
+T2	KEYPHRASE-NOTYPES 53 65	recent years,"ver"," as"
+T3	KEYPHRASE-NOTYPES 75 84	diagnoses,"ave","in "
+T4	KEYPHRASE-NOTYPES 88 99	combination," in","wit"
+T5	KEYPHRASE-NOTYPES 105 109	Bell,"ith","s p"
+T6	KEYPHRASE-NOTYPES 112 117	palsy,"l’s","(Ta"
+T7	KEYPHRASE-NOTYPES 119 124	Table,"sy ","1)."
+T8	KEYPHRASE-NOTYPES 155 167	surveillance,"ter"," in"
+T9	KEYPHRASE-NOTYPES 179 188	awareness,"sed","of "
+T10	KEYPHRASE-NOTYPES 196 203	disease,"the"," or"
+T11	KEYPHRASE-NOTYPES 219 234	infection rates,"ing","cau"
+T12	KEYPHRASE-NOTYPES 245 251	travel," by","to "
+T13	KEYPHRASE-NOTYPES 255 268	endemic areas," to"," [1"
+T14	KEYPHRASE-NOTYPES 287 299	Lyme disease,"ly,","is "
+T15	KEYPHRASE-NOTYPES 319 324	areas,"ith","of "
+T16	KEYPHRASE-NOTYPES 328 336	woodland," of"," pa"
+T17	KEYPHRASE-NOTYPES 338 345	pasture,"nd,"," an"
+T18	KEYPHRASE-NOTYPES 351 356	heath,"and"," wh"
+T19	KEYPHRASE-NOTYPES 370 394	parasitise small mammals,"cks","suc"
+T20	KEYPHRASE-NOTYPES 403 413	field mice," as","and"
+T21	KEYPHRASE-NOTYPES 418 423	voles,"and"," an"
+T22	KEYPHRASE-NOTYPES 436 443	animals,"ger","suc"
+T23	KEYPHRASE-NOTYPES 452 457	sheep," as"," de"
+T24	KEYPHRASE-NOTYPES 459 463	deer,"ep,"," an"
+T25	KEYPHRASE-NOTYPES 469 475	horses,"and"," [3"
+T26	KEYPHRASE-NOTYPES 485 493	majority,"The","of "
+T27	KEYPHRASE-NOTYPES 497 511	European cases," of","are"
+T28	KEYPHRASE-NOTYPES 527 529	UK,"the"," in"
+T29	KEYPHRASE-NOTYPES 541 555	forested areas,"ing","suc"
+T30	KEYPHRASE-NOTYPES 568 578	New Forest,"the"," Ex"
+T31	KEYPHRASE-NOTYPES 580 586	Exmoor,"st,"," th"
+T32	KEYPHRASE-NOTYPES 592 603	South Downs,"the"," Th"
+T33	KEYPHRASE-NOTYPES 605 620	Thetford Forest,"ns,","in "
+T34	KEYPHRASE-NOTYPES 624 635	East Anglia," in"," th"
+T35	KEYPHRASE-NOTYPES 641 654	Lake District,"the"," th"
+T36	KEYPHRASE-NOTYPES 660 675	Yorkshire Moors,"the"," an"
+T37	KEYPHRASE-NOTYPES 685 703	Scottish Highlands,"the"," al"
+T38	KEYPHRASE-NOTYPES 729 734	cases,"lso","in "
+T39	KEYPHRASE-NOTYPES 742 750	Dordogne,"the","and"
+T40	KEYPHRASE-NOTYPES 755 769	Eastern Europe,"and"," [1"
+T41	KEYPHRASE-NOTYPES 779 783	maps,"The","pro"
+T42	KEYPHRASE-NOTYPES 796 803	Figures," in","2–4"
+T43	KEYPHRASE-NOTYPES 808 815	support,"2–4","thi"
+T44	KEYPHRASE-NOTYPES 821 828	finding,"his","and"
+T45	KEYPHRASE-NOTYPES 850 857	example,"for"," on"
+T46	KEYPHRASE-NOTYPES 878 883	areas,"est","in "
+T47	KEYPHRASE-NOTYPES 887 894	England," in","was"
+T48	KEYPHRASE-NOTYPES 912 922	north west,"the","of "
+T49	KEYPHRASE-NOTYPES 926 932	London," of","in "
+T50	KEYPHRASE-NOTYPES 940 954	Chiltern Hills,"the","."

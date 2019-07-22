@@ -1,36 +1,78 @@
-T0	PROCESS 0 1	different protein
-T0	PROCESS 0 1	host plasminogen
-T0	PROCESS 0 1	spirochetal surface
-T0	PROCESS 0 1	efficient dissemination
-T0	PROCESS 0 1	certain tissue
-T0	PROCESS 0 1	active plasmin
-T0	PROCESS 0 1	proteolytic activation
-T0	PROCESS 0 1	tissue-type plasminogen activator
-T0	PROCESS 0 1	urokinase-type plasminogen activator urokinase
-T0	PROCESS 0 1	intravascular fibrinolysis
-T0	PROCESS 0 1	pathological process
-T0	PROCESS 0 1	tissue remodeling
-T0	PROCESS 0 1	cell migration
-T0	PROCESS 0 1	cancer progression
-T0	PROCESS 0 1	invasive form
-T0	PROCESS 0 1	express multiple plasminogen-binding surface
-T0	PROCESS 0 1	likely assist pathogen dissemination
-T0	PROCESS 0 1	host tissue
-T0	PROCESS 0 1	integral enzyme
-T0	PROCESS 0 1	gluconeogenesis pathway
-T0	PROCESS 0 1	multifunctional protein
-T0	PROCESS 0 1	eukaryotic cell
-T0	PROCESS 0 1	surface enolase
-T0	PROCESS 0 1	plasminogen receptor
-T0	PROCESS 0 1	certain tumor cell
-T0	PROCESS 0 1	cell surface
-T0	PROCESS 0 1	different microorganism
-T0	PROCESS 0 1	surface-localized enolase
-T0	PROCESS 0 1	spirochetal survival
-T0	PROCESS 0 1	decreased spirochetemia
-T0	PROCESS 0 1	plasminogen-deficient mouse
-T0	PROCESS 0 1	surface-associated plasmin
-T0	PROCESS 0 1	burgdorferi degrade fibronectin
-T0	PROCESS 0 1	important component
-T0	PROCESS 0 1	host matrix
-T0	PROCESS 0 1	basement membrane
+T0	KEYPHRASE-NOTYPES 4 14	expression,"The","of "
+T1	KEYPHRASE-NOTYPES 18 36	different proteins," of"," in"
+T2	KEYPHRASE-NOTYPES 48 52	OspC,"ing"," Er"
+T3	KEYPHRASE-NOTYPES 54 58	ErpP,"pC,"," Er"
+T4	KEYPHRASE-NOTYPES 60 64	ErpA,"pP,"," Er"
+T5	KEYPHRASE-NOTYPES 66 70	ErpC,"pA,"," an"
+T6	KEYPHRASE-NOTYPES 76 83	enolase,"and","is "
+T7	KEYPHRASE-NOTYPES 118 134	host plasminogen,"ize","on "
+T8	KEYPHRASE-NOTYPES 138 157	spirochetal surface," on"," fa"
+T9	KEYPHRASE-NOTYPES 172 195	efficient dissemination,"ing","(11"
+T10	KEYPHRASE-NOTYPES 207 218	Plasminogen,"8).","is "
+T11	KEYPHRASE-NOTYPES 224 236	glycoprotein,"s a","pro"
+T12	KEYPHRASE-NOTYPES 253 258	liver,"the","and"
+T13	KEYPHRASE-NOTYPES 279 285	plasma,"the","and"
+T14	KEYPHRASE-NOTYPES 293 308	certain tissues," in","(11"
+T15	KEYPHRASE-NOTYPES 316 326	Conversion,"9).","of "
+T16	KEYPHRASE-NOTYPES 330 341	plasminogen," of","to "
+T17	KEYPHRASE-NOTYPES 345 359	active plasmin," to","is "
+T18	KEYPHRASE-NOTYPES 375 397	proteolytic activation," by","ind"
+T19	KEYPHRASE-NOTYPES 416 449	tissue-type plasminogen activator,"her","(tP"
+T20	KEYPHRASE-NOTYPES 451 454	tPA,"or "," an"
+T21	KEYPHRASE-NOTYPES 463 509	urokinase-type plasminogen activator urokinase,"/or","(uP"
+T22	KEYPHRASE-NOTYPES 511 514	uPA,"se ",". P"
+T23	KEYPHRASE-NOTYPES 517 524	Plasmin,"A).","is "
+T24	KEYPHRASE-NOTYPES 544 570	intravascular fibrinolysis,"for","and"
+T25	KEYPHRASE-NOTYPES 617 639	pathological processes,"and"," in"
+T26	KEYPHRASE-NOTYPES 651 668	tissue remodeling,"ing"," ce"
+T27	KEYPHRASE-NOTYPES 670 684	cell migration,"ng,"," th"
+T28	KEYPHRASE-NOTYPES 686 698	thrombolysis,"on,"," wo"
+T29	KEYPHRASE-NOTYPES 700 713	wound healing,"is,"," an"
+T30	KEYPHRASE-NOTYPES 719 737	cancer progression,"and","(12"
+T31	KEYPHRASE-NOTYPES 750 764	Invasive forms,"1).","of "
+T32	KEYPHRASE-NOTYPES 768 769	B," of"," bu"
+T33	KEYPHRASE-NOTYPES 806 851	multiple plasminogen-binding surface proteins,"ses","tha"
+T34	KEYPHRASE-NOTYPES 871 893	pathogen dissemination,"ist","thr"
+T35	KEYPHRASE-NOTYPES 902 914	host tissues,"ugh","(12"
+T36	KEYPHRASE-NOTYPES 927 934	Enolase,"2).","is "
+T37	KEYPHRASE-NOTYPES 941 956	integral enzyme," an","of "
+T38	KEYPHRASE-NOTYPES 964 974	glycolysis,"the","and"
+T39	KEYPHRASE-NOTYPES 979 1003	gluconeogenesis pathways,"and"," an"
+T40	KEYPHRASE-NOTYPES 1011 1034	multifunctional protein,"d a","fou"
+T41	KEYPHRASE-NOTYPES 1049 1059	prokaryote,"oth","and"
+T42	KEYPHRASE-NOTYPES 1064 1074	eukaryotes,"and","(12"
+T43	KEYPHRASE-NOTYPES 1085 1101	eukaryotic cells," In"," su"
+T44	KEYPHRASE-NOTYPES 1103 1118	surface enolase,"ls,","act"
+T45	KEYPHRASE-NOTYPES 1129 1149	plasminogen receptor,"s a","in "
+T46	KEYPHRASE-NOTYPES 1153 1172	certain tumor cells," in","(12"
+T47	KEYPHRASE-NOTYPES 1201 1207	enzyme,"his","is "
+T48	KEYPHRASE-NOTYPES 1233 1245	cell surface,"the","of "
+T49	KEYPHRASE-NOTYPES 1249 1273	different microorganisms," of","inc"
+T50	KEYPHRASE-NOTYPES 1284 1285	B,"ing"," bu"
+T51	KEYPHRASE-NOTYPES 1319 1344	surface-localized enolase,"The","act"
+T52	KEYPHRASE-NOTYPES 1355 1375	plasminogen receptor,"s a","con"
+T53	KEYPHRASE-NOTYPES 1392 1412	spirochetal survival," to","in "
+T54	KEYPHRASE-NOTYPES 1424 1429	ticks,"ing","(11"
+T55	KEYPHRASE-NOTYPES 1462 1471	infection,"for"," pl"
+T56	KEYPHRASE-NOTYPES 1473 1484	plasminogen,"on,","is "
+T57	KEYPHRASE-NOTYPES 1501 1514	dissemination,"for","in "
+T58	KEYPHRASE-NOTYPES 1518 1523	ticks," in"," an"
+T59	KEYPHRASE-NOTYPES 1533 1540	absence,"its","is "
+T60	KEYPHRASE-NOTYPES 1572 1585	spirochetemia,"sed","in "
+T61	KEYPHRASE-NOTYPES 1589 1615	plasminogen-deficient mice," in","(12"
+T62	KEYPHRASE-NOTYPES 1623 1649	Surface-associated plasmin,"8).","on "
+T63	KEYPHRASE-NOTYPES 1653 1654	B," on"," bu"
+T64	KEYPHRASE-NOTYPES 1676 1687	fibronectin,"ade"," wh"
+T65	KEYPHRASE-NOTYPES 1701 1720	important component," an","of "
+T66	KEYPHRASE-NOTYPES 1728 1731	ECM,"the"," la"
+T67	KEYPHRASE-NOTYPES 1733 1740	laminin,"CM,","and"
+T68	KEYPHRASE-NOTYPES 1745 1756	vitronectin,"and","(12"
+T69	KEYPHRASE-NOTYPES 1769 1770	B,"0)."," bu"
+T70	KEYPHRASE-NOTYPES 1801 1808	release,"the","of "
+T71	KEYPHRASE-NOTYPES 1812 1840	host matrix metalloproteases," of","9 ("
+T72	KEYPHRASE-NOTYPES 1844 1849	MMP-9," 9 "," an"
+T73	KEYPHRASE-NOTYPES 1855 1860	MMP-1,"and"," an"
+T74	KEYPHRASE-NOTYPES 1866 1882	plasmin-coated B,"and"," bu"
+T75	KEYPHRASE-NOTYPES 1906 1915	pro-MMP-9,"tes"," le"
+T76	KEYPHRASE-NOTYPES 1928 1939	degradation," to","of "
+T77	KEYPHRASE-NOTYPES 1943 1961	basement membranes," of","(13"

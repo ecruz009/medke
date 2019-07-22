@@ -1,24 +1,66 @@
-T0	PROCESS 0 1	atcc b31
-T0	PROCESS 0 1	log phase
-T0	PROCESS 0 1	bsk-h medium
-T0	PROCESS 0 1	lyme antigen source
-T0	PROCESS 0 1	polyacrylamide gel
-T0	PROCESS 0 1	discontinuous buffer system
-T0	PROCESS 0 1	separated protein
-T0	PROCESS 0 1	nova blot semidry transfer system
-T0	PROCESS 0 1	nitrocellulose membrane
-T0	PROCESS 0 1	overnight incubation
-T0	PROCESS 0 1	bovine serum albumin
-T0	PROCESS 0 1	next cut
-T0	PROCESS 0 1	igm antibody
-T0	PROCESS 0 1	burgdorferi antigen
-T0	PROCESS 0 1	test serum
-T0	PROCESS 0 1	nonfat milk
-T0	PROCESS 0 1	room temperature
-T0	PROCESS 0 1	goat anti-human igg chain specific
-T0	PROCESS 0 1	igm chain
-T0	PROCESS 0 1	1-h incubation
-T0	PROCESS 0 1	peroxidase-conjugated streptavidin
-T0	PROCESS 0 1	substrate solution
-T0	PROCESS 0 1	final wash
-T0	PROCESS 0 1	distilled water
+T0	KEYPHRASE-NOTYPES 0 1	B,""," bu"
+T1	KEYPHRASE-NOTYPES 16 24	ATCC B31,"ri ",", g"
+T2	KEYPHRASE-NOTYPES 36 50	late log phase," to","at "
+T3	KEYPHRASE-NOTYPES 54 58	338C," at","in "
+T4	KEYPHRASE-NOTYPES 62 74	BSK-H medium," in","(Si"
+T5	KEYPHRASE-NOTYPES 76 81	Sigma,"um "," St"
+T6	KEYPHRASE-NOTYPES 83 85	St,"ma,"," Lo"
+T7	KEYPHRASE-NOTYPES 87 92	Louis,"St."," Mo"
+T8	KEYPHRASE-NOTYPES 94 96	Mo,"is,","), "
+T9	KEYPHRASE-NOTYPES 114 133	Lyme antigen source,"s a"," Sp"
+T10	KEYPHRASE-NOTYPES 135 146	Spirochetes,"ce.","wer"
+T11	KEYPHRASE-NOTYPES 175 194	polyacrylamide gels,"10%","by "
+T12	KEYPHRASE-NOTYPES 208 235	discontinuous buffer system,"the","of "
+T13	KEYPHRASE-NOTYPES 239 246	Laemmli," of","and"
+T14	KEYPHRASE-NOTYPES 251 256	Fayre,"and","(12"
+T15	KEYPHRASE-NOTYPES 273 281	proteins,"ted","wer"
+T16	KEYPHRASE-NOTYPES 302 316	nitrocellulose," to","by "
+T17	KEYPHRASE-NOTYPES 320 325	means," by","of "
+T18	KEYPHRASE-NOTYPES 331 364	Nova blot semidry transfer system,"f a","(Ph"
+T19	KEYPHRASE-NOTYPES 366 375	Pharmacia,"em "," Pi"
+T20	KEYPHRASE-NOTYPES 377 387	Piscataway,"ia,"," N."
+T21	KEYPHRASE-NOTYPES 389 393	N.J.,"ay,",". F"
+T22	KEYPHRASE-NOTYPES 406 414	transfer,"ing"," th"
+T23	KEYPHRASE-NOTYPES 420 444	nitrocellulose membranes,"the","wer"
+T24	KEYPHRASE-NOTYPES 461 481	overnight incubation," by","at "
+T25	KEYPHRASE-NOTYPES 485 488	48C," at","wit"
+T26	KEYPHRASE-NOTYPES 499 519	bovine serum albumin,".5%","in "
+T27	KEYPHRASE-NOTYPES 523 526	PBS," in"," Me"
+T28	KEYPHRASE-NOTYPES 528 537	Membranes,"BS.","wer"
+T29	KEYPHRASE-NOTYPES 543 551	next cut,"ere","int"
+T30	KEYPHRASE-NOTYPES 557 563	strips,"nto"," dr"
+T31	KEYPHRASE-NOTYPES 608 613	nSera,"ed.","wer"
+T32	KEYPHRASE-NOTYPES 630 633	IgG,"for","and"
+T33	KEYPHRASE-NOTYPES 638 652	IgM antibodies,"and","to "
+T34	KEYPHRASE-NOTYPES 656 657	B," to"," bu"
+T35	KEYPHRASE-NOTYPES 671 679	antigens,"eri","by "
+T36	KEYPHRASE-NOTYPES 694 711	rehydrated strips,"ing","wit"
+T37	KEYPHRASE-NOTYPES 725 733	dilution,"100","of "
+T38	KEYPHRASE-NOTYPES 737 747	test serum," of","in "
+T39	KEYPHRASE-NOTYPES 754 765	nonfat milk," 1%","con"
+T40	KEYPHRASE-NOTYPES 777 780	PBS,"ing","for"
+T41	KEYPHRASE-NOTYPES 787 788	h,"r 1","at "
+T42	KEYPHRASE-NOTYPES 792 808	room temperature," at"," Th"
+T43	KEYPHRASE-NOTYPES 814 820	strips,"The","wer"
+T44	KEYPHRASE-NOTYPES 844 849	times,"ree","and"
+T45	KEYPHRASE-NOTYPES 864 872	dilution,"000","of "
+T46	KEYPHRASE-NOTYPES 889 898	antiserum,"ted","(go"
+T47	KEYPHRASE-NOTYPES 900 927	goat anti-human IgG γ chain,"um ","spe"
+T48	KEYPHRASE-NOTYPES 940 951	IgM chain," or","spe"
+T49	KEYPHRASE-NOTYPES 978 992	1-h incubation,"r a"," in"
+T50	KEYPHRASE-NOTYPES 994 1004	incubation,"on;","was"
+T51	KEYPHRASE-NOTYPES 1027 1033	washes,"ree"," Pe"
+T52	KEYPHRASE-NOTYPES 1035 1069	Peroxidase-conjugated streptavidin,"es.","(di"
+T53	KEYPHRASE-NOTYPES 1112 1119	mixture,"the","was"
+T54	KEYPHRASE-NOTYPES 1150 1151	h,"r 1","at "
+T55	KEYPHRASE-NOTYPES 1155 1171	room temperature," at"," Th"
+T56	KEYPHRASE-NOTYPES 1177 1183	strips,"The","wer"
+T57	KEYPHRASE-NOTYPES 1217 1219	ml,"d 2","of "
+T58	KEYPHRASE-NOTYPES 1223 1241	substrate solution," of","(4-"
+T59	KEYPHRASE-NOTYPES 1243 1262	4-chloro-1-naphthol,"on "," wa"
+T60	KEYPHRASE-NOTYPES 1283 1293	final wash,"r a","in "
+T61	KEYPHRASE-NOTYPES 1297 1312	distilled water," in"," th"
+T62	KEYPHRASE-NOTYPES 1318 1324	strips,"the","wer"
+T63	KEYPHRASE-NOTYPES 1354 1364	reactivity,"for","by "
+T64	KEYPHRASE-NOTYPES 1368 1378	comparison," by","wit"
+T65	KEYPHRASE-NOTYPES 1384 1392	controls,"ith",""

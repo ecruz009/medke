@@ -1,29 +1,52 @@
-T0	PROCESS 0 1	unique linkage number
-T0	PROCESS 0 1	index ed visit
-T0	PROCESS 0 1	ed encounter
-T0	PROCESS 0 1	primary outcome
-T0	PROCESS 0 1	serious ed
-T0	PROCESS 0 1	inpatient discharge diagnosis
-T0	PROCESS 0 1	icd-9 code
-T0	PROCESS 0 1	index ed bell
-T0	PROCESS 0 1	palsy diagnosis
-T0	PROCESS 0 1	ischemic stroke
-T0	PROCESS 0 1	acute ischemic stroke11
-T0	PROCESS 0 1	intracranial hemorrhage
-T0	PROCESS 0 1	subarachnoid hemorrhage
-T0	PROCESS 0 1	brain tumor
-T0	PROCESS 0 1	central nervous system infection
-T0	PROCESS 0 1	brain abscess
-T0	PROCESS 0 1	guillain-barré syndrome
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	otitis medium
-T0	PROCESS 0 1	herpes zoster
-T0	PROCESS 0 1	important disease entity
-T0	PROCESS 0 1	similar fashion
-T0	PROCESS 0 1	common mimic
-T0	PROCESS 0 1	diabetic neuropathy
-T0	PROCESS 0 1	clinical significance
-T0	PROCESS 0 1	patient outcome
-T0	PROCESS 0 1	delayed diagnosis
-T0	PROCESS 0 1	separate outcome
-T0	PROCESS 0 1	outcome diagnosis
+T0	KEYPHRASE-NOTYPES 4 25	unique linkage number,"The","was"
+T1	KEYPHRASE-NOTYPES 38 51	link subjects," to","fro"
+T2	KEYPHRASE-NOTYPES 61 66	index,"the","ED "
+T3	KEYPHRASE-NOTYPES 70 75	visit," ED","to "
+T4	KEYPHRASE-NOTYPES 79 103	subsequent ED encounters," to","or "
+T5	KEYPHRASE-NOTYPES 107 123	hospitalizations," or","wit"
+T6	KEYPHRASE-NOTYPES 134 138	days," 90"," Ou"
+T7	KEYPHRASE-NOTYPES 144 159	primary outcome,"Our","was"
+T8	KEYPHRASE-NOTYPES 166 175	composite,"s a","of "
+T9	KEYPHRASE-NOTYPES 193 203	serious ED,"ing","or "
+T10	KEYPHRASE-NOTYPES 207 236	inpatient discharge diagnoses," or","(by"
+T11	KEYPHRASE-NOTYPES 241 252	ICD-9 code,"(by"," wi"
+T12	KEYPHRASE-NOTYPES 264 268	days," 90","of "
+T13	KEYPHRASE-NOTYPES 276 281	index,"the","ED "
+T14	KEYPHRASE-NOTYPES 285 307	Bell palsy diagnosis," ED"," is"
+T15	KEYPHRASE-NOTYPES 309 324	ischemic stroke,"is:","(43"
+T16	KEYPHRASE-NOTYPES 330 332	01,"433"," 43"
+T17	KEYPHRASE-NOTYPES 378 380	01,"434"," 43"
+T18	KEYPHRASE-NOTYPES 425 434	algorithm," an","pre"
+T19	KEYPHRASE-NOTYPES 472 495	acute ischemic stroke11,"ing",", i"
+T20	KEYPHRASE-NOTYPES 498 521	intracranial hemorrhage,"1),","(43"
+T21	KEYPHRASE-NOTYPES 532 555	subarachnoid hemorrhage," or","(43"
+T22	KEYPHRASE-NOTYPES 563 574	brain tumor,"0);","(19"
+T23	KEYPHRASE-NOTYPES 582 614	central nervous system infection,"1);"," in"
+T24	KEYPHRASE-NOTYPES 626 636	meningitis,"ing"," en"
+T25	KEYPHRASE-NOTYPES 638 650	encephalitis,"is,"," an"
+T26	KEYPHRASE-NOTYPES 656 669	brain abscess,"and","(32"
+T27	KEYPHRASE-NOTYPES 681 684	HIV,"6);","(04"
+T28	KEYPHRASE-NOTYPES 692 715	Guillain-Barré syndrome,"2);","(35"
+T29	KEYPHRASE-NOTYPES 725 737	Lyme disease,"0);","(08"
+T30	KEYPHRASE-NOTYPES 748 760	otitis media,"1);","or "
+T31	KEYPHRASE-NOTYPES 764 775	mastoiditis," or","(38"
+T32	KEYPHRASE-NOTYPES 790 803	herpes zoster," or","(05"
+T33	KEYPHRASE-NOTYPES 817 826	diagnoses,"ese","wer"
+T34	KEYPHRASE-NOTYPES 885 911	important disease entities,"lly","tha"
+T35	KEYPHRASE-NOTYPES 934 949	similar fashion,"n a","to "
+T36	KEYPHRASE-NOTYPES 953 957	Bell," to","s p"
+T37	KEYPHRASE-NOTYPES 960 965	palsy,"l’s"," We"
+T38	KEYPHRASE-NOTYPES 984 997	common mimics,"ome","fro"
+T39	KEYPHRASE-NOTYPES 1007 1015	outcomes,"our","(eg"
+T40	KEYPHRASE-NOTYPES 1021 1040	diabetic neuropathy,"eg,"," sa"
+T41	KEYPHRASE-NOTYPES 1042 1053	sarcoidosis,"hy,"," be"
+T42	KEYPHRASE-NOTYPES 1109 1113	Bell,"ith","s p"
+T43	KEYPHRASE-NOTYPES 1116 1121	palsy,"l’s"," th"
+T44	KEYPHRASE-NOTYPES 1127 1148	clinical significance,"the","of "
+T45	KEYPHRASE-NOTYPES 1152 1164	misdiagnosis," of","is "
+T46	KEYPHRASE-NOTYPES 1180 1196	patient outcomes,"and","wou"
+T47	KEYPHRASE-NOTYPES 1252 1261	diagnosis,"yed"," Ad"
+T48	KEYPHRASE-NOTYPES 1289 1298	mortality,"ded","as "
+T49	KEYPHRASE-NOTYPES 1304 1320	separate outcome,"s a","bec"
+T50	KEYPHRASE-NOTYPES 1333 1338	death,"any","rel"
+T51	KEYPHRASE-NOTYPES 1361 1378	outcome diagnoses,"the","wou"

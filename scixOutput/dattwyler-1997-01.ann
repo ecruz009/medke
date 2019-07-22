@@ -1,16 +1,37 @@
-T0	PROCESS 0 1	erythema migrans
-T0	PROCESS 0 1	oral doxycycline
-T0	PROCESS 0 1	local infection
-T0	PROCESS 0 1	excellent response
-T0	PROCESS 0 1	oral antibiotic
-T0	PROCESS 0 1	early disease
-T0	PROCESS 0 1	favorable outcome
-T0	PROCESS 0 1	insufficient activity
-T0	PROCESS 0 1	central nervous system
-T0	PROCESS 0 1	reach high level
-T0	PROCESS 0 1	cerebrospinal fluid
-T0	PROCESS 0 1	synovial fluid
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	parenteral ceftriaxone
-T0	PROCESS 0 1	standard oral therapy
-T0	PROCESS 0 1	burgdorferi infection
+T0	KEYPHRASE-NOTYPES 0 9	Treatment,"","for"
+T1	KEYPHRASE-NOTYPES 14 22	patients,"for","wit"
+T2	KEYPHRASE-NOTYPES 28 44	erythema migrans,"ith","typ"
+T3	KEYPHRASE-NOTYPES 64 80	oral doxycycline,"ves","or "
+T4	KEYPHRASE-NOTYPES 84 95	amoxicillin," or"," [5"
+T5	KEYPHRASE-NOTYPES 112 120	patients,"ost","tre"
+T6	KEYPHRASE-NOTYPES 150 156	agents,"ese","for"
+T7	KEYPHRASE-NOTYPES 161 176	local infection,"for","hav"
+T8	KEYPHRASE-NOTYPES 185 203	excellent response," an"," Ho"
+T9	KEYPHRASE-NOTYPES 222 230	patients,"all","giv"
+T10	KEYPHRASE-NOTYPES 237 253	oral antibiotics,"ven","for"
+T11	KEYPHRASE-NOTYPES 258 271	early disease,"for","hav"
+T12	KEYPHRASE-NOTYPES 279 296	favorable outcome,"e a"," [8"
+T13	KEYPHRASE-NOTYPES 324 329	drugs,"the","hav"
+T14	KEYPHRASE-NOTYPES 335 356	insufficient activity,"ave","aga"
+T15	KEYPHRASE-NOTYPES 365 373	borrelia,"nst","in "
+T16	KEYPHRASE-NOTYPES 381 403	central nervous system,"the"," [1"
+T17	KEYPHRASE-NOTYPES 410 421	Ceftriaxone,"10]","is "
+T18	KEYPHRASE-NOTYPES 447 448	B,"nst"," bu"
+T19	KEYPHRASE-NOTYPES 474 485	high levels,"hes","in "
+T20	KEYPHRASE-NOTYPES 493 512	cerebrospinal fluid,"the","and"
+T21	KEYPHRASE-NOTYPES 517 531	synovial fluid,"and"," [1"
+T22	KEYPHRASE-NOTYPES 541 550	Treatment,"11]","wit"
+T23	KEYPHRASE-NOTYPES 556 567	ceftriaxone,"ith","is "
+T24	KEYPHRASE-NOTYPES 603 615	Lyme disease,"ted"," in"
+T25	KEYPHRASE-NOTYPES 646 662	neuroborreliosis," by"," ca"
+T26	KEYPHRASE-NOTYPES 664 672	carditis,"is,"," an"
+T27	KEYPHRASE-NOTYPES 678 688	meningitis,"and"," [1"
+T28	KEYPHRASE-NOTYPES 713 718	study,"d a","to "
+T29	KEYPHRASE-NOTYPES 734 747	effectiveness,"the","and"
+T30	KEYPHRASE-NOTYPES 752 764	tolerability,"and","of "
+T31	KEYPHRASE-NOTYPES 768 790	parenteral ceftriaxone," of","and"
+T32	KEYPHRASE-NOTYPES 795 816	standard oral therapy,"and","in "
+T33	KEYPHRASE-NOTYPES 820 828	patients," in","wit"
+T34	KEYPHRASE-NOTYPES 853 854	B,"ted"," bu"
+T35	KEYPHRASE-NOTYPES 868 877	infection,"eri","but"
+T36	KEYPHRASE-NOTYPES 890 900	meningitis,"out",""

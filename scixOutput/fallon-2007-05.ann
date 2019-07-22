@@ -1,22 +1,46 @@
-T0	PROCESS 0 1	primary efficacy end point
-T0	PROCESS 0 1	iv ceftriaxone treatment
-T0	PROCESS 0 1	physical functioning
-T0	PROCESS 0 1	clinical significance
-T0	PROCESS 0 1	long-term effect
-T0	PROCESS 0 1	long-term benefit
-T0	PROCESS 0 1	ceftriaxone group
-T0	PROCESS 0 1	affected patient
-T0	PROCESS 0 1	troubling aspect
-T0	PROCESS 0 1	posttreatment lyme disease
-T0	PROCESS 0 1	primary interest
-T0	PROCESS 0 1	adverse effect
-T0	PROCESS 0 1	iv ceftriaxone
-T0	PROCESS 0 1	limited duration
-T0	PROCESS 0 1	cognitive improvement
-T0	PROCESS 0 1	effective strategy
-T0	PROCESS 0 1	sustained cognitive improvement
-T0	PROCESS 0 1	certain subgroup
-T0	PROCESS 0 1	neurologic abnormality
-T0	PROCESS 0 1	predictor analysis
-T0	PROCESS 0 1	independent confirmation
-T0	PROCESS 0 1	treatment strategy
+T0	KEYPHRASE-NOTYPES 0 11	Conclusions,"","fro"
+T1	KEYPHRASE-NOTYPES 22 27	study,"his","are"
+T2	KEYPHRASE-NOTYPES 46 72	primary efficacy end point,"the","of "
+T3	KEYPHRASE-NOTYPES 76 80	week," of","12,"
+T4	KEYPHRASE-NOTYPES 88 109	ceftriaxone treatment," IV","res"
+T5	KEYPHRASE-NOTYPES 130 141	improvement,"ter","in "
+T6	KEYPHRASE-NOTYPES 145 154	cognition," in","and"
+T7	KEYPHRASE-NOTYPES 188 208	physical functioning," in"," pa"
+T8	KEYPHRASE-NOTYPES 210 214	pain,"ng,"," an"
+T9	KEYPHRASE-NOTYPES 220 227	fatigue,"and"," Cl"
+T10	KEYPHRASE-NOTYPES 229 250	Clinical significance,"ue."," ho"
+T11	KEYPHRASE-NOTYPES 272 289	long-term effects," on"," No"
+T12	KEYPHRASE-NOTYPES 308 326	long-term benefits,"the","for"
+T13	KEYPHRASE-NOTYPES 335 352	ceftriaxone group,"the","on "
+T14	KEYPHRASE-NOTYPES 356 376	physical functioning," on","and"
+T15	KEYPHRASE-NOTYPES 381 385	pain,"and","amo"
+T16	KEYPHRASE-NOTYPES 419 427	patients,"ted","at "
+T17	KEYPHRASE-NOTYPES 431 439	baseline," at"," be"
+T18	KEYPHRASE-NOTYPES 474 491	troubling aspects,"ost","of "
+T19	KEYPHRASE-NOTYPES 495 521	posttreatment Lyme disease," of"," [2"
+T20	KEYPHRASE-NOTYPES 541 557	primary interest,"our","in "
+T21	KEYPHRASE-NOTYPES 566 571	study,"his","was"
+T22	KEYPHRASE-NOTYPES 579 588	cognition," on"," fo"
+T23	KEYPHRASE-NOTYPES 604 615	improvement,"the","was"
+T24	KEYPHRASE-NOTYPES 637 641	week," to","24."
+T25	KEYPHRASE-NOTYPES 655 670	adverse effects,"er,","att"
+T26	KEYPHRASE-NOTYPES 688 699	ceftriaxone," IV","occ"
+T27	KEYPHRASE-NOTYPES 719 727	patients," of"," Th"
+T28	KEYPHRASE-NOTYPES 761 777	limited duration,"the","of "
+T29	KEYPHRASE-NOTYPES 781 802	cognitive improvement," of","and"
+T30	KEYPHRASE-NOTYPES 811 816	risks,"the"," 10"
+T31	KEYPHRASE-NOTYPES 821 826	weeks," 10","of "
+T32	KEYPHRASE-NOTYPES 833 844	ceftriaxone," IV","and"
+T33	KEYPHRASE-NOTYPES 857 862	weeks," 14","of "
+T34	KEYPHRASE-NOTYPES 890 908	effective strategy," an","for"
+T35	KEYPHRASE-NOTYPES 913 944	sustained cognitive improvement,"for"," Al"
+T36	KEYPHRASE-NOTYPES 955 972	certain subgroups,"ugh","(pa"
+T37	KEYPHRASE-NOTYPES 974 982	patients,"ps ","wit"
+T38	KEYPHRASE-NOTYPES 1002 1026	neurologic abnormalities," or"," ma"
+T39	KEYPHRASE-NOTYPES 1043 1060	long-term benefit,"nce","fro"
+T40	KEYPHRASE-NOTYPES 1066 1077	ceftriaxone,"rom"," th"
+T41	KEYPHRASE-NOTYPES 1083 1101	predictor analyses,"the","wer"
+T42	KEYPHRASE-NOTYPES 1131 1141	hypothesis,"han","dri"
+T43	KEYPHRASE-NOTYPES 1167 1191	independent confirmation,"ire"," Pe"
+T44	KEYPHRASE-NOTYPES 1201 1218	confirmation,"ing"," tr"
+T45	KEYPHRASE-NOTYPES 1220 1240	treatment strategies,"on,","tha"

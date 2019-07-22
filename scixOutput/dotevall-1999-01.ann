@@ -1,27 +1,40 @@
-T0	PROCESS 0 1	cranial neuropathy
-T0	PROCESS 0 1	frequent objective neurological sign
-T0	PROCESS 0 1	lyme neuroborreliosis
-T0	PROCESS 0 1	early neurological involvement
-T0	PROCESS 0 1	sensu lato
-T0	PROCESS 0 1	cranial nerve
-T0	PROCESS 0 1	facial nerve paresis
-T0	PROCESS 0 1	common manifestation
-T0	PROCESS 0 1	bilateral facial palsy
-T0	PROCESS 0 1	cranial nerve affection
-T0	PROCESS 0 1	previous scandinavian study
-T0	PROCESS 0 1	facial palsy
-T0	PROCESS 0 1	lyme disease-associated facial weakness
-T0	PROCESS 0 1	painful meningoradiculoneuritis
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	peripheral neuropathy
-T0	PROCESS 0 1	csf abnormality
-T0	PROCESS 0 1	lymphocytic pleocytosis
-T0	PROCESS 0 1	increased number
-T0	PROCESS 0 1	plasma cell
-T0	PROCESS 0 1	csf protein concentration
-T0	PROCESS 0 1	blood-csf barrier damage
-T0	PROCESS 0 1	intrathecal ig production
-T0	PROCESS 0 1	csf glial protein marker
-T0	PROCESS 0 1	glial fibrillary acidic protein
-T0	PROCESS 0 1	brain parenchyma
-T0	PROCESS 0 1	early lyme neuroborreliosis
+T0	KEYPHRASE-NOTYPES 0 18	Cranial neuropathy,"","is "
+T1	KEYPHRASE-NOTYPES 31 67	frequent objective neurological sign,"ost","in "
+T2	KEYPHRASE-NOTYPES 71 92	Lyme neuroborreliosis," in","and"
+T3	KEYPHRASE-NOTYPES 126 134	patients," of","wit"
+T4	KEYPHRASE-NOTYPES 140 170	early neurological involvement,"ith","[1]"
+T5	KEYPHRASE-NOTYPES 212 216	lato,"nsu","may"
+T6	KEYPHRASE-NOTYPES 233 247	cranial nerves,"ost"," fa"
+T7	KEYPHRASE-NOTYPES 249 269	facial nerve paresis,"es,","is "
+T8	KEYPHRASE-NOTYPES 282 302	common manifestation,"ost","of "
+T9	KEYPHRASE-NOTYPES 306 315	infection," of"," Un"
+T10	KEYPHRASE-NOTYPES 331 353	bilateral facial palsy," or","has"
+T11	KEYPHRASE-NOTYPES 387 395	patients," of","wit"
+T12	KEYPHRASE-NOTYPES 401 424	cranial nerve affection,"ith","[1,"
+T13	KEYPHRASE-NOTYPES 435 464	previous Scandinavian studies," In","of "
+T14	KEYPHRASE-NOTYPES 468 476	patients," of","wit"
+T15	KEYPHRASE-NOTYPES 482 503	Lyme neuroborreliosis,"ith"," fa"
+T16	KEYPHRASE-NOTYPES 505 517	facial palsy,"is,","was"
+T17	KEYPHRASE-NOTYPES 545 550	cases,"the","[3,"
+T18	KEYPHRASE-NOTYPES 558 597	Lyme disease-associated facial weakness,"4].","is "
+T19	KEYPHRASE-NOTYPES 616 621	onset," in","and"
+T20	KEYPHRASE-NOTYPES 655 686	painful meningoradiculoneuritis," by"," ea"
+T21	KEYPHRASE-NOTYPES 709 733	Garin-Bujadoux-Bannwarth," as","s s"
+T22	KEYPHRASE-NOTYPES 734 744	syndrome,"rth","[1]"
+T23	KEYPHRASE-NOTYPES 750 762	Facial palsy,"1].","in "
+T24	KEYPHRASE-NOTYPES 766 778	Lyme disease," in","has"
+T25	KEYPHRASE-NOTYPES 806 827	peripheral neuropathy,"s a"," al"
+T26	KEYPHRASE-NOTYPES 843 851	patients,"ost","hav"
+T27	KEYPHRASE-NOTYPES 857 874	CSF abnormalities,"ave","wit"
+T28	KEYPHRASE-NOTYPES 880 903	lymphocytic pleocytosis,"ith","and"
+T29	KEYPHRASE-NOTYPES 921 927	number,"sed","of "
+T30	KEYPHRASE-NOTYPES 931 943	plasma cells," of"," in"
+T31	KEYPHRASE-NOTYPES 955 981	CSF protein concentrations,"sed","ind"
+T32	KEYPHRASE-NOTYPES 993 1017	blood-CSF barrier damage,"ing"," in"
+T33	KEYPHRASE-NOTYPES 1019 1044	intrathecal Ig production,"ge,"," an"
+T34	KEYPHRASE-NOTYPES 1060 1066	levels,"sed","of "
+T35	KEYPHRASE-NOTYPES 1072 1096	CSF glial protein marker,"f a","(gl"
+T36	KEYPHRASE-NOTYPES 1098 1129	glial fibrillary acidic protein,"er ","  ["
+T37	KEYPHRASE-NOTYPES 1143 1151	findings,"ese","imp"
+T38	KEYPHRASE-NOTYPES 1167 1183	brain parenchyma,"the","is "
+T39	KEYPHRASE-NOTYPES 1217 1244	early Lyme neuroborreliosis," in"," "

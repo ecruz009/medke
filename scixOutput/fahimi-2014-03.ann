@@ -1,14 +1,47 @@
-T0	PROCESS 0 1	multivariate model
-T0	PROCESS 0 1	multiple factor
-T0	PROCESS 0 1	alternative diagnosis
-T0	PROCESS 0 1	demographic factor
-T0	PROCESS 0 1	comorbid condition
-T0	PROCESS 0 1	white race
-T0	PROCESS 0 1	index visit
-T0	PROCESS 0 1	private insurance
-T0	PROCESS 0 1	nthe alternative diagnosis
-T0	PROCESS 0 1	90-day follow-up
-T0	PROCESS 0 1	ischemic stroke
-T0	PROCESS 0 1	herpes zoster
-T0	PROCESS 0 1	guillain-barré syndrome
-T0	PROCESS 0 1	otitis medium
+T0	KEYPHRASE-NOTYPES 0 5	Table,"","2 s"
+T1	KEYPHRASE-NOTYPES 18 25	results,"the","of "
+T2	KEYPHRASE-NOTYPES 33 51	multivariate model,"our"," wh"
+T3	KEYPHRASE-NOTYPES 70 86	multiple factors,"ied","ass"
+T4	KEYPHRASE-NOTYPES 107 117	likelihood,"the","of "
+T5	KEYPHRASE-NOTYPES 134 155	alternative diagnosis," an"," De"
+T6	KEYPHRASE-NOTYPES 157 176	Demographic factors,"is.","or "
+T7	KEYPHRASE-NOTYPES 180 199	comorbid conditions," or","pos"
+T8	KEYPHRASE-NOTYPES 242 245	age,"ing","(HR"
+T9	KEYPHRASE-NOTYPES 247 249	HR,"ge ","1.1"
+T10	KEYPHRASE-NOTYPES 260 262	CI,"95%","1.0"
+T11	KEYPHRASE-NOTYPES 290 295	years," 10",", b"
+T12	KEYPHRASE-NOTYPES 318 328	white race,"ith","(HR"
+T13	KEYPHRASE-NOTYPES 330 332	HR,"ce ","1.6"
+T14	KEYPHRASE-NOTYPES 343 345	CI,"95%","1.1"
+T15	KEYPHRASE-NOTYPES 365 382	diabetes mellitus,"and","(HR"
+T16	KEYPHRASE-NOTYPES 384 386	HR,"us ","1.4"
+T17	KEYPHRASE-NOTYPES 397 399	CI,"95%","1.1"
+T18	KEYPHRASE-NOTYPES 419 422	use,"The","of "
+T19	KEYPHRASE-NOTYPES 426 428	CT," of","or "
+T20	KEYPHRASE-NOTYPES 432 443	MRI imaging," or","on "
+T21	KEYPHRASE-NOTYPES 451 462	index visit,"the","was"
+T22	KEYPHRASE-NOTYPES 491 499	increase," an","in "
+T23	KEYPHRASE-NOTYPES 507 519	misdiagnosis,"the","of "
+T24	KEYPHRASE-NOTYPES 523 527	Bell," of","s p"
+T25	KEYPHRASE-NOTYPES 530 535	palsy,"l’s","(HR"
+T26	KEYPHRASE-NOTYPES 537 539	HR,"sy ","1.4"
+T27	KEYPHRASE-NOTYPES 550 552	CI,"95%","1.1"
+T28	KEYPHRASE-NOTYPES 568 585	Private insurance,"5).","com"
+T29	KEYPHRASE-NOTYPES 600 608	Medicare,"ith","was"
+T30	KEYPHRASE-NOTYPES 643 664	alternative diagnosis," an","(HR"
+T31	KEYPHRASE-NOTYPES 666 668	HR,"is ","0.6"
+T32	KEYPHRASE-NOTYPES 679 681	CI,"95%","0.4"
+T33	KEYPHRASE-NOTYPES 697 723	nThe alternative diagnoses,"3).","mad"
+T34	KEYPHRASE-NOTYPES 732 741	follow-up," on","are"
+T35	KEYPHRASE-NOTYPES 756 761	Table," in","3, "
+T36	KEYPHRASE-NOTYPES 797 813	90-day follow-up,"and"," Of"
+T37	KEYPHRASE-NOTYPES 826 837	individuals,"356","wit"
+T38	KEYPHRASE-NOTYPES 846 867	alternative diagnosis," an","wit"
+T39	KEYPHRASE-NOTYPES 878 882	days," 90"," 14"
+T40	KEYPHRASE-NOTYPES 910 914	days,"n 7"," Mo"
+T41	KEYPHRASE-NOTYPES 937 946	intervals,"l 4","wer"
+T42	KEYPHRASE-NOTYPES 952 967	ischemic stroke,"ere"," he"
+T43	KEYPHRASE-NOTYPES 969 982	herpes zoster,"ke,"," Gu"
+T44	KEYPHRASE-NOTYPES 984 1007	Guillain-Barré syndrome,"er,"," an"
+T45	KEYPHRASE-NOTYPES 1013 1025	otitis media,"and"," ac"
+T46	KEYPHRASE-NOTYPES 1055 1076	alternative diagnoses,"all",""

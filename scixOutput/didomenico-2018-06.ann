@@ -1,22 +1,39 @@
-T0	PROCESS 0 1	dangerous manifestation
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	early antimicrobial treatment
-T0	PROCESS 0 1	persistent form
-T0	PROCESS 0 1	mechanism underlying chronic lnb
-T0	PROCESS 0 1	late manifestation
-T0	PROCESS 0 1	incomplete resolution
-T0	PROCESS 0 1	persistent borrelia infection
-T0	PROCESS 0 1	prolonged antimicrobial treatment
-T0	PROCESS 0 1	controversial clinical efficacy
-T0	PROCESS 0 1	recent evidence
-T0	PROCESS 0 1	antibiotic resistance
-T0	PROCESS 0 1	biofilm-like aggregate
-T0	PROCESS 0 1	borrelia spp
-T0	PROCESS 0 1	environmental condition
-T0	PROCESS 0 1	fda-approved drug
-T0	PROCESS 0 1	excellent antipersister activity
-T0	PROCESS 0 1	monotherapy regimen
-T0	PROCESS 0 1	poor effectiveness
-T0	PROCESS 0 1	careful consideration
-T0	PROCESS 0 1	clinical management
-T0	PROCESS 0 1	long-term complication
+T0	KEYPHRASE-NOTYPES 0 3	LNB,"","is "
+T1	KEYPHRASE-NOTYPES 16 39	dangerous manifestation,"ost","of "
+T2	KEYPHRASE-NOTYPES 43 55	Lyme disease," of"," Al"
+T3	KEYPHRASE-NOTYPES 70 99	early antimicrobial treatment,"the","is "
+T4	KEYPHRASE-NOTYPES 120 128	majority,"the","of "
+T5	KEYPHRASE-NOTYPES 132 140	patients," of"," pe"
+T6	KEYPHRASE-NOTYPES 142 158	persistent forms,"ts,","are"
+T7	KEYPHRASE-NOTYPES 186 196	mechanisms,"The","und"
+T8	KEYPHRASE-NOTYPES 208 219	chronic LNB,"ing","and"
+T9	KEYPHRASE-NOTYPES 224 246	persistent forms,"and","of "
+T10	KEYPHRASE-NOTYPES 250 254	Lyme," of","are"
+T11	KEYPHRASE-NOTYPES 268 276	Patients,"wn.","who"
+T12	KEYPHRASE-NOTYPES 286 305	late manifestations,"ave","of "
+T13	KEYPHRASE-NOTYPES 309 311	LB," of","gen"
+T14	KEYPHRASE-NOTYPES 336 344	response,"wer","to "
+T15	KEYPHRASE-NOTYPES 348 355	therapy," to","wit"
+T16	KEYPHRASE-NOTYPES 361 382	incomplete resolution,"ith"," Pe"
+T17	KEYPHRASE-NOTYPES 384 394	Persistent,"on.","Bor"
+T18	KEYPHRASE-NOTYPES 404 413	infection,"lia","req"
+T19	KEYPHRASE-NOTYPES 423 456	prolonged antimicrobial treatment,"res"," wi"
+T20	KEYPHRASE-NOTYPES 475 506	controversial clinical efficacy,"and"," Re"
+T21	KEYPHRASE-NOTYPES 508 524	Recent evidences,"cy.","sug"
+T22	KEYPHRASE-NOTYPES 542 563	antibiotic resistance,"the","and"
+T23	KEYPHRASE-NOTYPES 572 584	reoccurrence,"the","of "
+T24	KEYPHRASE-NOTYPES 588 590	LB," of","are"
+T25	KEYPHRASE-NOTYPES 611 634	biofilm-like aggregates,"ith"," wh"
+T26	KEYPHRASE-NOTYPES 675 707	adverse environmental conditions," to"," Se"
+T27	KEYPHRASE-NOTYPES 709 745	Several promising FDA-approved drugs,"ns.","hav"
+T28	KEYPHRASE-NOTYPES 770 802	excellent antipersister activity,"ave","whe"
+T29	KEYPHRASE-NOTYPES 816 827	combination," in","whi"
+T30	KEYPHRASE-NOTYPES 840 843	use,"eir","in "
+T31	KEYPHRASE-NOTYPES 847 867	monotherapy regimens," in","sho"
+T32	KEYPHRASE-NOTYPES 877 895	poor effectiveness,"d a"," Th"
+T33	KEYPHRASE-NOTYPES 902 908	notion,"his","sho"
+T34	KEYPHRASE-NOTYPES 930 951	careful consideration,"nto","for"
+T35	KEYPHRASE-NOTYPES 960 979	clinical management,"the","of "
+T36	KEYPHRASE-NOTYPES 983 995	Lyme Disease," of","in "
+T37	KEYPHRASE-NOTYPES 999 1004	order," in","to "
+T38	KEYPHRASE-NOTYPES 1016 1039	long-term complications,"ent",""

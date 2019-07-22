@@ -1,16 +1,32 @@
-T0	PROCESS 0 1	bacillus subtilis
-T0	PROCESS 0 1	napa gene
-T0	PROCESS 0 1	polymerase chain reaction
-T0	PROCESS 0 1	burgdorferi strain b31
-T0	PROCESS 0 1	standard method
-T0	PROCESS 0 1	following primer
-T0	PROCESS 0 1	hind iii restriction enzyme site
-T0	PROCESS 0 1	amplified fragment
-T0	PROCESS 0 1	expression vector psm214g
-T0	PROCESS 0 1	plasmid psm214g-napa
-T0	PROCESS 0 1	subtilis strain sm
-T0	PROCESS 0 1	yt medium
-T0	PROCESS 0 1	μg ml
-T0	PROCESS 0 1	mm tris hcl
-T0	PROCESS 0 1	french press passage
-T0	PROCESS 0 1	ammonium sulfate
+T0	KEYPHRASE-NOTYPES 0 4	NapA,"","was"
+T1	KEYPHRASE-NOTYPES 46 63	Bacillus subtilis,"rom"," Th"
+T2	KEYPHRASE-NOTYPES 69 78	NapA gene,"The","was"
+T3	KEYPHRASE-NOTYPES 96 121	polymerase chain reaction," by","(PC"
+T4	KEYPHRASE-NOTYPES 123 126	PCR,"on "," fr"
+T5	KEYPHRASE-NOTYPES 133 134	B,"rom","bur"
+T6	KEYPHRASE-NOTYPES 147 157	strain B31,"eri"," us"
+T7	KEYPHRASE-NOTYPES 165 181	standard methods,"ing"," Th"
+T8	KEYPHRASE-NOTYPES 197 204	primers,"ing","wer"
+T9	KEYPHRASE-NOTYPES 216 248	5-CCCGAGCTCATAAAGGAGATAG-TTATG-3,"ed:"," an"
+T10	KEYPHRASE-NOTYPES 254 286	5-CCCAAGCTTCTATTTTGCATCACA-CTC-3,"and"," (u"
+T11	KEYPHRASE-NOTYPES 311 316	Sac,"tes","and"
+T12	KEYPHRASE-NOTYPES 321 325	Hind,"and","III"
+T13	KEYPHRASE-NOTYPES 330 354	restriction enzyme sites,"III"," re"
+T14	KEYPHRASE-NOTYPES 385 393	fragment,"ied","was"
+T15	KEYPHRASE-NOTYPES 429 454	expression vector pSM214G,"the"," re"
+T16	KEYPHRASE-NOTYPES 469 489	plasmid pSM214G-NapA," in"," B "
+T17	KEYPHRASE-NOTYPES 491 512	B subtilis strain SMS,"pA.","118"
+T18	KEYPHRASE-NOTYPES 532 552	plasmid pSM214G-NapA,"the","was"
+T19	KEYPHRASE-NOTYPES 570 575	hours," 15","in "
+T20	KEYPHRASE-NOTYPES 579 588	YT medium," in","and"
+T21	KEYPHRASE-NOTYPES 596 601	μg ml," 15","of "
+T22	KEYPHRASE-NOTYPES 605 620	chloramphenicol," of"," Af"
+T23	KEYPHRASE-NOTYPES 628 642	centrifugation,"ter"," ce"
+T24	KEYPHRASE-NOTYPES 644 649	cells,"on,","wer"
+T25	KEYPHRASE-NOTYPES 673 684	mM Tris HCl," 30"," pH"
+T26	KEYPHRASE-NOTYPES 686 688	pH,"Cl,","7.8"
+T27	KEYPHRASE-NOTYPES 714 735	French press passages,"h 3"," De"
+T28	KEYPHRASE-NOTYPES 737 743	Debris,"es.","was"
+T29	KEYPHRASE-NOTYPES 759 773	centrifugation," by"," an"
+T30	KEYPHRASE-NOTYPES 779 795	ammonium sulfate,"and","60%"
+T31	KEYPHRASE-NOTYPES 817 828	supernatant,"the",""

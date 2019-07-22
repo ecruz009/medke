@@ -1,23 +1,71 @@
-T0	PROCESS 0 1	lyme disease incidence
-T0	PROCESS 0 1	united state
-T0	PROCESS 0 1	age group
-T0	PROCESS 0 1	many european series
-T0	PROCESS 0 1	behavior-related difference
-T0	PROCESS 0 1	sex-specific difference
-T0	PROCESS 0 1	care-seeking behavior
-T0	PROCESS 0 1	u incidence
-T0	PROCESS 0 1	overall sex ratio
-T0	PROCESS 0 1	sex-specific increase
-T0	PROCESS 0 1	separate analysis
-T0	PROCESS 0 1	u data
-T0	PROCESS 0 1	sex distribution
-T0	PROCESS 0 1	nonendemic area
-T0	PROCESS 0 1	high-incidence state
-T0	PROCESS 0 1	modal age
-T0	PROCESS 0 1	nonendemic state
-T0	PROCESS 0 1	barring fundamental difference
-T0	PROCESS 0 1	risk factor
-T0	PROCESS 0 1	substantial proportion
-T0	PROCESS 0 1	prior probability
-T0	PROCESS 0 1	predictive value
-T0	PROCESS 0 1	laboratory finding
+T0	KEYPHRASE-NOTYPES 17 22	years,"the","201"
+T1	KEYPHRASE-NOTYPES 37 59	Lyme disease incidence,"13,","is "
+T2	KEYPHRASE-NOTYPES 76 83	respect,"ith","to "
+T3	KEYPHRASE-NOTYPES 87 90	age," to"," wi"
+T4	KEYPHRASE-NOTYPES 105 110	rates,"est","amo"
+T5	KEYPHRASE-NOTYPES 117 125	children,"ong","age"
+T6	KEYPHRASE-NOTYPES 139 144	years," 15","and"
+T7	KEYPHRASE-NOTYPES 149 155	adults,"and","old"
+T8	KEYPHRASE-NOTYPES 170 175	years," 50","(Fi"
+T9	KEYPHRASE-NOTYPES 177 180	Fig,"rs "," 5)"
+T10	KEYPHRASE-NOTYPES 193 206	United States,"the"," th"
+T11	KEYPHRASE-NOTYPES 212 221	incidence,"the","is "
+T12	KEYPHRASE-NOTYPES 238 243	males,"ong","in "
+T13	KEYPHRASE-NOTYPES 251 261	age groups,"all"," In"
+T14	KEYPHRASE-NOTYPES 266 274	contrast," In"," fe"
+T15	KEYPHRASE-NOTYPES 276 283	females,"st,","acc"
+T16	KEYPHRASE-NOTYPES 321 326	cases,"ied","in "
+T17	KEYPHRASE-NOTYPES 330 350	many European series," in"," yi"
+T18	KEYPHRASE-NOTYPES 364 373	incidence," an","hig"
+T19	KEYPHRASE-NOTYPES 386 391	males,"han","in "
+T20	KEYPHRASE-NOTYPES 409 415	series,"ome"," [2"
+T21	KEYPHRASE-NOTYPES 446 454	patterns,"ese","lik"
+T22	KEYPHRASE-NOTYPES 470 498	behavior-related differences,"ect","in "
+T23	KEYPHRASE-NOTYPES 502 510	exposure," in","acr"
+T24	KEYPHRASE-NOTYPES 518 529	populations,"oss"," ag"
+T25	KEYPHRASE-NOTYPES 531 534	age,"ns,","and"
+T26	KEYPHRASE-NOTYPES 539 563	sex-specific differences,"and","in "
+T27	KEYPHRASE-NOTYPES 567 581	susceptibility," in","and"
+T28	KEYPHRASE-NOTYPES 586 607	care-seeking behavior,"and","may"
+T29	KEYPHRASE-NOTYPES 634 638	time,"ver"," th"
+T30	KEYPHRASE-NOTYPES 644 656	US incidence,"the","has"
+T31	KEYPHRASE-NOTYPES 696 701	males,"ong"," sh"
+T32	KEYPHRASE-NOTYPES 716 733	overall sex ratio,"the","fro"
+T33	KEYPHRASE-NOTYPES 743 747	male,"51%","in "
+T34	KEYPHRASE-NOTYPES 763 767	male,"53%","in "
+T35	KEYPHRASE-NOTYPES 787 808	sex-specific increase,"his","has"
+T36	KEYPHRASE-NOTYPES 840 848	children,"ong"," In"
+T37	KEYPHRASE-NOTYPES 855 872	separate analysis,"n a","of "
+T38	KEYPHRASE-NOTYPES 876 883	US data," of","for"
+T39	KEYPHRASE-NOTYPES 902 905	age,"02,","and"
+T40	KEYPHRASE-NOTYPES 910 926	sex distribution,"and","wer"
+T41	KEYPHRASE-NOTYPES 952 957	cases,"ong","rep"
+T42	KEYPHRASE-NOTYPES 982 998	nonendemic areas,"and"," [8"
+T43	KEYPHRASE-NOTYPES 1011 1032	high-incidence states," 12"," th"
+T44	KEYPHRASE-NOTYPES 1038 1047	modal age,"the","for"
+T45	KEYPHRASE-NOTYPES 1052 1057	cases,"for","was"
+T46	KEYPHRASE-NOTYPES 1064 1069	years,"s 6"," an"
+T47	KEYPHRASE-NOTYPES 1090 1095	males,"ong"," In"
+T48	KEYPHRASE-NOTYPES 1100 1108	contrast," In"," in"
+T49	KEYPHRASE-NOTYPES 1113 1130	nonendemic states," in"," th"
+T50	KEYPHRASE-NOTYPES 1136 1145	modal age,"the","was"
+T51	KEYPHRASE-NOTYPES 1153 1158	years," 44"," an"
+T52	KEYPHRASE-NOTYPES 1179 1184	males,"ong"," Ba"
+T53	KEYPHRASE-NOTYPES 1194 1217	fundamental differences,"ing","in "
+T54	KEYPHRASE-NOTYPES 1221 1233	risk factors," in","for"
+T55	KEYPHRASE-NOTYPES 1238 1247	infection,"for"," th"
+T56	KEYPHRASE-NOTYPES 1254 1265	discrepancy,"his","sug"
+T57	KEYPHRASE-NOTYPES 1275 1292	misclassification,"sts","(ie"
+T58	KEYPHRASE-NOTYPES 1305 1327	substantial proportion,"t a","of "
+T59	KEYPHRASE-NOTYPES 1331 1340	illnesses," of","rep"
+T60	KEYPHRASE-NOTYPES 1353 1369	nonendemic areas," in","are"
+T61	KEYPHRASE-NOTYPES 1393 1409	conditions," by",". T"
+T62	KEYPHRASE-NOTYPES 1417 1424	finding,"his","is "
+T63	KEYPHRASE-NOTYPES 1453 1457	risk,"her","of "
+T64	KEYPHRASE-NOTYPES 1461 1473	misdiagnosis," of","in "
+T65	KEYPHRASE-NOTYPES 1477 1493	nonendemic areas," in"," a "
+T66	KEYPHRASE-NOTYPES 1497 1508	consequence,", a","of "
+T67	KEYPHRASE-NOTYPES 1516 1522	effect,"the","of "
+T68	KEYPHRASE-NOTYPES 1526 1543	prior probability," of","on "
+T69	KEYPHRASE-NOTYPES 1551 1567	predictive value,"the","of "
+T70	KEYPHRASE-NOTYPES 1584 1603	laboratory findings,"and"," [8"

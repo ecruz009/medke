@@ -1,20 +1,51 @@
-T0	PROCESS 0 1	guillain-barré syndrome
-T0	PROCESS 0 1	guillain-barré syndrome encompasses
-T0	PROCESS 0 1	heterogeneous immune-mediated neuropathy
-T0	PROCESS 0 1	symmetric motor weakness
-T0	PROCESS 0 1	deep tendon reflex
-T0	PROCESS 0 1	multiple variant
-T0	PROCESS 0 1	guillain-barré syndrome exist
-T0	PROCESS 0 1	acute inflammatory
-T0	PROCESS 0 1	classic form
-T0	PROCESS 0 1	cranial nerve
-T0	PROCESS 0 1	miller fisher syndrome
-T0	PROCESS 0 1	miller fisher syndrome account
-T0	PROCESS 0 1	various cranial nerve abnormality
-T0	PROCESS 0 1	additional variant
-T0	PROCESS 0 1	facial symptom
-T0	PROCESS 0 1	bickerstaff encephalitis
-T0	PROCESS 0 1	pharyngeal-cervical-brachial weakness
-T0	PROCESS 0 1	detailed research
-T0	PROCESS 0 1	ed misdiagnosis
-T0	PROCESS 0 1	subsequent diagnosis
+T0	KEYPHRASE-NOTYPES 23 31	patients," of","who"
+T1	KEYPHRASE-NOTYPES 47 59	misdiagnosis,"d a","of "
+T2	KEYPHRASE-NOTYPES 63 67	Bell," of","s p"
+T3	KEYPHRASE-NOTYPES 70 75	palsy,"l’s","wen"
+T4	KEYPHRASE-NOTYPES 97 106	diagnosis,"e a","of "
+T5	KEYPHRASE-NOTYPES 110 133	Guillain-Barré syndrome," of","on "
+T6	KEYPHRASE-NOTYPES 137 153	90-day follow-up," on"," Gu"
+T7	KEYPHRASE-NOTYPES 155 178	Guillain-Barré syndrome,"up.","enc"
+T8	KEYPHRASE-NOTYPES 191 242	multiple heterogeneous immune-mediated neuropathies,"ses"," ge"
+T9	KEYPHRASE-NOTYPES 286 310	symmetric motor weakness,"and","and"
+T10	KEYPHRASE-NOTYPES 315 319	loss,"and","of "
+T11	KEYPHRASE-NOTYPES 323 343	deep tendon reflexes," of","Mul"
+T12	KEYPHRASE-NOTYPES 344 361	Multiple variants,"xes","of "
+T13	KEYPHRASE-NOTYPES 365 388	Guillain-Barré syndrome," of","exi"
+T14	KEYPHRASE-NOTYPES 401 448	acute inflammatory demyelinating polyneuropathy,"ith"," th"
+T15	KEYPHRASE-NOTYPES 454 466	classic form,"the","wit"
+T16	KEYPHRASE-NOTYPES 482 491	paralysis,"ing"," ac"
+T17	KEYPHRASE-NOTYPES 512 520	majority,"the","of "
+T18	KEYPHRASE-NOTYPES 524 529	cases," of"," [2"
+T19	KEYPHRASE-NOTYPES 536 544	Variants,"27]","of "
+T20	KEYPHRASE-NOTYPES 548 571	Guillain-Barré syndrome," of","may"
+T21	KEYPHRASE-NOTYPES 588 602	cranial nerves,"the"," in"
+T22	KEYPHRASE-NOTYPES 614 636	Miller Fisher syndrome,"ing"," ty"
+T23	KEYPHRASE-NOTYPES 664 679	ophthalmoplegia,"ith"," at"
+T24	KEYPHRASE-NOTYPES 681 687	ataxia,"ia,"," an"
+T25	KEYPHRASE-NOTYPES 693 702	areflexia,"and","wit"
+T26	KEYPHRASE-NOTYPES 730 739	paralysis,"ing"," Mi"
+T27	KEYPHRASE-NOTYPES 741 772	Miller Fisher syndrome accounts,"is.","for"
+T28	KEYPHRASE-NOTYPES 801 806	cases,"all","of "
+T29	KEYPHRASE-NOTYPES 810 833	Guillain-Barré syndrome," of","and"
+T30	KEYPHRASE-NOTYPES 854 858	half," in","of "
+T31	KEYPHRASE-NOTYPES 862 867	cases," of","to "
+T32	KEYPHRASE-NOTYPES 877 918	various cranial nerve abnormalities,"use","28,"
+T33	KEYPHRASE-NOTYPES 925 944	Additional variants,",29","of "
+T34	KEYPHRASE-NOTYPES 948 971	Guillain-Barré syndrome," of","tha"
+T35	KEYPHRASE-NOTYPES 994 1016	Miller Fisher syndrome,"ith","and"
+T36	KEYPHRASE-NOTYPES 1044 1059	facial symptoms,"ith","inc"
+T37	KEYPHRASE-NOTYPES 1068 1092	Bickerstaff encephalitis,"ude","and"
+T38	KEYPHRASE-NOTYPES 1097 1134	pharyngeal-cervical-brachial weakness,"and"," th"
+T39	KEYPHRASE-NOTYPES 1157 1165	entities,"ese","may"
+T40	KEYPHRASE-NOTYPES 1195 1203	symptoms,"ted","tha"
+T41	KEYPHRASE-NOTYPES 1236 1245	diagnosis,"e a","of "
+T42	KEYPHRASE-NOTYPES 1249 1253	Bell," of","s p"
+T43	KEYPHRASE-NOTYPES 1256 1261	palsy,"l’s"," [3"
+T44	KEYPHRASE-NOTYPES 1276 1293	detailed research,"ore","may"
+T45	KEYPHRASE-NOTYPES 1330 1341	association,"the","bet"
+T46	KEYPHRASE-NOTYPES 1350 1365	ED misdiagnosis,"een","of "
+T47	KEYPHRASE-NOTYPES 1369 1373	Bell," of","s p"
+T48	KEYPHRASE-NOTYPES 1376 1381	palsy,"l’s","and"
+T49	KEYPHRASE-NOTYPES 1386 1406	subsequent diagnosis,"and","of "
+T50	KEYPHRASE-NOTYPES 1410 1433	Guillain-Barré syndrome," of",""

@@ -1,27 +1,44 @@
-T0	PROCESS 0 1	pathogenic borrelia specie
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	common tick-transmitted illness
-T0	PROCESS 0 1	borrelia burgdorferi
-T0	PROCESS 0 1	borrelia afzelii
-T0	PROCESS 0 1	borrelia garinii
-T0	PROCESS 0 1	sole cause
-T0	PROCESS 0 1	skin lesion
-T0	PROCESS 0 1	erythema migrans
-T0	PROCESS 0 1	several day
-T0	PROCESS 0 1	different site
-T0	PROCESS 0 1	peripheral neuritis
-T0	PROCESS 0 1	atrioventricular node block
-T0	PROCESS 0 1	migratory musculoskeletal pain
-T0	PROCESS 0 1	lyme arthritis
-T0	PROCESS 0 1	untreated patient
-T0	PROCESS 0 1	borrelia infection
-T0	PROCESS 0 1	rapid onset
-T0	PROCESS 0 1	marked swelling
-T0	PROCESS 0 1	affected joint
-T0	PROCESS 0 1	synovial fluid contains
-T0	PROCESS 0 1	intravenous antibiotic therapy
-T0	PROCESS 0 1	rare case
-T0	PROCESS 0 1	proliferative synovitis persists
-T0	PROCESS 0 1	oral antibiotic
-T0	PROCESS 0 1	intravenous antibiotic
-T0	PROCESS 0 1	antibiotic-refractory lyme arthritis
+T0	KEYPHRASE-NOTYPES 26 33	species,"lia","are"
+T1	KEYPHRASE-NOTYPES 64 76	Lyme disease,"for"," th"
+T2	KEYPHRASE-NOTYPES 87 118	common tick-transmitted illness,"ost","of "
+T3	KEYPHRASE-NOTYPES 126 143	boreal hemisphere,"the","(1,"
+T4	KEYPHRASE-NOTYPES 154 160	Europe," In"," Ly"
+T5	KEYPHRASE-NOTYPES 162 174	Lyme disease,"pe,","is "
+T6	KEYPHRASE-NOTYPES 265 267	US,"the"," Bo"
+T7	KEYPHRASE-NOTYPES 297 307	sole cause,"the","(3,"
+T8	KEYPHRASE-NOTYPES 315 327	Lyme disease,"4).","usu"
+T9	KEYPHRASE-NOTYPES 375 386	skin lesion,"ing"," er"
+T10	KEYPHRASE-NOTYPES 388 404	erythema migrans,"on,","(5)"
+T11	KEYPHRASE-NOTYPES 416 428	several days,"ter","or "
+T12	KEYPHRASE-NOTYPES 432 437	weeks," or"," th"
+T13	KEYPHRASE-NOTYPES 443 453	spirochete,"the","may"
+T14	KEYPHRASE-NOTYPES 468 483	different sites," to"," ca"
+T15	KEYPHRASE-NOTYPES 493 503	meningitis,"ing"," cr"
+T16	KEYPHRASE-NOTYPES 516 535	peripheral neuritis," or"," ca"
+T17	KEYPHRASE-NOTYPES 537 545	carditis,"is,"," at"
+T18	KEYPHRASE-NOTYPES 547 574	atrioventricular node block,"is,"," or"
+T19	KEYPHRASE-NOTYPES 579 609	migratory musculoskeletal pain," or"," Mo"
+T20	KEYPHRASE-NOTYPES 611 617	Months,"in.","lat"
+T21	KEYPHRASE-NOTYPES 625 639	Lyme arthritis,"er,","may"
+T22	KEYPHRASE-NOTYPES 655 673	untreated patients," in","wit"
+T23	KEYPHRASE-NOTYPES 688 697	infection,"lia"," wi"
+T24	KEYPHRASE-NOTYPES 706 717	rapid onset,"h a","of "
+T25	KEYPHRASE-NOTYPES 741 745	pain,"and","of "
+T26	KEYPHRASE-NOTYPES 758 764	joints,"ted"," mo"
+T27	KEYPHRASE-NOTYPES 784 788	knee,"the","(6)"
+T28	KEYPHRASE-NOTYPES 803 811	patients,"ese"," sy"
+T29	KEYPHRASE-NOTYPES 813 827	synovial fluid,"ts,","con"
+T30	KEYPHRASE-NOTYPES 859 876	mononuclear cells,"and","(7)"
+T31	KEYPHRASE-NOTYPES 890 898	patients,"ost"," Ly"
+T32	KEYPHRASE-NOTYPES 900 914	Lyme arthritis,"ts,","res"
+T33	KEYPHRASE-NOTYPES 947 977	intravenous antibiotic therapy," or"," Ho"
+T34	KEYPHRASE-NOTYPES 991 1001	rare cases," in"," pr"
+T35	KEYPHRASE-NOTYPES 1003 1026	proliferative synovitis,"es,","per"
+T36	KEYPHRASE-NOTYPES 1044 1050	months,"r 2","of "
+T37	KEYPHRASE-NOTYPES 1054 1063	treatment," of","wit"
+T38	KEYPHRASE-NOTYPES 1069 1085	oral antibiotics,"ith","or "
+T39	KEYPHRASE-NOTYPES 1091 1096	month,"r 1","of "
+T40	KEYPHRASE-NOTYPES 1100 1109	treatment," of","wit"
+T41	KEYPHRASE-NOTYPES 1115 1138	intravenous antibiotics,"ith"," or"
+T42	KEYPHRASE-NOTYPES 1154 1163	condition,"his","is "
+T43	KEYPHRASE-NOTYPES 1174 1210	antibiotic-refractory Lyme arthritis,"led","(3)"

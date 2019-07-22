@@ -1,16 +1,67 @@
-T0	PROCESS 0 1	personal experience
-T0	PROCESS 0 1	acute lyme disease
-T0	PROCESS 0 1	close associate
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	chronic condition
-T0	PROCESS 0 1	many year
-T0	PROCESS 0 1	uncertainty rating
-T0	PROCESS 0 1	chronic nature
-T0	PROCESS 0 1	faculty member
-T0	PROCESS 0 1	similar pattern
-T0	PROCESS 0 1	ongoing host inflammatory response
-T0	PROCESS 0 1	previous lyme disease
-T0	PROCESS 0 1	persistent infection
-T0	PROCESS 0 1	large minority
-T0	PROCESS 0 1	continued infection
-T0	PROCESS 0 1	potential aetiology
+T0	KEYPHRASE-NOTYPES 0 11	Respondents,"","wer"
+T1	KEYPHRASE-NOTYPES 42 61	personal experience,"had","wit"
+T2	KEYPHRASE-NOTYPES 67 85	acute Lyme disease,"ith","or "
+T3	KEYPHRASE-NOTYPES 89 94	PTLDS," or","if "
+T4	KEYPHRASE-NOTYPES 108 123	close associate,"r a","had"
+T5	KEYPHRASE-NOTYPES 132 139	disease,"the","(Ta"
+T6	KEYPHRASE-NOTYPES 141 146	Table,"se ","3)."
+T7	KEYPHRASE-NOTYPES 157 163	groups,"ree","wer"
+T8	KEYPHRASE-NOTYPES 186 197	information,"his"," th"
+T9	KEYPHRASE-NOTYPES 213 232	personal experience," no","wit"
+T10	KEYPHRASE-NOTYPES 238 250	Lyme disease,"ith","or "
+T11	KEYPHRASE-NOTYPES 254 259	PTLDS," or"," th"
+T12	KEYPHRASE-NOTYPES 272 291	personal experience,"ith","wit"
+T13	KEYPHRASE-NOTYPES 297 309	Lyme disease,"ith"," bu"
+T14	KEYPHRASE-NOTYPES 319 324	PTLDS,"not"," an"
+T15	KEYPHRASE-NOTYPES 341 360	personal experience,"ith","wit"
+T16	KEYPHRASE-NOTYPES 366 371	PTLDS,"ith","wit"
+T17	KEYPHRASE-NOTYPES 388 407	personal experience,"out","wit"
+T18	KEYPHRASE-NOTYPES 413 425	Lyme disease,"ith"," Al"
+T19	KEYPHRASE-NOTYPES 431 437	groups,"All","agr"
+T20	KEYPHRASE-NOTYPES 449 454	PTLDS,"hat","can"
+T21	KEYPHRASE-NOTYPES 473 490	chronic condition,"and","tha"
+T22	KEYPHRASE-NOTYPES 509 519	many years,"for"," Le"
+T23	KEYPHRASE-NOTYPES 548 554	groups,"the","thi"
+T24	KEYPHRASE-NOTYPES 566 571	PTLDS,"hat","is "
+T25	KEYPHRASE-NOTYPES 624 643	uncertainty ratings,"The","for"
+T26	KEYPHRASE-NOTYPES 654 663	questions,"ese","wer"
+T27	KEYPHRASE-NOTYPES 714 725	uncertainty,"al,","was"
+T28	KEYPHRASE-NOTYPES 742 748	groups,"the","wit"
+T29	KEYPHRASE-NOTYPES 757 767	experience," no","wit"
+T30	KEYPHRASE-NOTYPES 773 778	PTLDS,"ith"," Un"
+T31	KEYPHRASE-NOTYPES 780 791	Uncertainty,"DS.","reg"
+T32	KEYPHRASE-NOTYPES 806 814	severity,"the","and"
+T33	KEYPHRASE-NOTYPES 819 833	chronic nature,"and","of "
+T34	KEYPHRASE-NOTYPES 837 842	PTLDS," of","was"
+T35	KEYPHRASE-NOTYPES 871 881	experience," no","wit"
+T36	KEYPHRASE-NOTYPES 894 901	disease,"her","(34"
+T37	KEYPHRASE-NOTYPES 923 933	experience,"ith","wit"
+T38	KEYPHRASE-NOTYPES 939 951	Lyme disease,"ith"," bu"
+T39	KEYPHRASE-NOTYPES 961 966	PTLDS,"not","(30"
+T40	KEYPHRASE-NOTYPES 993 1008	faculty members,"ose","wit"
+T41	KEYPHRASE-NOTYPES 1014 1024	experience,"ith","wit"
+T42	KEYPHRASE-NOTYPES 1030 1035	PTLDS,"ith","(9%"
+T43	KEYPHRASE-NOTYPES 1044 1059	similar pattern,". A","was"
+T44	KEYPHRASE-NOTYPES 1077 1085	question,"the","of "
+T45	KEYPHRASE-NOTYPES 1089 1093	ease," of","of "
+T46	KEYPHRASE-NOTYPES 1097 1106	treatment," of","and"
+T47	KEYPHRASE-NOTYPES 1111 1121	resolution,"and","of "
+T48	KEYPHRASE-NOTYPES 1125 1132	disease," of","(Ta"
+T49	KEYPHRASE-NOTYPES 1134 1139	Table,"se ","3)."
+T50	KEYPHRASE-NOTYPES 1144 1155	Respondents,"3).","wer"
+T51	KEYPHRASE-NOTYPES 1181 1188	opinion,"eir","reg"
+T52	KEYPHRASE-NOTYPES 1203 1212	aetiology,"the","of "
+T53	KEYPHRASE-NOTYPES 1216 1221	PTLDS," of"," Th"
+T54	KEYPHRASE-NOTYPES 1250 1256	answer,"sen","was"
+T55	KEYPHRASE-NOTYPES 1265 1299	ongoing host inflammatory response,"‘an","tri"
+T56	KEYPHRASE-NOTYPES 1313 1334	previous Lyme disease," by","but"
+T57	KEYPHRASE-NOTYPES 1350 1370	persistent infection," to","  r"
+T58	KEYPHRASE-NOTYPES 1387 1392	group," of"," In"
+T59	KEYPHRASE-NOTYPES 1397 1405	contrast," In"," a "
+T60	KEYPHRASE-NOTYPES 1409 1423	large minority,", a"," as"
+T61	KEYPHRASE-NOTYPES 1443 1454	respondents," of","wit"
+T62	KEYPHRASE-NOTYPES 1462 1481	personal experience,"h a","wit"
+T63	KEYPHRASE-NOTYPES 1487 1492	PTLDS,"ith"," se"
+T64	KEYPHRASE-NOTYPES 1504 1523	continued infection,"ed "," as"
+T65	KEYPHRASE-NOTYPES 1530 1549	potential aetiology,"s a","of "
+T66	KEYPHRASE-NOTYPES 1553 1558	PTLDS," of",""

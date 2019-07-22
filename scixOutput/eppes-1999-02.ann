@@ -1,23 +1,48 @@
-T0	PROCESS 0 1	aseptic meningitis
-T0	PROCESS 0 1	clinical syndrome
-T0	PROCESS 0 1	meningeal inflammation
-T0	PROCESS 0 1	common bacterial agent
-T0	PROCESS 0 1	noninfectious cause
-T0	PROCESS 0 1	recent review
-T0	PROCESS 0 1	pediatric patient
-T0	PROCESS 0 1	negative gram stain
-T0	PROCESS 0 1	definitive cause
-T0	PROCESS 0 1	transverse myelitis
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	viral meningoencephalitis
-T0	PROCESS 0 1	common diagnosis
-T0	PROCESS 0 1	viral agent
-T0	PROCESS 0 1	common cause
-T0	PROCESS 0 1	common vector-borne infection
-T0	PROCESS 0 1	united state
-T0	PROCESS 0 1	large proportion
-T0	PROCESS 0 1	endemic area
-T0	PROCESS 0 1	north central united state
-T0	PROCESS 0 1	true rate
-T0	PROCESS 0 1	lyme neuroborreliosis
-T0	PROCESS 0 1	adult disease
+T0	KEYPHRASE-NOTYPES 0 18	Aseptic meningitis,""," a "
+T1	KEYPHRASE-NOTYPES 22 39	clinical syndrome,", a","of "
+T2	KEYPHRASE-NOTYPES 43 65	meningeal inflammation," of","in "
+T3	KEYPHRASE-NOTYPES 75 98	common bacterial agents,"ich","can"
+T4	KEYPHRASE-NOTYPES 126 127	CSF," CS","is "
+T5	KEYPHRASE-NOTYPES 157 159	variety,"ety","inf"
+T6	KEYPHRASE-NOTYPES 189 196	noninfectious causes,"ous","A r"
+T7	KEYPHRASE-NOTYPES 206 215	recent review,"ent","168"
+T8	KEYPHRASE-NOTYPES 240 253	pediatric patients,"ric","men"
+T9	KEYPHRASE-NOTYPES 265 268	meningitis,"tis","a n"
+T10	KEYPHRASE-NOTYPES 280 290	negative Gram,"ive","rep"
+T11	KEYPHRASE-NOTYPES 318 327	definitive cause,"ive","est"
+T12	KEYPHRASE-NOTYPES 358 359	patients,"ent","[7]"
+T13	KEYPHRASE-NOTYPES 375 384	Transverse myelitis,"rse","mal"
+T14	KEYPHRASE-NOTYPES 395 396	malignancy,"anc","syp"
+T15	KEYPHRASE-NOTYPES 405 406	syphilis,"ili","bac"
+T16	KEYPHRASE-NOTYPES 417 418	bacteremia,"emi","Lym"
+T17	KEYPHRASE-NOTYPES 424 432	Lyme disease,"yme","and"
+T18	KEYPHRASE-NOTYPES 443 467	viral meningoencephalitis,"ral","the"
+T19	KEYPHRASE-NOTYPES 484 494	common diagnoses,"mon","In "
+T20	KEYPHRASE-NOTYPES 506 507	children,"dre","vir"
+T21	KEYPHRASE-NOTYPES 514 521	viral agents,"ral","esp"
+T22	KEYPHRASE-NOTYPES 543 546	Coxsackie,"kie","ech"
+T23	KEYPHRASE-NOTYPES 558 559	echoviruses,"use","are"
+T24	KEYPHRASE-NOTYPES 580 589	common causes,"mon","ase"
+T25	KEYPHRASE-NOTYPES 598 609	aseptic meningitis,"tic","[8]"
+T26	KEYPHRASE-NOTYPES 619 629	Lyme disease,"yme","the"
+T27	KEYPHRASE-NOTYPES 646 671	common vector-borne infection,"mon","the"
+T28	KEYPHRASE-NOTYPES 683 693	United States,"ted","chi"
+T29	KEYPHRASE-NOTYPES 703 711	children,"ren","a l"
+T30	KEYPHRASE-NOTYPES 720 733	large proportion,"rge","cas"
+T31	KEYPHRASE-NOTYPES 739 740	cases,"ase"," Re"
+T32	KEYPHRASE-NOTYPES 757 759	cases,"ses","Lym"
+T33	KEYPHRASE-NOTYPES 765 775	Lyme disease,"yme","chi"
+T34	KEYPHRASE-NOTYPES 785 793	children,"ren","7 p"
+T35	KEYPHRASE-NOTYPES 837 845	frequencies,"ies","hig"
+T36	KEYPHRASE-NOTYPES 877 885	endemic areas,"mic","the"
+T37	KEYPHRASE-NOTYPES 913 935	north central United States,"rth","[10"
+T38	KEYPHRASE-NOTYPES 975 976	cases,"ase","it "
+T39	KEYPHRASE-NOTYPES 1004 1013	true rates,"rue","eve"
+T40	KEYPHRASE-NOTYPES 1047 1050	importance,"nce","spe"
+T41	KEYPHRASE-NOTYPES 1060 1062	spectrum,"rum","Lym"
+T42	KEYPHRASE-NOTYPES 1068 1087	Lyme neuroborreliosis,"yme","chi"
+T43	KEYPHRASE-NOTYPES 1097 1100	children,"ren","bee"
+T44	KEYPHRASE-NOTYPES 1134 1144	United States,"ted","Eur"
+T45	KEYPHRASE-NOTYPES 1151 1152	Europe,"rop","and"
+T46	KEYPHRASE-NOTYPES 1169 1173	differences,"ces","adu"
+T47	KEYPHRASE-NOTYPES 1180 1192	adult disease,"ult","bee"

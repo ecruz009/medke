@@ -1,17 +1,28 @@
-T0	PROCESS 0 1	infected tick
-T0	PROCESS 0 1	erythema migrans lesion
-T0	PROCESS 0 1	cardiovascular symptom
-T0	PROCESS 0 1	musculoskeletal symptom
-T0	PROCESS 0 1	migratory joint
-T0	PROCESS 0 1	muscle pain
-T0	PROCESS 0 1	joint swelling
-T0	PROCESS 0 1	neurologic manifestation
-T0	PROCESS 0 1	facial cranial nerve
-T0	PROCESS 0 1	radicular neuropathy
-T0	PROCESS 0 1	temporary atrioventricular block
-T0	PROCESS 0 1	temporary pacing
-T0	PROCESS 0 1	cardiac involvement
-T0	PROCESS 0 1	complete heart block
-T0	PROCESS 0 1	treated lyme disease
-T0	PROCESS 0 1	disseminated disease
-T0	PROCESS 0 1	initial infection
+T0	KEYPHRASE-NOTYPES 19 28	infection,"ted","typ"
+T1	KEYPHRASE-NOTYPES 55 63	days,"n a","to "
+T2	KEYPHRASE-NOTYPES 67 72	weeks," to","aft"
+T3	KEYPHRASE-NOTYPES 79 86	contact,"ter","wit"
+T4	KEYPHRASE-NOTYPES 96 109	infected tick,"the"," Si"
+T5	KEYPHRASE-NOTYPES 111 116	Signs,"ck.","inc"
+T6	KEYPHRASE-NOTYPES 146 170	erythema migrans lesions,"ry)"," Ad"
+T7	KEYPHRASE-NOTYPES 218 241	cardiovascular symptoms," or","can"
+T8	KEYPHRASE-NOTYPES 253 277	Musculoskeletal symptoms,"ur.","(pr"
+T9	KEYPHRASE-NOTYPES 340 351	muscle pain," or"," wi"
+T10	KEYPHRASE-NOTYPES 385 410	Neurologic manifestations,"ng.","(pr"
+T11	KEYPHRASE-NOTYPES 430 435	cases," of"," ma"
+T12	KEYPHRASE-NOTYPES 449 459	meningitis,"ude"," pa"
+T13	KEYPHRASE-NOTYPES 461 470	paralysis,"is,","of "
+T14	KEYPHRASE-NOTYPES 478 498	facial cranial nerve,"the"," an"
+T15	KEYPHRASE-NOTYPES 504 526	radicular neuropathies,"and"," Ca"
+T16	KEYPHRASE-NOTYPES 528 551	Cardiovascular symptoms,"es.","are"
+T17	KEYPHRASE-NOTYPES 618 651	temporary atrioventricular blocks,"ude","of "
+T18	KEYPHRASE-NOTYPES 663 669	degree,"ing"," Al"
+T19	KEYPHRASE-NOTYPES 680 696	temporary pacing,"ugh","may"
+T20	KEYPHRASE-NOTYPES 734 742	patients," of","wit"
+T21	KEYPHRASE-NOTYPES 748 767	cardiac involvement,"ith"," co"
+T22	KEYPHRASE-NOTYPES 769 789	complete heart block,"nt,","rar"
+T23	KEYPHRASE-NOTYPES 843 855	Lyme disease,"ted","may"
+T24	KEYPHRASE-NOTYPES 890 897	disease,"ted","wit"
+T25	KEYPHRASE-NOTYPES 905 910	weeks,"hin","to "
+T26	KEYPHRASE-NOTYPES 914 920	months," to","aft"
+T27	KEYPHRASE-NOTYPES 927 944	initial infection,"ter",""

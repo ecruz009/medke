@@ -38,7 +38,8 @@ def main(confs):
         logger.info("processing file: %(1)s"%{"1":f})
         keyphs = extract_keyph(f)
 
-        outfile = re.sub(r"txt$","ann",f).replace(testdir,outdir)
+        outfile = re.sub(r"txt$","ann",f).replace(testdir,"")
+        outfile = os.path.join(outdir, outfile)
         outf = open(outfile,"w")
         # keyphs is a list of tuples ("keyphrase",[boundarys])
         for i,keyph in enumerate(keyphs):

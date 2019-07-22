@@ -1,24 +1,41 @@
-T0	PROCESS 0 1	north american lyme disease
-T0	PROCESS 0 1	borreliosis result
-T0	PROCESS 0 1	tick-borne spirochete borrelia burgdorferi
-T0	PROCESS 0 1	temperate climate
-T0	PROCESS 0 1	geographic distribution
-T0	PROCESS 0 1	disease control
-T0	PROCESS 0 1	mortality weekly report
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	new york
-T0	PROCESS 0 1	endemic region
-T0	PROCESS 0 1	differential diagnosis
-T0	PROCESS 0 1	protean clinical manifestation
-T0	PROCESS 0 1	nervous system
-T0	PROCESS 0 1	clinical feature
-T0	PROCESS 0 1	lyme neuroborreliosis
-T0	PROCESS 0 1	previous publication
-T0	PROCESS 0 1	behavioral change
-T0	PROCESS 0 1	increased intracranial pressure
-T0	PROCESS 0 1	sixth nerve palsy
-T0	PROCESS 0 1	bilateral facial paralysis
-T0	PROCESS 0 1	intranuclear ophthalmoplegia
-T0	PROCESS 0 1	abrupt sign
-T0	PROCESS 0 1	brainstem dysfunction
-T0	PROCESS 0 1	single lesion
+T0	KEYPHRASE-NOTYPES 0 27	North American Lyme disease,"","or "
+T1	KEYPHRASE-NOTYPES 31 50	borreliosis results," or","fro"
+T2	KEYPHRASE-NOTYPES 56 65	infection,"rom","by "
+T3	KEYPHRASE-NOTYPES 73 94	tick-borne spirochete,"the","Bor"
+T4	KEYPHRASE-NOTYPES 121 129	organism,"The","is "
+T5	KEYPHRASE-NOTYPES 145 163	temperate climates," in"," Th"
+T6	KEYPHRASE-NOTYPES 169 192	geographic distribution,"The","rep"
+T7	KEYPHRASE-NOTYPES 209 216	Centers,"the","for"
+T8	KEYPHRASE-NOTYPES 221 236	Disease Control,"for","in "
+T9	KEYPHRASE-NOTYPES 240 249	Morbidity," in","and"
+T10	KEYPHRASE-NOTYPES 254 277	Mortality Weekly Report,"and","rev"
+T11	KEYPHRASE-NOTYPES 294 299	cases," 12","of "
+T12	KEYPHRASE-NOTYPES 303 315	Lyme disease," of","rep"
+T13	KEYPHRASE-NOTYPES 328 335	Florida," in","as "
+T14	KEYPHRASE-NOTYPES 362 370	New York," in","and"
+T15	KEYPHRASE-NOTYPES 384 395	Connecticut," in","by "
+T16	KEYPHRASE-NOTYPES 416 431	endemic regions,"the"," Ly"
+T17	KEYPHRASE-NOTYPES 433 445	Lyme disease,"ns,","is "
+T18	KEYPHRASE-NOTYPES 469 491	differential diagnosis,"n a","bec"
+T19	KEYPHRASE-NOTYPES 507 538	protean clinical manifestations,"the","inv"
+T20	KEYPHRASE-NOTYPES 549 553	skin,"ing"," he"
+T21	KEYPHRASE-NOTYPES 555 560	heart,"in,"," mu"
+T22	KEYPHRASE-NOTYPES 583 598	nervous systems,"and"," Th"
+T23	KEYPHRASE-NOTYPES 604 621	clinical features,"The","of "
+T24	KEYPHRASE-NOTYPES 625 646	Lyme neuroborreliosis," of","(LN"
+T25	KEYPHRASE-NOTYPES 648 650	LN,"is "," ha"
+T26	KEYPHRASE-NOTYPES 675 696	previous publications," in","[2-"
+T27	KEYPHRASE-NOTYPES 704 718	Encephalopathy,"7].","may"
+T28	KEYPHRASE-NOTYPES 740 758	behavioral changes," by"," si"
+T29	KEYPHRASE-NOTYPES 760 765	signs,"es;","and"
+T30	KEYPHRASE-NOTYPES 770 778	symptoms,"and","of "
+T31	KEYPHRASE-NOTYPES 792 813	intracranial pressure,"sed"," in"
+T32	KEYPHRASE-NOTYPES 827 844	sixth nerve palsy,"g a"," an"
+T33	KEYPHRASE-NOTYPES 864 890	bilateral facial paralysis," or"," Th"
+T34	KEYPHRASE-NOTYPES 913 924	description,"n a","of "
+T35	KEYPHRASE-NOTYPES 928 956	intranuclear ophthalmoplegia," of"," Th"
+T36	KEYPHRASE-NOTYPES 962 966	case,"The","we "
+T37	KEYPHRASE-NOTYPES 1002 1014	abrupt signs,"the","of "
+T38	KEYPHRASE-NOTYPES 1018 1039	brainstem dysfunction," of","sug"
+T39	KEYPHRASE-NOTYPES 1053 1066	single lesion,"g a","tha"
+T40	KEYPHRASE-NOTYPES 1097 1106	neoplasia,"rom",""

@@ -21,6 +21,7 @@ import logging
 import config
 import nltk
 from nltk.tag import StanfordPOSTagger
+from nltk.parse import CoreNLPParser
 nltk.internals.config_java(options='-xmx4G')
 
 logger = logging.getLogger("gen_keyphrase_core_bounds")
@@ -74,6 +75,7 @@ def generate_pos_map(ptree,span_toks):
     logger = logging.getLogger("generate_pos_map")
     pos_map = []
     for i,span in enumerate(span_toks):
+        print(i, span)
         logger.debug(ptree.leaf_treeposition(i))
         pos_map.append([str(ptree.leaf_treeposition(i)),span])
     return pos_map
@@ -109,8 +111,9 @@ def gen_keyphrases(text):
 
     # old way of tokenization
     #toks = nltk.regexp_tokenize(text, sentence_re)
-    st = StanfordPOSTagger(config.stanford_bidirectional_tagger_path,config.stanford_postagger_jar_path,encoding="utf8",java_options="-mx8g")
-    _postoks = st.tag(toks)
+    #st = StanfordPOSTagger(config.stanford_bidirectional_tagger_path,config.stanford_postagger_jar_path,encoding="utf8",java_options="-mx8g")
+    pos_tagger = CoreNLPParser(url=config.corenlpserverurl,tagtype='pos')
+    _postoks = list(pos_tagger.tag(toks))
     # examine the postags, if "[", then change the tag to "X", create a new list
     postoks = []
     for pt in _postoks:
@@ -120,7 +123,7 @@ def gen_keyphrases(text):
             postoks.append((']','X'))
         else:
             postoks.append(pt)
-    logger.info(postoks)
+    logger.debug(postoks)
     
     # NLTK POS Tagger
     #postoks = nltk.tag.pos_tag(toks)

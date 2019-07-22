@@ -1,31 +1,64 @@
-T0	PROCESS 0 1	healthy volunteer
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	follow-up evaluation
-T0	PROCESS 0 1	institutional review board
-T0	PROCESS 0 1	columbia university
-T0	PROCESS 0 1	new york state psychiatric institute
-T0	PROCESS 0 1	informed consent
-T0	PROCESS 0 1	columbia university medical center
-T0	PROCESS 0 1	following criterion
-T0	PROCESS 0 1	physician-documented erythema migrans
-T0	PROCESS 0 1	u.s. center
-T0	PROCESS 0 1	disease control
-T0	PROCESS 0 1	equivocal elisa
-T0	PROCESS 0 1	positive western blot serology6
-T0	PROCESS 0 1	current positive igg western blot
-T0	PROCESS 0 1	cdc surveillance criterion
-T0	PROCESS 0 1	single reference laboratory
-T0	PROCESS 0 1	university hospital
-T0	PROCESS 0 1	stony brook
-T0	PROCESS 0 1	iv ceftriaxone
-T0	PROCESS 0 1	study entry
-T0	PROCESS 0 1	subjective memory impairment
-T0	PROCESS 0 1	participant report
-T0	PROCESS 0 1	objective evidence
-T0	PROCESS 0 1	memory impairment
-T0	PROCESS 0 1	wechsler memory scale iii8
-T0	PROCESS 0 1	education-adjusted population norm
-T0	PROCESS 0 1	study criterion
-T0	PROCESS 0 1	diagnostic confidence
-T0	PROCESS 0 1	prior iv antibiotic therapy
-T0	PROCESS 0 1	neurologic lyme disease
+T0	KEYPHRASE-NOTYPES 8 15	January,"een","200"
+T1	KEYPHRASE-NOTYPES 25 30	April,"and","200"
+T2	KEYPHRASE-NOTYPES 37 55	healthy volunteers,"04,","(co"
+T3	KEYPHRASE-NOTYPES 57 65	controls,"rs "," an"
+T4	KEYPHRASE-NOTYPES 71 82	individuals,"and","wit"
+T5	KEYPHRASE-NOTYPES 90 97	history,"h a","of "
+T6	KEYPHRASE-NOTYPES 101 113	Lyme disease," of","(pa"
+T7	KEYPHRASE-NOTYPES 115 123	patients,"se "," be"
+T8	KEYPHRASE-NOTYPES 137 141	ages,"the","of "
+T9	KEYPHRASE-NOTYPES 155 160	years," 65","wer"
+T10	KEYPHRASE-NOTYPES 177 198	follow-up evaluations,"ed;","wer"
+T11	KEYPHRASE-NOTYPES 217 222	April," by","200"
+T12	KEYPHRASE-NOTYPES 233 260	institutional review boards,"The","at "
+T13	KEYPHRASE-NOTYPES 264 283	Columbia University," at","and"
+T14	KEYPHRASE-NOTYPES 292 328	New York State Psychiatric Institute,"the","app"
+T15	KEYPHRASE-NOTYPES 342 347	study,"the"," an"
+T16	KEYPHRASE-NOTYPES 357 369	participants,"all","pro"
+T17	KEYPHRASE-NOTYPES 396 403	consent,"med"," Ev"
+T18	KEYPHRASE-NOTYPES 405 416	Evaluations,"nt.","wer"
+T19	KEYPHRASE-NOTYPES 439 475	New York State Psychiatric Institute,"the","and"
+T20	KEYPHRASE-NOTYPES 480 514	Columbia University Medical Center,"and"," Tr"
+T21	KEYPHRASE-NOTYPES 516 526	Treatments,"er.","wer"
+T22	KEYPHRASE-NOTYPES 550 557	patient,"ach","s h"
+T23	KEYPHRASE-NOTYPES 560 564	home,"t’s"," Pa"
+T24	KEYPHRASE-NOTYPES 566 574	Patients,"me.","met"
+T25	KEYPHRASE-NOTYPES 593 601	criteria,"ing"," (1"
+T26	KEYPHRASE-NOTYPES 607 614	history,"(1)","of "
+T27	KEYPHRASE-NOTYPES 618 655	physician-documented erythema migrans," of","or "
+T28	KEYPHRASE-NOTYPES 659 671	U.S. Centers," or","for"
+T29	KEYPHRASE-NOTYPES 676 691	Disease Control,"for","and"
+T30	KEYPHRASE-NOTYPES 696 706	Prevention,"and","(CD"
+T31	KEYPHRASE-NOTYPES 708 711	CDC,"on ","-de"
+T32	KEYPHRASE-NOTYPES 721 734	manifestation,"ned","of "
+T33	KEYPHRASE-NOTYPES 738 750	Lyme disease," of"," an"
+T34	KEYPHRASE-NOTYPES 770 785	equivocal ELISA," or","con"
+T35	KEYPHRASE-NOTYPES 799 830	positive Western blot serology6," by","7; "
+T36	KEYPHRASE-NOTYPES 838 871	current positive IgG Western blot,"(2)","usi"
+T37	KEYPHRASE-NOTYPES 878 903	CDC surveillance criteria,"ing"," as"
+T38	KEYPHRASE-NOTYPES 922 949	single reference laboratory,"g a","(Un"
+T39	KEYPHRASE-NOTYPES 951 970	University Hospital,"ry ","of "
+T40	KEYPHRASE-NOTYPES 974 985	Stony Brook," of","; ("
+T41	KEYPHRASE-NOTYPES 992 1001	treatment,"(3)","for"
+T42	KEYPHRASE-NOTYPES 1006 1018	Lyme disease,"for","wit"
+T43	KEYPHRASE-NOTYPES 1035 1040	weeks,"t 3","of "
+T44	KEYPHRASE-NOTYPES 1047 1058	ceftriaxone," IV"," co"
+T45	KEYPHRASE-NOTYPES 1081 1087	months,"t 4","bef"
+T46	KEYPHRASE-NOTYPES 1095 1106	study entry,"ore"," (4"
+T47	KEYPHRASE-NOTYPES 1112 1140	subjective memory impairment,"(4)","tha"
+T48	KEYPHRASE-NOTYPES 1150 1168	participant report," by"," st"
+T49	KEYPHRASE-NOTYPES 1188 1193	onset,"the","of "
+T50	KEYPHRASE-NOTYPES 1197 1209	Lyme disease," of"," an"
+T51	KEYPHRASE-NOTYPES 1219 1237	objective evidence,"(5)","of "
+T52	KEYPHRASE-NOTYPES 1241 1258	memory impairment," of","as "
+T53	KEYPHRASE-NOTYPES 1280 1306	Wechsler Memory Scale III8,"the","com"
+T54	KEYPHRASE-NOTYPES 1321 1324	age,"ith",", s"
+T55	KEYPHRASE-NOTYPES 1327 1330	sex,"e-,",", a"
+T56	KEYPHRASE-NOTYPES 1337 1372	education-adjusted population norms,"and"," Th"
+T57	KEYPHRASE-NOTYPES 1380 1394	study criteria,"ese","wer"
+T58	KEYPHRASE-NOTYPES 1435 1456	diagnostic confidence,"nce"," Pr"
+T59	KEYPHRASE-NOTYPES 1467 1485	antibiotic therapy," IV","was"
+T60	KEYPHRASE-NOTYPES 1518 1526	patients,"all","had"
+T61	KEYPHRASE-NOTYPES 1540 1549	treatment,"ved","con"
+T62	KEYPHRASE-NOTYPES 1574 1597	neurologic Lyme disease,"for","by "
+T63	KEYPHRASE-NOTYPES 1611 1621	guidelines,"hed"," [9"

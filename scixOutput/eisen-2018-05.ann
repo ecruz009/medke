@@ -1,12 +1,38 @@
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	powassan virus disease
-T0	PROCESS 0 1	several order
-T0	PROCESS 0 1	geographic distribution
-T0	PROCESS 0 1	lyme disease case
-T0	PROCESS 0 1	geographic range
-T0	PROCESS 0 1	upper midwest
-T0	PROCESS 0 1	high incidence
-T0	PROCESS 0 1	notifiable condition
-T0	PROCESS 0 1	miyamotoi disease case
-T0	PROCESS 0 1	likely similer
-T0	PROCESS 0 1	muris eauclarensis
+T0	KEYPHRASE-NOTYPES 14 26	Lyme disease,"ith"," th"
+T1	KEYPHRASE-NOTYPES 32 41	incidence,"the","of "
+T2	KEYPHRASE-NOTYPES 54 66	anaplasmosis,"ted"," Po"
+T3	KEYPHRASE-NOTYPES 68 90	Powassan virus disease,"is,"," an"
+T4	KEYPHRASE-NOTYPES 96 106	babesiosis,"and","is "
+T5	KEYPHRASE-NOTYPES 110 124	several orders," is","of "
+T6	KEYPHRASE-NOTYPES 128 137	magnitude," of","low"
+T7	KEYPHRASE-NOTYPES 155 178	geographic distribution,"eir","app"
+T8	KEYPHRASE-NOTYPES 231 243	distribution,"the","of "
+T9	KEYPHRASE-NOTYPES 247 265	Lyme disease cases," of"," th"
+T10	KEYPHRASE-NOTYPES 271 287	geographic range,"the","of "
+T11	KEYPHRASE-NOTYPES 291 303	anaplasmosis," of","and"
+T12	KEYPHRASE-NOTYPES 308 318	babesiosis,"and","has"
+T13	KEYPHRASE-NOTYPES 345 349	time,"ver","(Fi"
+T14	KEYPHRASE-NOTYPES 351 357	Figure,"me ","4) "
+T15	KEYPHRASE-NOTYPES 390 408	Lyme disease cases," of","are"
+T16	KEYPHRASE-NOTYPES 435 441	states," 14","in "
+T17	KEYPHRASE-NOTYPES 449 458	northeast,"the"," mi"
+T18	KEYPHRASE-NOTYPES 481 494	upper Midwest,"the","[95"
+T19	KEYPHRASE-NOTYPES 511 520	mid-1990s,"the"," th"
+T20	KEYPHRASE-NOTYPES 526 532	number,"the","of "
+T21	KEYPHRASE-NOTYPES 536 544	counties," of","wit"
+T22	KEYPHRASE-NOTYPES 552 566	high incidence,"h a","of "
+T23	KEYPHRASE-NOTYPES 570 582	Lyme disease," of","has"
+T24	KEYPHRASE-NOTYPES 640 660	notifiable condition,"t a"," tr"
+T25	KEYPHRASE-NOTYPES 662 668	trends,"on,","in "
+T26	KEYPHRASE-NOTYPES 672 681	incidence," in","and"
+T27	KEYPHRASE-NOTYPES 686 702	geographic range,"and","of "
+T28	KEYPHRASE-NOTYPES 706 708	Bo," of"," mi"
+T29	KEYPHRASE-NOTYPES 710 733	miyamotoi disease cases,"Bo.","are"
+T30	KEYPHRASE-NOTYPES 770 786	geographic range,"the","is "
+T31	KEYPHRASE-NOTYPES 790 804	likely similer," is","to "
+T32	KEYPHRASE-NOTYPES 816 828	Lyme disease," of","[10"
+T33	KEYPHRASE-NOTYPES 839 847	contrast," By"," eh"
+T34	KEYPHRASE-NOTYPES 849 861	ehrlichiosis,"st,"," ca"
+T35	KEYPHRASE-NOTYPES 873 874	E," by"," mu"
+T36	KEYPHRASE-NOTYPES 876 894	muris eauclarensis," E."," th"
+T37	KEYPHRASE-NOTYPES 937 950	upper Midwest,"the","[65"

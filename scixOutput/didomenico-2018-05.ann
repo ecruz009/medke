@@ -1,9 +1,29 @@
-T0	PROCESS 0 1	echanismwhichmight favor chronic
-T0	PROCESS 0 1	persistent infection
-T0	PROCESS 0 1	first-line drug
-T0	PROCESS 0 1	several intracellular infection
-T0	PROCESS 0 1	listeria infection
-T0	PROCESS 0 1	biofilm production
-T0	PROCESS 0 1	extracellular bacteria
-T0	PROCESS 0 1	intracellular localization
-T0	PROCESS 0 1	chronic bacterial persistence
+T0	KEYPHRASE-NOTYPES 3 11	addition,"In","to "
+T1	KEYPHRASE-NOTYPES 15 32	biofilm formation," to"," th"
+T2	KEYPHRASE-NOTYPES 38 45	ability,"the","of "
+T3	KEYPHRASE-NOTYPES 93 97	host,"the","has"
+T4	KEYPHRASE-NOTYPES 121 145	echanismwhichmight favor,"s a","chr"
+T5	KEYPHRASE-NOTYPES 157 177	persistent infection," or","and"
+T6	KEYPHRASE-NOTYPES 213 221	efficacy,"the","of "
+T7	KEYPHRASE-NOTYPES 225 236	antibiotics," of"," Ho"
+T8	KEYPHRASE-NOTYPES 283 302	extracellularmatrix,"the"," an"
+T9	KEYPHRASE-NOTYPES 312 323	antibiotics,"the","rec"
+T10	KEYPHRASE-NOTYPES 344 353	treatment,"the","of "
+T11	KEYPHRASE-NOTYPES 357 359	LB," of","are"
+T12	KEYPHRASE-NOTYPES 364 380	first-line drugs,"are","in "
+T13	KEYPHRASE-NOTYPES 384 416	several intracellular infections," in","(21"
+T14	KEYPHRASE-NOTYPES 429 440	Doxycycline,"7).","and"
+T15	KEYPHRASE-NOTYPES 445 457	azithromycin,"and","are"
+T16	KEYPHRASE-NOTYPES 484 493	treatment,"the","of "
+T17	KEYPHRASE-NOTYPES 497 507	Mycoplasma," of"," Ch"
+T18	KEYPHRASE-NOTYPES 509 518	Chlamydia,"ma,"," an"
+T19	KEYPHRASE-NOTYPES 524 534	Legionella,"and"," wh"
+T20	KEYPHRASE-NOTYPES 542 553	ceftriaxone,"ile","is "
+T21	KEYPHRASE-NOTYPES 590 599	Neisseria,"and"," an"
+T22	KEYPHRASE-NOTYPES 605 616	amoxicillin,"and","is "
+T23	KEYPHRASE-NOTYPES 634 653	Listeria infections,"eat","(21"
+T24	KEYPHRASE-NOTYPES 680 698	biofilm production,"ss,","by "
+T25	KEYPHRASE-NOTYPES 702 724	extracellular bacteria," by","and"
+T26	KEYPHRASE-NOTYPES 729 755	intracellular localization,"and","of "
+T27	KEYPHRASE-NOTYPES 834 863	chronic bacterial persistence,"ing","in "
+T28	KEYPHRASE-NOTYPES 871 875	host,"the",""

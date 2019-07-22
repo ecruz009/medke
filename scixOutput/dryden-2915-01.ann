@@ -1,17 +1,64 @@
-T0	PROCESS 0 1	tick life cycle
-T0	PROCESS 0 1	tick specie
-T0	PROCESS 0 1	active life
-T0	PROCESS 0 1	life stage
-T0	PROCESS 0 1	six-legged larva feed
-T0	PROCESS 0 1	small mammal
-T0	PROCESS 0 1	vegetation layer
-T0	PROCESS 0 1	nymph stage
-T0	PROCESS 0 1	avian host
-T0	PROCESS 0 1	adult stage
-T0	PROCESS 0 1	emergent male adult
-T0	PROCESS 0 1	female adult
-T0	PROCESS 0 1	three-year life cycle
-T0	PROCESS 0 1	blood meal digestion
-T0	PROCESS 0 1	climatic condition
-T0	PROCESS 0 1	dense ground cover vegetation
-T0	PROCESS 0 1	leaf litter
+T0	KEYPHRASE-NOTYPES 4 19	tick life cycle,"The","for"
+T1	KEYPHRASE-NOTYPES 28 36	majority,"the","of "
+T2	KEYPHRASE-NOTYPES 40 52	tick species," of","fou"
+T3	KEYPHRASE-NOTYPES 66 68	UK,"the","tak"
+T4	KEYPHRASE-NOTYPES 92 97	years,"ree","and"
+T5	KEYPHRASE-NOTYPES 122 140	active life stages,"ree","– t"
+T6	KEYPHRASE-NOTYPES 147 153	larvae,"the"," ny"
+T7	KEYPHRASE-NOTYPES 155 161	nymphs,"ae,","and"
+T8	KEYPHRASE-NOTYPES 166 172	adults,"and"," Un"
+T9	KEYPHRASE-NOTYPES 188 195	insects,"ing"," ea"
+T10	KEYPHRASE-NOTYPES 202 206	tick,"ach","fee"
+T11	KEYPHRASE-NOTYPES 227 237	life stage,"per"," bu"
+T12	KEYPHRASE-NOTYPES 248 252	feed,"ach","tak"
+T13	KEYPHRASE-NOTYPES 261 267	number,"s a","of "
+T14	KEYPHRASE-NOTYPES 271 275	days," of"," Th"
+T15	KEYPHRASE-NOTYPES 281 303	six-legged larvae feed,"The","on "
+T16	KEYPHRASE-NOTYPES 326 330	days,"six","on "
+T17	KEYPHRASE-NOTYPES 334 347	small mammals," on","or "
+T18	KEYPHRASE-NOTYPES 351 356	birds," or"," On"
+T19	KEYPHRASE-NOTYPES 397 401	host,"the","and"
+T20	KEYPHRASE-NOTYPES 406 410	rest,"and","in "
+T21	KEYPHRASE-NOTYPES 418 434	vegetation layer,"the","on "
+T22	KEYPHRASE-NOTYPES 442 448	ground,"the"," be"
+T23	KEYPHRASE-NOTYPES 473 484	nymph stage,"the"," Th"
+T24	KEYPHRASE-NOTYPES 490 496	nymphs,"The","are"
+T25	KEYPHRASE-NOTYPES 529 533	legs,"ght","and"
+T26	KEYPHRASE-NOTYPES 538 542	feed,"and","for"
+T27	KEYPHRASE-NOTYPES 562 566	days,"ght","on "
+T28	KEYPHRASE-NOTYPES 599 610	avian hosts," or"," Ag"
+T29	KEYPHRASE-NOTYPES 658 662	host,"the","and"
+T30	KEYPHRASE-NOTYPES 679 684	moult,"the","to "
+T31	KEYPHRASE-NOTYPES 692 703	adult stage,"the"," Th"
+T32	KEYPHRASE-NOTYPES 709 729	emergent male adults,"The","of "
+T33	KEYPHRASE-NOTYPES 738 745	species,"ome","onl"
+T34	KEYPHRASE-NOTYPES 795 808	female adults,"The","of "
+T35	KEYPHRASE-NOTYPES 815 827	ricinus feed," I.","for"
+T36	KEYPHRASE-NOTYPES 843 847	days," 12","on "
+T37	KEYPHRASE-NOTYPES 858 865	mammals,"ger","suc"
+T38	KEYPHRASE-NOTYPES 874 878	deer," as","and"
+T39	KEYPHRASE-NOTYPES 883 892	livestock,"and"," Fo"
+T40	KEYPHRASE-NOTYPES 904 915	engorgement,"ing","and"
+T41	KEYPHRASE-NOTYPES 920 926	mating,"and"," th"
+T42	KEYPHRASE-NOTYPES 932 939	females,"the","dro"
+T43	KEYPHRASE-NOTYPES 953 957	host,"the","to "
+T44	KEYPHRASE-NOTYPES 982 986	eggs,"and","bef"
+T45	KEYPHRASE-NOTYPES 1006 1027	three-year life cycle,"n a"," a "
+T46	KEYPHRASE-NOTYPES 1031 1035	tick,", a","wil"
+T47	KEYPHRASE-NOTYPES 1064 1069	weeks,"ree","on "
+T48	KEYPHRASE-NOTYPES 1073 1080	animals," on"," Th"
+T49	KEYPHRASE-NOTYPES 1086 1095	processes,"The","of "
+T50	KEYPHRASE-NOTYPES 1099 1119	blood meal digestion," of"," mo"
+T51	KEYPHRASE-NOTYPES 1134 1137	egg,"and","lay"
+T52	KEYPHRASE-NOTYPES 1158 1164	period,"r a","of "
+T53	KEYPHRASE-NOTYPES 1168 1174	months," of"," du"
+T54	KEYPHRASE-NOTYPES 1189 1193	time,"ich"," th"
+T55	KEYPHRASE-NOTYPES 1199 1209	ticks rest,"the","in "
+T56	KEYPHRASE-NOTYPES 1217 1233	vegetation layer,"the"," Th"
+T57	KEYPHRASE-NOTYPES 1257 1276	climatic conditions," to"," pa"
+T58	KEYPHRASE-NOTYPES 1291 1302	temperature,"rly","and"
+T59	KEYPHRASE-NOTYPES 1307 1315	humidity,"and"," bu"
+T60	KEYPHRASE-NOTYPES 1321 1350	dense ground cover vegetation,"but","or "
+T61	KEYPHRASE-NOTYPES 1354 1365	leaf litter," or"," wh"
+T62	KEYPHRASE-NOTYPES 1377 1385	humidity,"the","is "
+T63	KEYPHRASE-NOTYPES 1414 1419	ticks,"the","fro"

@@ -1,52 +1,113 @@
-T0	PROCESS 0 1	5-year-old girl
-T0	PROCESS 0 1	significant medical history
-T0	PROCESS 0 1	unsteady gait
-T0	PROCESS 0 1	intervening period
-T0	PROCESS 0 1	recent immunization
-T0	PROCESS 0 1	tick bite
-T0	PROCESS 0 1	infectious disease
-T0	PROCESS 0 1	medical history
-T0	PROCESS 0 1	silifke mersin
-T0	PROCESS 0 1	semiurban area
-T0	PROCESS 0 1	southern coast
-T0	PROCESS 0 1	mediterranean region
-T0	PROCESS 0 1	vital sign
-T0	PROCESS 0 1	physical examination
-T0	PROCESS 0 1	neurological examination
-T0	PROCESS 0 1	mental function
-T0	PROCESS 0 1	cranial nerve function
-T0	PROCESS 0 1	bilateral cerebellar sign
-T0	PROCESS 0 1	bilateral dysmetria
-T0	PROCESS 0 1	intention tremor
-T0	PROCESS 0 1	marked ataxia
-T0	PROCESS 0 1	deep tendon reflex
-T0	PROCESS 0 1	plantar response
-T0	PROCESS 0 1	laboratory analysis
-T0	PROCESS 0 1	normal blood leukocyte count
-T0	PROCESS 0 1	serum c-reactive protein
-T0	PROCESS 0 1	erythrocyte sedimentation rate
-T0	PROCESS 0 1	computed tomography
-T0	PROCESS 0 1	magnetic resonance imaging
-T0	PROCESS 0 1	cerebrospinal fluid
-T0	PROCESS 0 1	mild pleocytosis
-T0	PROCESS 0 1	normal protein
-T0	PROCESS 0 1	glucose concentration
-T0	PROCESS 0 1	serum marker
-T0	PROCESS 0 1	herpes simplex virus
-T0	PROCESS 0 1	varicella zoster
-T0	PROCESS 0 1	epstein-barr virus
-T0	PROCESS 0 1	intravenous immunoglobulin
-T0	PROCESS 0 1	postviral immune response
-T0	PROCESS 0 1	acute cerebellar ataxia
-T0	PROCESS 0 1	fifth day
-T0	PROCESS 0 1	serologic evaluation
-T0	PROCESS 0 1	borrelia burgdorferi
-T0	PROCESS 0 1	pathogen-specific igm
-T0	PROCESS 0 1	intravenous cefotaxime
-T0	PROCESS 0 1	mg kg
-T0	PROCESS 0 1	new lumbar puncture
-T0	PROCESS 0 1	csf lyme serology
-T0	PROCESS 0 1	cefotaxime treatment
-T0	PROCESS 0 1	neurologic examination
-T0	PROCESS 0 1	burgdorferi igm
-T0	PROCESS 0 1	igg antibody
+T0	KEYPHRASE-NOTYPES 2 17	5-year-old girl,"A","wit"
+T1	KEYPHRASE-NOTYPES 26 53	significant medical history," no","pre"
+T2	KEYPHRASE-NOTYPES 69 82	unsteady gait,"ith","tha"
+T3	KEYPHRASE-NOTYPES 105 109	days,"d 4","pri"
+T4	KEYPHRASE-NOTYPES 119 130	examination," to"," In"
+T5	KEYPHRASE-NOTYPES 151 157	period,"ing"," he"
+T6	KEYPHRASE-NOTYPES 163 167	gait,"her","pro"
+T7	KEYPHRASE-NOTYPES 234 241	history," no","of "
+T8	KEYPHRASE-NOTYPES 245 250	fever," of"," ra"
+T9	KEYPHRASE-NOTYPES 252 256	rash,"er,"," re"
+T10	KEYPHRASE-NOTYPES 258 278	recent immunizations,"sh,"," ti"
+T11	KEYPHRASE-NOTYPES 285 289	bite,"ick"," or"
+T12	KEYPHRASE-NOTYPES 294 303	exposures," or","to "
+T13	KEYPHRASE-NOTYPES 307 325	infectious disease," to"," Me"
+T14	KEYPHRASE-NOTYPES 327 342	Medical history,"se.","was"
+T15	KEYPHRASE-NOTYPES 365 371	family,"The","liv"
+T16	KEYPHRASE-NOTYPES 381 395	Silifke Mersin," in"," wh"
+T17	KEYPHRASE-NOTYPES 408 422	semiurban area,"s a","in "
+T18	KEYPHRASE-NOTYPES 426 440	southern coast," in","of "
+T19	KEYPHRASE-NOTYPES 444 452	Anatolia," of","(Me"
+T20	KEYPHRASE-NOTYPES 454 474	Mediterranean region,"ia ",". V"
+T21	KEYPHRASE-NOTYPES 477 488	Vital signs,"n).","and"
+T22	KEYPHRASE-NOTYPES 493 513	physical examination,"and","wer"
+T23	KEYPHRASE-NOTYPES 530 554	neurological examination," On"," he"
+T24	KEYPHRASE-NOTYPES 567 583	mental functions,"her","and"
+T25	KEYPHRASE-NOTYPES 588 611	cranial nerve functions,"and","wer"
+T26	KEYPHRASE-NOTYPES 642 647	signs," no","of "
+T27	KEYPHRASE-NOTYPES 651 661	meningitis," of"," Sh"
+T28	KEYPHRASE-NOTYPES 671 697	bilateral cerebellar signs,"had","in "
+T29	KEYPHRASE-NOTYPES 705 709	form,"the","of "
+T30	KEYPHRASE-NOTYPES 713 722	hypotonia," of","of "
+T31	KEYPHRASE-NOTYPES 730 735	limbs,"all"," dy"
+T32	KEYPHRASE-NOTYPES 737 747	dysarthria,"bs,"," ny"
+T33	KEYPHRASE-NOTYPES 749 758	nystagmus,"ia,"," bi"
+T34	KEYPHRASE-NOTYPES 760 779	bilateral dysmetria,"us,"," an"
+T35	KEYPHRASE-NOTYPES 785 801	intention tremor,"and"," Sh"
+T36	KEYPHRASE-NOTYPES 822 835	marked ataxia,"ted"," Su"
+T37	KEYPHRASE-NOTYPES 853 873	deep tendon reflexes,"and","wer"
+T38	KEYPHRASE-NOTYPES 890 907	plantar responses,"and","wer"
+T39	KEYPHRASE-NOTYPES 913 919	flexor,"ere"," La"
+T40	KEYPHRASE-NOTYPES 921 940	Laboratory analyses,"or.","rev"
+T41	KEYPHRASE-NOTYPES 950 978	normal blood leukocyte count,"led","(56"
+T42	KEYPHRASE-NOTYPES 985 988	mm3,"670",", s"
+T43	KEYPHRASE-NOTYPES 991 1015	serum C-reactive protein,"3),","(3 "
+T44	KEYPHRASE-NOTYPES 1019 1023	mg L," (3",", a"
+T45	KEYPHRASE-NOTYPES 1030 1060	erythrocyte sedimentation rate,"and","(30"
+T46	KEYPHRASE-NOTYPES 1065 1069	mm h,"(30",". N"
+T47	KEYPHRASE-NOTYPES 1089 1099	tomography,"ted","(CT"
+T48	KEYPHRASE-NOTYPES 1101 1103	CT,"hy "," no"
+T49	KEYPHRASE-NOTYPES 1109 1135	magnetic resonance imaging,"nor","(MR"
+T50	KEYPHRASE-NOTYPES 1137 1140	MRI,"ng "," re"
+T51	KEYPHRASE-NOTYPES 1155 1168	abnormalities,"any","in "
+T52	KEYPHRASE-NOTYPES 1176 1181	brain,"the"," Ce"
+T53	KEYPHRASE-NOTYPES 1183 1202	Cerebrospinal fluid,"in.","(CS"
+T54	KEYPHRASE-NOTYPES 1204 1207	CSF,"id "," sh"
+T55	KEYPHRASE-NOTYPES 1218 1234	mild pleocytosis,"d a","(30"
+T56	KEYPHRASE-NOTYPES 1239 1248	cells mm3,"(30"," al"
+T57	KEYPHRASE-NOTYPES 1271 1285	normal protein,"but","and"
+T58	KEYPHRASE-NOTYPES 1290 1312	glucose concentrations,"and"," Ac"
+T59	KEYPHRASE-NOTYPES 1314 1323	Acyclovir,"ns."," ce"
+T60	KEYPHRASE-NOTYPES 1325 1335	cefotaxime,"ir,"," an"
+T61	KEYPHRASE-NOTYPES 1341 1355	clarithromycin,"and","wer"
+T62	KEYPHRASE-NOTYPES 1387 1400	Serum markers,"ly.","for"
+T63	KEYPHRASE-NOTYPES 1405 1425	herpes simplex virus,"for"," cy"
+T64	KEYPHRASE-NOTYPES 1427 1442	cytomegalovirus,"us,"," va"
+T65	KEYPHRASE-NOTYPES 1444 1460	varicella zoster,"us,"," mu"
+T66	KEYPHRASE-NOTYPES 1462 1467	mumps,"er,"," ru"
+T67	KEYPHRASE-NOTYPES 1469 1476	rubella,"ps,"," ru"
+T68	KEYPHRASE-NOTYPES 1478 1485	rubeola,"la,"," Ep"
+T69	KEYPHRASE-NOTYPES 1487 1505	Epstein-Barr virus,"la,"," an"
+T70	KEYPHRASE-NOTYPES 1511 1521	mycoplasma,"and","wer"
+T71	KEYPHRASE-NOTYPES 1541 1567	Intravenous immunoglobulin,"ve.","(IV"
+T72	KEYPHRASE-NOTYPES 1569 1573	IVIG,"in "," in"
+T73	KEYPHRASE-NOTYPES 1575 1583	infusion,"IG)","was"
+T74	KEYPHRASE-NOTYPES 1599 1602	day," on","7 t"
+T75	KEYPHRASE-NOTYPES 1621 1646	postviral immune response,"the","tha"
+T76	KEYPHRASE-NOTYPES 1675 1698	acute cerebellar ataxia,"for"," On"
+T77	KEYPHRASE-NOTYPES 1707 1716	fifth day,"the","aft"
+T78	KEYPHRASE-NOTYPES 1723 1732	admission,"ter"," se"
+T79	KEYPHRASE-NOTYPES 1734 1754	serologic evaluation,"on,","for"
+T80	KEYPHRASE-NOTYPES 1797 1818	pathogen-specific IgM,"for","but"
+T81	KEYPHRASE-NOTYPES 1836 1839	IgG,"for"," Af"
+T82	KEYPHRASE-NOTYPES 1865 1872	results,"ese"," th"
+T83	KEYPHRASE-NOTYPES 1878 1885	history,"the","of "
+T84	KEYPHRASE-NOTYPES 1893 1900	patient,"the","was"
+T85	KEYPHRASE-NOTYPES 1921 1930	tick bite,"for"," Sh"
+T86	KEYPHRASE-NOTYPES 1955 1961	injury,"any"," ra"
+T87	KEYPHRASE-NOTYPES 1963 1967	rash,"ry,"," or"
+T88	KEYPHRASE-NOTYPES 1977 1981	bite,"ick"," Ac"
+T89	KEYPHRASE-NOTYPES 1983 1992	Acyclovir,"te.","and"
+T90	KEYPHRASE-NOTYPES 1997 2011	clarithromycin,"and","wer"
+T91	KEYPHRASE-NOTYPES 2033 2036	day," on","10 "
+T92	KEYPHRASE-NOTYPES 2065 2087	intravenous cefotaxime,"red","200"
+T93	KEYPHRASE-NOTYPES 2092 2097	mg kg,"200","per"
+T94	KEYPHRASE-NOTYPES 2102 2105	day,"per","for"
+T95	KEYPHRASE-NOTYPES 2122 2126	days," 28"," Be"
+T96	KEYPHRASE-NOTYPES 2140 2147	patient,"the","did"
+T97	KEYPHRASE-NOTYPES 2161 2171	permission,"ive","for"
+T98	KEYPHRASE-NOTYPES 2178 2197	new lumbar puncture,"r a"," CS"
+T99	KEYPHRASE-NOTYPES 2199 2216	CSF Lyme serology,"re,","cou"
+T100	KEYPHRASE-NOTYPES 2245 2249	gait,"Her","imp"
+T101	KEYPHRASE-NOTYPES 2276 2296	cefotaxime treatment,"ing"," At"
+T102	KEYPHRASE-NOTYPES 2305 2309	time,"the","of "
+T103	KEYPHRASE-NOTYPES 2313 2322	discharge," of","on "
+T104	KEYPHRASE-NOTYPES 2326 2329	day," on","28,"
+T105	KEYPHRASE-NOTYPES 2338 2360	neurologic examination,"her","was"
+T106	KEYPHRASE-NOTYPES 2373 2378	Serum,"al.","was"
+T107	KEYPHRASE-NOTYPES 2401 2402	B,"oth"," bu"
+T108	KEYPHRASE-NOTYPES 2416 2419	IgM,"eri","and"
+T109	KEYPHRASE-NOTYPES 2424 2438	IgG antibodies,"and","on "
+T110	KEYPHRASE-NOTYPES 2442 2445	day," on","28 "
+T111	KEYPHRASE-NOTYPES 2462 2465	IgG,"for","on "
+T112	KEYPHRASE-NOTYPES 2469 2472	day," on","120"

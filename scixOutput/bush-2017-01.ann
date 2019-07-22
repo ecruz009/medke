@@ -1,28 +1,63 @@
-T0	PROCESS 0 1	lyme disease
-T0	PROCESS 0 1	lyme borreliosis
-T0	PROCESS 0 1	allen steere
-T0	PROCESS 0 1	juvenile rheumatoid arthritis
-T0	PROCESS 0 1	small town
-T0	PROCESS 0 1	lyme arthritis
-T0	PROCESS 0 1	arthropod-born infection
-T0	PROCESS 0 1	asymmetric swelling
-T0	PROCESS 0 1	large joint
-T0	PROCESS 0 1	erythematous annular rash
-T0	PROCESS 0 1	ixodes ricinus tick
-T0	PROCESS 0 1	causative agent
-T0	PROCESS 0 1	bacterial pathogen
-T0	PROCESS 0 1	several name
-T0	PROCESS 0 1	erythema chronicum migrans
-T0	PROCESS 0 1	acrodermatitis chronica atrophicans
-T0	PROCESS 0 1	willy burgdorfer
-T0	PROCESS 0 1	honor borrelia burgdorferfi
-T0	PROCESS 0 1	shelter island
-T0	PROCESS 0 1	new york
-T0	PROCESS 0 1	causative spirochete bacterium
-T0	PROCESS 0 1	typical skin lesion
-T0	PROCESS 0 1	cerebrospinal fluid
-T0	PROCESS 0 1	infected individual
-T0	PROCESS 0 1	early discovery
-T0	PROCESS 0 1	zoonotic infection
-T0	PROCESS 0 1	prevalent vector-borne disease
-T0	PROCESS 0 1	north america
+T0	KEYPHRASE-NOTYPES 0 12	Lyme disease,""," al"
+T1	KEYPHRASE-NOTYPES 34 50	Lyme borreliosis," as"," wa"
+T2	KEYPHRASE-NOTYPES 94 96	Dr," by"," Al"
+T3	KEYPHRASE-NOTYPES 98 110	Allen Steere,"Dr."," a "
+T4	KEYPHRASE-NOTYPES 114 128	rheumatologist,", a","who"
+T5	KEYPHRASE-NOTYPES 140 153	investigation," an","of "
+T6	KEYPHRASE-NOTYPES 160 168	outbreak," an","of "
+T7	KEYPHRASE-NOTYPES 172 181	arthritis," of"," in"
+T8	KEYPHRASE-NOTYPES 208 237	juvenile rheumatoid arthritis," be"," in"
+T9	KEYPHRASE-NOTYPES 245 253	children," 39","and"
+T10	KEYPHRASE-NOTYPES 261 267	adults," 12","clu"
+T11	KEYPHRASE-NOTYPES 285 295	small town,"the","of "
+T12	KEYPHRASE-NOTYPES 299 303	Lyme," of"," Co"
+T13	KEYPHRASE-NOTYPES 305 316	Connecticut,"me,"," [1"
+T14	KEYPHRASE-NOTYPES 322 327	First,"[1]","cal"
+T15	KEYPHRASE-NOTYPES 336 350	Lyme Arthritis,"ed ",", h"
+T16	KEYPHRASE-NOTYPES 371 380	condition,"his","was"
+T17	KEYPHRASE-NOTYPES 398 422	arthropod-born infection," an"," as"
+T18	KEYPHRASE-NOTYPES 432 440	patients,"ost","suf"
+T19	KEYPHRASE-NOTYPES 478 490	large joints," of"," ma"
+T20	KEYPHRASE-NOTYPES 528 553	erythematous annular rash," an","sim"
+T21	KEYPHRASE-NOTYPES 580 587	decades,"bed","ear"
+T22	KEYPHRASE-NOTYPES 599 605	Europe," in","ass"
+T23	KEYPHRASE-NOTYPES 626 630	bite,"the","of "
+T24	KEYPHRASE-NOTYPES 638 657	Ixodes ricinus tick,"the"," [2"
+T25	KEYPHRASE-NOTYPES 676 691	causative agent,"the","was"
+T26	KEYPHRASE-NOTYPES 709 717	etiology,"the","was"
+T27	KEYPHRASE-NOTYPES 739 757	bacterial pathogen,"e a","in "
+T28	KEYPHRASE-NOTYPES 770 774	rash,"the","see"
+T29	KEYPHRASE-NOTYPES 796 805	treatment," to","wit"
+T30	KEYPHRASE-NOTYPES 811 821	penicillin,"ith"," Du"
+T31	KEYPHRASE-NOTYPES 835 839	time,"his"," th"
+T32	KEYPHRASE-NOTYPES 845 851	entity,"the","was"
+T33	KEYPHRASE-NOTYPES 862 875	several names,"ven","inc"
+T34	KEYPHRASE-NOTYPES 886 912	erythema chronicum migrans,"ing"," Ba"
+T35	KEYPHRASE-NOTYPES 914 923	Bannwarth,"ns,","s s"
+T36	KEYPHRASE-NOTYPES 926 934	syndrome,"h’s"," an"
+T37	KEYPHRASE-NOTYPES 940 975	acrodermatitis chronica atrophicans,"and"," [3"
+T38	KEYPHRASE-NOTYPES 1008 1010	Dr,"hat"," Wi"
+T39	KEYPHRASE-NOTYPES 1012 1028	Willy Burgdorfer,"Dr."," a "
+T40	KEYPHRASE-NOTYPES 1032 1046	microbiologist,", a","stu"
+T41	KEYPHRASE-NOTYPES 1060 1072	microbiology,"the","of "
+T42	KEYPHRASE-NOTYPES 1080 1087	hindgut,"the","of "
+T43	KEYPHRASE-NOTYPES 1091 1096	ticks," of"," su"
+T44	KEYPHRASE-NOTYPES 1124 1132	pathogen,"the"," na"
+T45	KEYPHRASE-NOTYPES 1147 1152	honor,"his","Bor"
+T46	KEYPHRASE-NOTYPES 1184 1192	damimini," I.","(I."
+T47	KEYPHRASE-NOTYPES 1197 1207	scapularis,"(I."," ti"
+T48	KEYPHRASE-NOTYPES 1224 1238	Shelter Island," on"," Ne"
+T49	KEYPHRASE-NOTYPES 1240 1248	New York,"nd,","4,5"
+T50	KEYPHRASE-NOTYPES 1253 1265	Subsequently,"4,5"," th"
+T51	KEYPHRASE-NOTYPES 1272 1302	causative spirochete bacterium,"his","has"
+T52	KEYPHRASE-NOTYPES 1330 1350	typical skin lesions,"the"," as"
+T53	KEYPHRASE-NOTYPES 1363 1368	blood," as","and"
+T54	KEYPHRASE-NOTYPES 1373 1392	cerebrospinal fluid,"and","of "
+T55	KEYPHRASE-NOTYPES 1396 1416	infected individuals," of"," Si"
+T56	KEYPHRASE-NOTYPES 1428 1443	early discovery,"its"," Ly"
+T57	KEYPHRASE-NOTYPES 1445 1457	Lyme disease,"ry,","has"
+T58	KEYPHRASE-NOTYPES 1490 1496	extent," an","tha"
+T59	KEYPHRASE-NOTYPES 1507 1525	zoonotic infection,"his","is "
+T60	KEYPHRASE-NOTYPES 1548 1578	prevalent vector-borne disease,"ost","in "
+T61	KEYPHRASE-NOTYPES 1587 1600	North America,"oth","and"
+T62	KEYPHRASE-NOTYPES 1605 1611	Europe,"and",""

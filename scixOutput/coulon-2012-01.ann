@@ -1,24 +1,37 @@
-T0	PROCESS 0 1	primary problem
-T0	PROCESS 0 1	right shoulder pain
-T0	PROCESS 0 1	overhead activity
-T0	PROCESS 0 1	right side
-T0	PROCESS 0 1	patient history
-T0	PROCESS 0 1	system review
-T0	PROCESS 0 1	potential differential diagnosis
-T0	PROCESS 0 1	right shoulder subacromial impingement
-T0	PROCESS 0 1	subacromial bursitis
-T0	PROCESS 0 1	rotator cuff tendinopathy
-T0	PROCESS 0 1	partial tear
-T0	PROCESS 0 1	supraspinatus tendon
-T0	PROCESS 0 1	radiologist interpretation
-T0	PROCESS 0 1	subacromial impingement
-T0	PROCESS 0 1	physical therapist
-T0	PROCESS 0 1	strength examination
-T0	PROCESS 0 1	posture analysis
-T0	PROCESS 0 1	special test
-T0	PROCESS 0 1	potential diagnosis
-T0	PROCESS 0 1	musculoskeletal diagnosis
-T0	PROCESS 0 1	atypical symptom
-T0	PROCESS 0 1	physical therapist ability
-T0	PROCESS 0 1	referral contribute
-T0	PROCESS 0 1	case report
+T0	KEYPHRASE-NOTYPES 4 19	primary problem,"The","was"
+T1	KEYPHRASE-NOTYPES 28 47	right shoulder pain,"the","wit"
+T2	KEYPHRASE-NOTYPES 53 70	overhead activity,"ith","and"
+T3	KEYPHRASE-NOTYPES 91 101	right side,"his"," Fr"
+T4	KEYPHRASE-NOTYPES 112 119	patient,"the","s h"
+T5	KEYPHRASE-NOTYPES 122 129	history,"t’s","and"
+T6	KEYPHRASE-NOTYPES 134 148	systems review,"and"," th"
+T7	KEYPHRASE-NOTYPES 154 186	potential differential diagnoses,"the","inc"
+T8	KEYPHRASE-NOTYPES 196 234	right shoulder subacromial impingement,"ded","due"
+T9	KEYPHRASE-NOTYPES 242 262	subacromial bursitis," to"," ro"
+T10	KEYPHRASE-NOTYPES 264 289	rotator cuff tendinopathy,"is,"," or"
+T11	KEYPHRASE-NOTYPES 316 336	supraspinatus tendon,"the"," [1"
+T12	KEYPHRASE-NOTYPES 348 359	radiologist,"The","s i"
+T13	KEYPHRASE-NOTYPES 362 376	interpretation,"t’s","of "
+T14	KEYPHRASE-NOTYPES 384 395	radiographs,"the","and"
+T15	KEYPHRASE-NOTYPES 400 403	MRI,"and","app"
+T16	KEYPHRASE-NOTYPES 424 447	subacromial impingement,"ort","due"
+T17	KEYPHRASE-NOTYPES 455 481	supraspinatus tendinopathy," to"," Th"
+T18	KEYPHRASE-NOTYPES 498 516	physical therapist,"ing","det"
+T19	KEYPHRASE-NOTYPES 532 539	patient,"the","nee"
+T20	KEYPHRASE-NOTYPES 549 564	range-of-motion,"d a","and"
+T21	KEYPHRASE-NOTYPES 569 589	strength examination,"and"," po"
+T22	KEYPHRASE-NOTYPES 591 607	posture analysis,"on,"," an"
+T23	KEYPHRASE-NOTYPES 613 626	special tests,"and","to "
+T24	KEYPHRASE-NOTYPES 654 673	potential diagnoses,"the"," Fr"
+T25	KEYPHRASE-NOTYPES 684 691	patient,"the","s h"
+T26	KEYPHRASE-NOTYPES 694 701	history,"t’s","and"
+T27	KEYPHRASE-NOTYPES 716 727	examination,"ing"," a "
+T28	KEYPHRASE-NOTYPES 731 756	musculoskeletal diagnosis,", a","was"
+T29	KEYPHRASE-NOTYPES 793 810	atypical symptoms,"and","beg"
+T30	KEYPHRASE-NOTYPES 839 851	intervention,"the"," Th"
+T31	KEYPHRASE-NOTYPES 866 894	physical therapist ability,"ing","to "
+T32	KEYPHRASE-NOTYPES 913 920	patient,"his","s a"
+T33	KEYPHRASE-NOTYPES 923 940	atypical symptoms,"t’s","and"
+T34	KEYPHRASE-NOTYPES 962 970	referral,"her","con"
+T35	KEYPHRASE-NOTYPES 989 999	importance,"the","of "
+T36	KEYPHRASE-NOTYPES 1019 1030	case report,"his",""

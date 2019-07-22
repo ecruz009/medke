@@ -1,24 +1,51 @@
-T0	PROCESS 0 1	common manifestation
-T0	PROCESS 0 1	pediatric neuroborreliosis
-T0	PROCESS 0 1	cn vii palsy
-T0	PROCESS 0 1	lymphocytic meningitis
-T0	PROCESS 0 1	pediatric patient
-T0	PROCESS 0 1	bilateral deficit
-T0	PROCESS 0 1	cns iii
-T0	PROCESS 0 1	noninvasive imaging modality
-T0	PROCESS 0 1	clinical finding
-T0	PROCESS 0 1	right-sided cns vii
-T0	PROCESS 0 1	viii involvement
-T0	PROCESS 0 1	right cn iii
-T0	PROCESS 0 1	post-gadolinium mri
-T0	PROCESS 0 1	concomitant clinical manifestation
-T0	PROCESS 0 1	clinically silent enhancement
-T0	PROCESS 0 1	pediatric case
-T0	PROCESS 0 1	right-sided cn vi
-T0	PROCESS 0 1	abnormal enhancement
-T0	PROCESS 0 1	cn vi
-T0	PROCESS 0 1	cn iii
-T0	PROCESS 0 1	silent thalamic lesion
-T0	PROCESS 0 1	cn inflammation
-T0	PROCESS 0 1	northamerican neuroborreliosis
-T0	PROCESS 0 1	patient age group
+T0	KEYPHRASE-NOTYPES 9 30	common manifestations,"ost","of "
+T1	KEYPHRASE-NOTYPES 34 60	pediatric neuroborreliosis," of","is "
+T2	KEYPHRASE-NOTYPES 64 76	CN VII palsy," is","(un"
+T3	KEYPHRASE-NOTYPES 107 129	lymphocytic meningitis,"and"," Am"
+T4	KEYPHRASE-NOTYPES 137 155	pediatric patients,"ong","wit"
+T5	KEYPHRASE-NOTYPES 161 177	neuroborreliosis,"ith"," ap"
+T6	KEYPHRASE-NOTYPES 207 219	CN VII palsy,"ave"," an"
+T7	KEYPHRASE-NOTYPES 264 282	bilateral deficits,"ith"," [2"
+T8	KEYPHRASE-NOTYPES 288 295	CNs III,"[2]"," VI"
+T9	KEYPHRASE-NOTYPES 297 299	VI,"II,"," an"
+T10	KEYPHRASE-NOTYPES 305 309	VIII,"and","are"
+T11	KEYPHRASE-NOTYPES 356 367	involvement,"ugh","of "
+T12	KEYPHRASE-NOTYPES 377 380	CNs,"ese","is "
+T13	KEYPHRASE-NOTYPES 412 415	MRI,"ly,","has"
+T14	KEYPHRASE-NOTYPES 435 463	noninvasive imaging modality,"s a","to "
+T15	KEYPHRASE-NOTYPES 475 492	clinical findings,"irm"," Ou"
+T16	KEYPHRASE-NOTYPES 498 505	patient,"Our","onl"
+T17	KEYPHRASE-NOTYPES 526 531	signs,"ith","of "
+T18	KEYPHRASE-NOTYPES 535 554	right-sided CNs VII," of","and"
+T19	KEYPHRASE-NOTYPES 559 575	VIII involvement,"and","on "
+T20	KEYPHRASE-NOTYPES 579 590	examination," on","but"
+T21	KEYPHRASE-NOTYPES 613 625	inflammation,"ave","of "
+T22	KEYPHRASE-NOTYPES 629 637	right CN," of","III"
+T23	KEYPHRASE-NOTYPES 643 644	X,"II,"," an"
+T24	KEYPHRASE-NOTYPES 650 654	CN V,"and","bil"
+T25	KEYPHRASE-NOTYPES 670 689	post-gadolinium MRI," on","wit"
+T26	KEYPHRASE-NOTYPES 698 733	concomitant clinical manifestations,"out"," Cl"
+T27	KEYPHRASE-NOTYPES 747 766	silent enhancement,"ly ","of "
+T28	KEYPHRASE-NOTYPES 770 773	CNs," of","on "
+T29	KEYPHRASE-NOTYPES 777 780	MRI," on","has"
+T30	KEYPHRASE-NOTYPES 813 828	pediatric cases," in","of "
+T31	KEYPHRASE-NOTYPES 832 848	neuroborreliosis," of"," Ba"
+T32	KEYPHRASE-NOTYPES 850 857	Baumann,"is.","et "
+T33	KEYPHRASE-NOTYPES 878 882	case,"d a","of "
+T34	KEYPHRASE-NOTYPES 886 912	pediatric neuroborreliosis," of","wit"
+T35	KEYPHRASE-NOTYPES 946 969	right-sided CN VI palsy,"nt,","des"
+T36	KEYPHRASE-NOTYPES 981 984	MRI," an","dem"
+T37	KEYPHRASE-NOTYPES 999 1019	abnormal enhancement,"ing","of "
+T38	KEYPHRASE-NOTYPES 1023 1028	CN VI," of","bil"
+T39	KEYPHRASE-NOTYPES 1052 1054	CN," as","III"
+T40	KEYPHRASE-NOTYPES 1074 1097	Silent thalamic lesions,"ly.","hav"
+T41	KEYPHRASE-NOTYPES 1125 1143	pediatric patients," in","wit"
+T42	KEYPHRASE-NOTYPES 1149 1165	neuroborreliosis,"ith","4 I"
+T43	KEYPHRASE-NOTYPES 1176 1180	case,"his"," th"
+T44	KEYPHRASE-NOTYPES 1186 1192	extent,"the","of "
+T45	KEYPHRASE-NOTYPES 1196 1211	CN inflammation," of","eve"
+T46	KEYPHRASE-NOTYPES 1225 1260	concomitant clinical manifestations,"out","is "
+T47	KEYPHRASE-NOTYPES 1278 1283	cases,"hin","of "
+T48	KEYPHRASE-NOTYPES 1287 1317	NorthAmerican neuroborreliosis," of"," pa"
+T49	KEYPHRASE-NOTYPES 1340 1347	patient,"our","s a"
+T50	KEYPHRASE-NOTYPES 1350 1359	age group,"t’s",""

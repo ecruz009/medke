@@ -1,33 +1,76 @@
-T0	PROCESS 0 1	improved taxonomy
-T0	PROCESS 0 1	clinical syndrome
-T0	PROCESS 0 1	aseptic meningitis
-T0	PROCESS 0 1	viral meningitis
-T0	PROCESS 0 1	prospective management dilemma
-T0	PROCESS 0 1	recent technical advance
-T0	PROCESS 0 1	polymerase chain reaction assay
-T0	PROCESS 0 1	enteroviral ribonucleic acid
-T0	PROCESS 0 1	cytokine level
-T0	PROCESS 0 1	tumor necrosis factor
-T0	PROCESS 0 1	bacterial meningitis
-T0	PROCESS 0 1	differential diagnosis
-T0	PROCESS 0 1	management dilemma
-T0	PROCESS 0 1	enigmatic meningitis
-T0	PROCESS 0 1	unknown origin
-T0	PROCESS 0 1	acute meningitis
-T0	PROCESS 0 1	negative csf gram
-T0	PROCESS 0 1	future prospective study
-T0	PROCESS 0 1	nthis study
-T0	PROCESS 0 1	clinical presentation
-T0	PROCESS 0 1	common presenting emergency department problem
-T0	PROCESS 0 1	emergency department
-T0	PROCESS 0 1	conservative estimate
-T0	PROCESS 0 1	nonfederal hospital
-T0	PROCESS 0 1	united state
-T0	PROCESS 0 1	total emergency department visit
-T0	PROCESS 0 1	recent data
-T0	PROCESS 0 1	high expenditure
-T0	PROCESS 0 1	inpatient care
-T0	PROCESS 0 1	high cost
-T0	PROCESS 0 1	inappropriate evaluation
-T0	PROCESS 0 1	neglected problem
-T0	PROCESS 0 1	unnecessary hospitalization
+T0	KEYPHRASE-NOTYPES 15 27	observations,"the","in "
+T1	KEYPHRASE-NOTYPES 36 41	study,"his","hig"
+T2	KEYPHRASE-NOTYPES 56 60	need,"the","for"
+T3	KEYPHRASE-NOTYPES 77 85	taxonomy,"ved","of "
+T4	KEYPHRASE-NOTYPES 94 111	clinical syndrome,"his"," As"
+T5	KEYPHRASE-NOTYPES 113 131	Aseptic meningitis,"me.","is "
+T6	KEYPHRASE-NOTYPES 138 148	definition," by","a d"
+T7	KEYPHRASE-NOTYPES 151 160	diagnosis,"n a","in "
+T8	KEYPHRASE-NOTYPES 164 174	retrospect," in"," is"
+T9	KEYPHRASE-NOTYPES 228 244	viral meningitis,"ith"," [1"
+T10	KEYPHRASE-NOTYPES 290 321	prospective management dilemmas,"the","fac"
+T11	KEYPHRASE-NOTYPES 335 344	clinician,"the"," Re"
+T12	KEYPHRASE-NOTYPES 346 371	Recent technical advances,"an.","usi"
+T13	KEYPHRASE-NOTYPES 378 410	polymerase chain reaction assays,"ing","for"
+T14	KEYPHRASE-NOTYPES 415 443	enteroviral ribonucleic acid,"for","[16"
+T15	KEYPHRASE-NOTYPES 456 471	cytokine levels,"and","(in"
+T16	KEYPHRASE-NOTYPES 473 486	interleukin-1,"ls "," tu"
+T17	KEYPHRASE-NOTYPES 488 509	tumor necrosis factor,"-1,"," [1"
+T18	KEYPHRASE-NOTYPES 522 525	CSF," in","to "
+T19	KEYPHRASE-NOTYPES 552 572	bacterial meningitis,"rom","are"
+T20	KEYPHRASE-NOTYPES 638 648	complexity,"the","of "
+T21	KEYPHRASE-NOTYPES 652 674	differential diagnoses," of","and"
+T22	KEYPHRASE-NOTYPES 679 698	management dilemmas,"and"," Th"
+T23	KEYPHRASE-NOTYPES 704 709	terms,"The","\"e"
+T24	KEYPHRASE-NOTYPES 712 733	enigmatic meningitis \,"s \"," or"
+T25	KEYPHRASE-NOTYPES 740 750	meningitis,"r \","of "
+T26	KEYPHRASE-NOTYPES 754 769	unknown origin \," of"," (i"
+T27	KEYPHRASE-NOTYPES 776 792	acute meningitis,"ie,","wit"
+T28	KEYPHRASE-NOTYPES 800 817	negative CSF Gram,"h a","s s"
+T29	KEYPHRASE-NOTYPES 879 892	practitioners,"for"," an"
+T30	KEYPHRASE-NOTYPES 915 932	improved taxonomy," an","for"
+T31	KEYPHRASE-NOTYPES 937 963	future prospective studies,"for","\nT"
+T32	KEYPHRASE-NOTYPES 965 976	nThis study,"es.","sho"
+T33	KEYPHRASE-NOTYPES 992 1013	clinical presentation,"the","of "
+T34	KEYPHRASE-NOTYPES 1017 1025	patients," of","wit"
+T35	KEYPHRASE-NOTYPES 1031 1047	acute meningitis,"ith","wit"
+T36	KEYPHRASE-NOTYPES 1055 1059	Gram,"h a","s s"
+T37	KEYPHRASE-NOTYPES 1081 1089	bacteria,"for","(or"
+T38	KEYPHRASE-NOTYPES 1094 1114	enigmatic meningitis,"(or"," is"
+T39	KEYPHRASE-NOTYPES 1139 1167	emergency department problem,"ing"," ap"
+T40	KEYPHRASE-NOTYPES 1186 1191	cases," 86","per"
+T41	KEYPHRASE-NOTYPES 1196 1200	year,"per","in "
+T42	KEYPHRASE-NOTYPES 1207 1227	emergency department," an","wit"
+T43	KEYPHRASE-NOTYPES 1240 1246	visits,"000","per"
+T44	KEYPHRASE-NOTYPES 1251 1255	year,"per"," A "
+T45	KEYPHRASE-NOTYPES 1259 1280	conservative estimate,". A"," th"
+T46	KEYPHRASE-NOTYPES 1304 1308	case,"t 1","per"
+T47	KEYPHRASE-NOTYPES 1319 1325	visits,"000","per"
+T48	KEYPHRASE-NOTYPES 1330 1334	year,"per"," Ex"
+T49	KEYPHRASE-NOTYPES 1355 1363	estimate,"his","to "
+T50	KEYPHRASE-NOTYPES 1388 1408	nonfederal hospitals,"al,","in "
+T51	KEYPHRASE-NOTYPES 1416 1429	United States,"the","(n "
+T52	KEYPHRASE-NOTYPES 1431 1432	n,"es ","= 5"
+T53	KEYPHRASE-NOTYPES 1486 1519	total emergency department visits,"562","in "
+T54	KEYPHRASE-NOTYPES 1568 1573	cases,"000","of "
+T55	KEYPHRASE-NOTYPES 1577 1597	enigmatic meningitis," of","per"
+T56	KEYPHRASE-NOTYPES 1602 1606	year,"per","in "
+T57	KEYPHRASE-NOTYPES 1614 1627	United States,"the"," Gi"
+T58	KEYPHRASE-NOTYPES 1635 1646	recent data,"ven","doc"
+T59	KEYPHRASE-NOTYPES 1663 1680	high expenditures,"the","for"
+T60	KEYPHRASE-NOTYPES 1685 1699	inpatient care,"for","in "
+T61	KEYPHRASE-NOTYPES 1707 1720	United States,"the","($4"
+T62	KEYPHRASE-NOTYPES 1742 1743	admission,"sio"," [2"
+T63	KEYPHRASE-NOTYPES 1800 1802	dollars,"ars","bei"
+T64	KEYPHRASE-NOTYPES 1841 1842	patients,"ent","Alt"
+T65	KEYPHRASE-NOTYPES 1876 1877	estimate,"mat","the"
+T66	KEYPHRASE-NOTYPES 1887 1894	high cost,"igh","pot"
+T67	KEYPHRASE-NOTYPES 1921 1935	inappropriate evaluation,"ate","hos"
+T68	KEYPHRASE-NOTYPES 1952 1960	hospitalization,"ion","the"
+T69	KEYPHRASE-NOTYPES 1973 1977	concept,"ept","thi"
+T70	KEYPHRASE-NOTYPES 2020 2021	problem,"ble","Eff"
+T71	KEYPHRASE-NOTYPES 2030 2032	Efforts,"rts","ide"
+T72	KEYPHRASE-NOTYPES 2065 2081	unnecessary hospitalization,"ary","use"
+T73	KEYPHRASE-NOTYPES 2086 2088	use,"use","ant"
+T74	KEYPHRASE-NOTYPES 2100 2101	antibiotics,"tic","and"
+T75	KEYPHRASE-NOTYPES 2114 2117	imaging,"ing","urg"

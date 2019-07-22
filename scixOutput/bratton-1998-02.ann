@@ -1,15 +1,46 @@
-T0	PROCESS 0 1	many area
-T0	PROCESS 0 1	united state
-T0	PROCESS 0 1	new england
-T0	PROCESS 0 1	mid-atlantic state
-T0	PROCESS 0 1	prolonged bite
-T0	PROCESS 0 1	western united state
-T0	PROCESS 0 1	unengorged tick
-T0	PROCESS 0 1	tick gut
-T0	PROCESS 0 1	salivary gland
-T0	PROCESS 0 1	routine antibiotic prophylaxis
-T0	PROCESS 0 1	engorged ixodes tick
-T0	PROCESS 0 1	endemic area
-T0	PROCESS 0 1	local rate
-T0	PROCESS 0 1	single 200-mg oral dose
-T0	PROCESS 0 1	lyme disease
+T0	KEYPHRASE-NOTYPES 3 13	many areas,"In","of "
+T1	KEYPHRASE-NOTYPES 21 34	United States,"the"," ti"
+T2	KEYPHRASE-NOTYPES 69 70	B,"on.","bur"
+T3	KEYPHRASE-NOTYPES 97 108	New England," in"," th"
+T4	KEYPHRASE-NOTYPES 114 133	mid-Atlantic states,"the"," Mi"
+T5	KEYPHRASE-NOTYPES 135 144	Minnesota,"es,"," an"
+T6	KEYPHRASE-NOTYPES 150 159	Wisconsin,"and"," In"
+T7	KEYPHRASE-NOTYPES 170 175	areas,"ese"," th"
+T8	KEYPHRASE-NOTYPES 181 185	risk,"the","of "
+T9	KEYPHRASE-NOTYPES 189 198	infection," of","aft"
+T10	KEYPHRASE-NOTYPES 207 221	prolonged bite,"r a","can"
+T11	KEYPHRASE-NOTYPES 253 257	Risk,"24]","of "
+T12	KEYPHRASE-NOTYPES 261 270	infection," of","is "
+T13	KEYPHRASE-NOTYPES 305 326	western United States,"and"," Fu"
+T14	KEYPHRASE-NOTYPES 353 357	risk," no","of "
+T15	KEYPHRASE-NOTYPES 361 373	transmission," of","of "
+T16	KEYPHRASE-NOTYPES 377 378	B," of","bur"
+T17	KEYPHRASE-NOTYPES 399 414	unengorged tick," an","bec"
+T18	KEYPHRASE-NOTYPES 427 438	spirochetes,"the","req"
+T19	KEYPHRASE-NOTYPES 456 461	hours," 36","aft"
+T20	KEYPHRASE-NOTYPES 470 474	bite,"r a","to "
+T21	KEYPHRASE-NOTYPES 495 503	tick gut,"the","to "
+T22	KEYPHRASE-NOTYPES 511 526	salivary glands,"the"," [2"
+T23	KEYPHRASE-NOTYPES 553 560	factors,"ese"," ro"
+T24	KEYPHRASE-NOTYPES 562 592	routine antibiotic prophylaxis,"rs,","is "
+T25	KEYPHRASE-NOTYPES 628 643	engorged Ixodes," an","tic"
+T26	KEYPHRASE-NOTYPES 673 680	patient,"m a","in "
+T27	KEYPHRASE-NOTYPES 687 699	endemic area," an","(lo"
+T28	KEYPHRASE-NOTYPES 701 711	local rate,"ea ","of "
+T29	KEYPHRASE-NOTYPES 715 724	infection," of","of "
+T30	KEYPHRASE-NOTYPES 728 733	ticks," of","wit"
+T31	KEYPHRASE-NOTYPES 739 740	B,"ith","bur"
+T32	KEYPHRASE-NOTYPES 770 774	tick,"the","has"
+T33	KEYPHRASE-NOTYPES 809 814	hours," 36"," a "
+T34	KEYPHRASE-NOTYPES 818 841	single 200-mg oral dose,", a","of "
+T35	KEYPHRASE-NOTYPES 845 856	doxycycline," of","can"
+T36	KEYPHRASE-NOTYPES 887 892	hours," 72","aft"
+T37	KEYPHRASE-NOTYPES 899 906	removal,"ter","of "
+T38	KEYPHRASE-NOTYPES 914 918	tick,"the","for"
+T39	KEYPHRASE-NOTYPES 923 934	prophylaxis,"for","aga"
+T40	KEYPHRASE-NOTYPES 943 955	Lyme disease,"nst"," [2"
+T41	KEYPHRASE-NOTYPES 964 975	Prophylaxis,"24]","is "
+T42	KEYPHRASE-NOTYPES 1022 1026	bite,"cus","unl"
+T43	KEYPHRASE-NOTYPES 1038 1048	local rate,"the","of "
+T44	KEYPHRASE-NOTYPES 1052 1061	infection," of","wit"
+T45	KEYPHRASE-NOTYPES 1067 1068	B,"ith","bur"

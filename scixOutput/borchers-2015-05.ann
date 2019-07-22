@@ -1,31 +1,77 @@
-T0	PROCESS 0 1	major shortcoming
-T0	PROCESS 0 1	available data
-T0	PROCESS 0 1	infecting specie
-T0	PROCESS 0 1	cultured isolates
-T0	PROCESS 0 1	borrelia spp
-T0	PROCESS 0 1	csf sample
-T0	PROCESS 0 1	synovial fluid
-T0	PROCESS 0 1	tissue sample
-T0	PROCESS 0 1	pcr-based amplification
-T0	PROCESS 0 1	tissue specimen
-T0	PROCESS 0 1	specific pcr target
-T0	PROCESS 0 1	culture positive
-T0	PROCESS 0 1	extracutaneous lesion
-T0	PROCESS 0 1	recognizable em lesion
-T0	PROCESS 0 1	major determinant
-T0	PROCESS 0 1	particular specie
-T0	PROCESS 0 1	regional tick
-T0	PROCESS 0 1	small number
-T0	PROCESS 0 1	human sample
-T0	PROCESS 0 1	different time period
-T0	PROCESS 0 1	different location
-T0	PROCESS 0 1	regional variation
-T0	PROCESS 0 1	infected tick
-T0	PROCESS 0 1	afzelii infection
-T0	PROCESS 0 1	nervous system
-T0	PROCESS 0 1	typical clinical picture
-T0	PROCESS 0 1	european lnb
-T0	PROCESS 0 1	garinii infection
-T0	PROCESS 0 1	peripheral facial palsy
-T0	PROCESS 0 1	nonspecific symptom
-T0	PROCESS 0 1	european diagnostic criterion
+T0	KEYPHRASE-NOTYPES 24 42	major shortcomings,"ome","in "
+T1	KEYPHRASE-NOTYPES 60 74	available data,"tly"," De"
+T2	KEYPHRASE-NOTYPES 76 89	Determination,"ta.","of "
+T3	KEYPHRASE-NOTYPES 107 114	species,"ing","was"
+T4	KEYPHRASE-NOTYPES 137 145	isolates,"red","in "
+T5	KEYPHRASE-NOTYPES 163 170	studies,"ese"," bu"
+T6	KEYPHRASE-NOTYPES 176 183	culture,"but","of "
+T7	KEYPHRASE-NOTYPES 240 251	CSF samples," in","[10"
+T8	KEYPHRASE-NOTYPES 291 305	synovial fluid," in","or "
+T9	KEYPHRASE-NOTYPES 309 323	tissue samples," or","[11"
+T10	KEYPHRASE-NOTYPES 335 358	PCR-based amplification,"3].","of "
+T11	KEYPHRASE-NOTYPES 362 365	DNA," of","iso"
+T12	KEYPHRASE-NOTYPES 389 405	tissue specimens,"rom","gen"
+T13	KEYPHRASE-NOTYPES 430 441	sensitivity,"ter","[11"
+T14	KEYPHRASE-NOTYPES 476 495	specific PCR target,"the","[23"
+T15	KEYPHRASE-NOTYPES 518 529	sensitivity,"cks"," pa"
+T16	KEYPHRASE-NOTYPES 547 550	CSF," in","[10"
+T17	KEYPHRASE-NOTYPES 619 626	samples,"all","tha"
+T18	KEYPHRASE-NOTYPES 636 643	culture,"are","pos"
+T19	KEYPHRASE-NOTYPES 683 691	patients,"nce","wit"
+T20	KEYPHRASE-NOTYPES 697 699	EM,"ith","are"
+T21	KEYPHRASE-NOTYPES 731 742	antibiotics,"ith"," de"
+T22	KEYPHRASE-NOTYPES 744 757	determination,"cs,","of "
+T23	KEYPHRASE-NOTYPES 775 782	species,"ing","of "
+T24	KEYPHRASE-NOTYPES 798 805	samples," in","fro"
+T25	KEYPHRASE-NOTYPES 811 833	extracutaneous lesions,"rom","is "
+T26	KEYPHRASE-NOTYPES 853 860	results,"eld","tha"
+T27	KEYPHRASE-NOTYPES 891 898	strains,"ose","tha"
+T28	KEYPHRASE-NOTYPES 929 952	recognizable EM lesions,"ily"," Fe"
+T29	KEYPHRASE-NOTYPES 954 959	Fewof,"ns.","the"
+T30	KEYPHRASE-NOTYPES 966 973	studies,"ese","exa"
+T31	KEYPHRASE-NOTYPES 1006 1023	major determinant,"e a","of "
+T32	KEYPHRASE-NOTYPES 1031 1042	probability,"the","of "
+T33	KEYPHRASE-NOTYPES 1059 1068	infection," an","wit"
+T34	KEYPHRASE-NOTYPES 1076 1094	particular species,"h a","of "
+T35	KEYPHRASE-NOTYPES 1119 1129	prevalence,"its","in "
+T36	KEYPHRASE-NOTYPES 1133 1147	regional ticks," in","[20"
+T37	KEYPHRASE-NOTYPES 1177 1184	results,"The","are"
+T38	KEYPHRASE-NOTYPES 1238 1250	small number,"the","of "
+T39	KEYPHRASE-NOTYPES 1254 1259	ticks," of","and"
+T40	KEYPHRASE-NOTYPES 1267 1280	human samples,"/or","exa"
+T41	KEYPHRASE-NOTYPES 1307 1321	investigations,"ese"," In"
+T42	KEYPHRASE-NOTYPES 1326 1334	addition," In"," ti"
+T43	KEYPHRASE-NOTYPES 1345 1358	human samples,"and","wer"
+T44	KEYPHRASE-NOTYPES 1381 1403	different time periods,"ing","and"
+T45	KEYPHRASE-NOTYPES 1411 1430	different locations," in"," th"
+T46	KEYPHRASE-NOTYPES 1456 1469	consideration,"nto","tha"
+T47	KEYPHRASE-NOTYPES 1514 1532	regional variation,"and","in "
+T48	KEYPHRASE-NOTYPES 1540 1546	number,"the","of "
+T49	KEYPHRASE-NOTYPES 1550 1564	infected ticks," of","and"
+T50	KEYPHRASE-NOTYPES 1573 1585	distribution,"the","of "
+T51	KEYPHRASE-NOTYPES 1606 1611	ticks," in","[20"
+T52	KEYPHRASE-NOTYPES 1642 1649	results,"the","sug"
+T53	KEYPHRASE-NOTYPES 1663 1664	B,"hat"," ga"
+T54	KEYPHRASE-NOTYPES 1666 1673	garinii," B.","may"
+T55	KEYPHRASE-NOTYPES 1701 1705	skin," in","rat"
+T56	KEYPHRASE-NOTYPES 1737 1740	CSF," in","[20"
+T57	KEYPHRASE-NOTYPES 1758 1762	Note,"1]."," ho"
+T58	KEYPHRASE-NOTYPES 1778 1779	B,"hat"," af"
+T59	KEYPHRASE-NOTYPES 1781 1798	afzelii infection," B.","of "
+T60	KEYPHRASE-NOTYPES 1806 1820	nervous system,"the","may"
+T61	KEYPHRASE-NOTYPES 1881 1905	typical clinical picture,"the","of "
+T62	KEYPHRASE-NOTYPES 1909 1921	European LNB," of","ass"
+T63	KEYPHRASE-NOTYPES 1938 1939	B,"ith"," ga"
+T64	KEYPHRASE-NOTYPES 1941 1958	garinii infection," B."," na"
+T65	KEYPHRASE-NOTYPES 1967 1983	radiculoneuritis,"ely","and"
+T66	KEYPHRASE-NOTYPES 1991 2014	peripheral facial palsy,"/or","[11"
+T67	KEYPHRASE-NOTYPES 2031 2040	detection,"ad,","of "
+T68	KEYPHRASE-NOTYPES 2044 2045	B," of"," af"
+T69	KEYPHRASE-NOTYPES 2047 2054	afzelii," B.","in "
+T70	KEYPHRASE-NOTYPES 2058 2061	CSF," in","was"
+T71	KEYPHRASE-NOTYPES 2089 2109	nonspecific symptoms,"tly"," an"
+T72	KEYPHRASE-NOTYPES 2127 2135	patients,"the","fro"
+T73	KEYPHRASE-NOTYPES 2147 2152	CSF B,"ose"," af"
+T74	KEYPHRASE-NOTYPES 2154 2161	afzelii," B.","cou"
+T75	KEYPHRASE-NOTYPES 2200 2228	European diagnostic criteria,"the","for"
+T76	KEYPHRASE-NOTYPES 2233 2236	LNB,"for",""

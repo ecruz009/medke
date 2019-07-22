@@ -1,36 +1,87 @@
-T0	PROCESS 0 1	burgdorferi sensu lato
-T0	PROCESS 0 1	obligate parasite
-T0	PROCESS 0 1	nutritional support
-T0	PROCESS 0 1	burgdorferi specie
-T0	PROCESS 0 1	reservoir animal
-T0	PROCESS 0 1	ixodes tick
-T0	PROCESS 0 1	larval stage blood feed
-T0	PROCESS 0 1	reservoir host
-T0	PROCESS 0 1	nymphal stage
-T0	PROCESS 0 1	borrelia specie
-T0	PROCESS 0 1	plasmid-encoded production
-T0	PROCESS 0 1	outer-surface protein
-T0	PROCESS 0 1	surface lipoprotein
-T0	PROCESS 0 1	small mammal
-T0	PROCESS 0 1	tick arthropod
-T0	PROCESS 0 1	year life cycle
-T0	PROCESS 0 1	nymphal tick
-T0	PROCESS 0 1	dominant protein
-T0	PROCESS 0 1	protein ospa
-T0	PROCESS 0 1	late spring
-T0	PROCESS 0 1	ingested mammalian blood
-T0	PROCESS 0 1	spirochete production
-T0	PROCESS 0 1	tick salivary gland
-T0	PROCESS 0 1	protective tick protein
-T0	PROCESS 0 1	bacteria protection
-T0	PROCESS 0 1	animal innate immune system
-T0	PROCESS 0 1	vise protein
-T0	PROCESS 0 1	chiefly rodent
-T0	PROCESS 0 1	favorable environment
-T0	PROCESS 0 1	bacterial growth
-T0	PROCESS 0 1	virulence factor
-T0	PROCESS 0 1	immunopathologic response
-T0	PROCESS 0 1	bacterial product
-T0	PROCESS 0 1	in-vitro laboratory growth
-T0	PROCESS 0 1	special medium
-T0	PROCESS 0 1	barbour stoenner kelly medium
+T0	KEYPHRASE-NOTYPES 0 1	B,""," bu"
+T1	KEYPHRASE-NOTYPES 21 25	lato,"nsu","are"
+T2	KEYPHRASE-NOTYPES 30 48	obligate parasites,"are","hea"
+T3	KEYPHRASE-NOTYPES 78 83	hosts,"eir","for"
+T4	KEYPHRASE-NOTYPES 88 107	nutritional support,"for"," Pr"
+T5	KEYPHRASE-NOTYPES 109 122	Proliferation,"rt.","of "
+T6	KEYPHRASE-NOTYPES 131 132	B,"ach"," bu"
+T7	KEYPHRASE-NOTYPES 146 153	species,"eri","is "
+T8	KEYPHRASE-NOTYPES 177 189	transmission,"its","to "
+T9	KEYPHRASE-NOTYPES 193 216	reservoir animals," to"," Th"
+T10	KEYPHRASE-NOTYPES 248 255	species,"ach"," pr"
+T11	KEYPHRASE-NOTYPES 267 273	Ixodes,"red","tic"
+T12	KEYPHRASE-NOTYPES 299 310	spirochetes,"the","dur"
+T13	KEYPHRASE-NOTYPES 322 345	larval stage blood feed,"its","and"
+T14	KEYPHRASE-NOTYPES 368 389	reservoir hosts," to","aft"
+T15	KEYPHRASE-NOTYPES 413 426	nymphal stage,"its"," Es"
+T16	KEYPHRASE-NOTYPES 445 456	propagation,"the","and"
+T17	KEYPHRASE-NOTYPES 461 469	survival,"and","of "
+T18	KEYPHRASE-NOTYPES 488 495	species,"lia","is "
+T19	KEYPHRASE-NOTYPES 505 531	plasmid-encoded production,"eir","of "
+T20	KEYPHRASE-NOTYPES 535 547	lipoproteins," of"," Th"
+T21	KEYPHRASE-NOTYPES 592 614	outer-surface proteins,"are","(Os"
+T22	KEYPHRASE-NOTYPES 616 619	Osp,"ns "," A-"
+T23	KEYPHRASE-NOTYPES 621 624	A-F,"sp)","and"
+T24	KEYPHRASE-NOTYPES 629 633	VIsE,"and","16 "
+T25	KEYPHRASE-NOTYPES 643 653	components,"ese","alo"
+T26	KEYPHRASE-NOTYPES 665 691	surface lipoproteins,"ith","all"
+T27	KEYPHRASE-NOTYPES 702 712	spirochete,"the","to "
+T28	KEYPHRASE-NOTYPES 743 750	variety,"n a","of "
+T29	KEYPHRASE-NOTYPES 754 767	small mammals," of"," bi"
+T30	KEYPHRASE-NOTYPES 769 774	birds,"ls,"," an"
+T31	KEYPHRASE-NOTYPES 785 795	arthropods,"ick"," Th"
+T32	KEYPHRASE-NOTYPES 817 832	year life cycle,"the"," th"
+T33	KEYPHRASE-NOTYPES 838 849	spirochetes,"the","rem"
+T34	KEYPHRASE-NOTYPES 876 879	gut,"the","of "
+T35	KEYPHRASE-NOTYPES 887 899	nymphal tick,"the"," Du"
+T36	KEYPHRASE-NOTYPES 913 919	period,"his"," th"
+T37	KEYPHRASE-NOTYPES 925 941	dominant protein,"the","exp"
+T38	KEYPHRASE-NOTYPES 959 972	outer-surface,"the","of "
+T39	KEYPHRASE-NOTYPES 980 988	bacteria,"the","is "
+T40	KEYPHRASE-NOTYPES 992 1004	protein OspA," is"," In"
+T41	KEYPHRASE-NOTYPES 1009 1020	late spring," In","and"
+T42	KEYPHRASE-NOTYPES 1025 1031	summer,"and"," wh"
+T43	KEYPHRASE-NOTYPES 1042 1054	nymphal tick,"the","eng"
+T44	KEYPHRASE-NOTYPES 1074 1078	feed,"her"," co"
+T45	KEYPHRASE-NOTYPES 1080 1092	constituents,"ed,","pre"
+T46	KEYPHRASE-NOTYPES 1117 1132	mammalian blood,"ted","sti"
+T47	KEYPHRASE-NOTYPES 1148 1158	spirochete,"the","s p"
+T48	KEYPHRASE-NOTYPES 1161 1171	production,"e’s","of "
+T49	KEYPHRASE-NOTYPES 1175 1179	OspC," of"," wh"
+T50	KEYPHRASE-NOTYPES 1199 1207	organism,"the","to "
+T51	KEYPHRASE-NOTYPES 1225 1229	tick,"the","eve"
+T52	KEYPHRASE-NOTYPES 1254 1258	tick,"the","s s"
+T53	KEYPHRASE-NOTYPES 1261 1275	salivary gland,"k’s"," wh"
+T54	KEYPHRASE-NOTYPES 1306 1329	protective tick protein,"y a"," kn"
+T55	KEYPHRASE-NOTYPES 1340 1344	VIsE," as","17 "
+T56	KEYPHRASE-NOTYPES 1357 1361	tick,"the","bit"
+T57	KEYPHRASE-NOTYPES 1372 1386	reservoir host,"the"," Os"
+T58	KEYPHRASE-NOTYPES 1388 1392	OspC,"st,","aff"
+T59	KEYPHRASE-NOTYPES 1405 1424	bacteria protection,"the","fro"
+T60	KEYPHRASE-NOTYPES 1434 1440	animal,"the","s i"
+T61	KEYPHRASE-NOTYPES 1443 1463	innate immune system,"l’s"," Th"
+T62	KEYPHRASE-NOTYPES 1469 1481	VIsE protein,"The","is "
+T63	KEYPHRASE-NOTYPES 1497 1507	resistance," in","to "
+T64	KEYPHRASE-NOTYPES 1520 1528	immunity,"red","18,"
+T65	KEYPHRASE-NOTYPES 1539 1554	reservoir hosts,"The"," ch"
+T66	KEYPHRASE-NOTYPES 1564 1571	rodents,"fly","and"
+T67	KEYPHRASE-NOTYPES 1576 1581	birds,"and"," pr"
+T68	KEYPHRASE-NOTYPES 1593 1614	favorable environment,"e a","sup"
+T69	KEYPHRASE-NOTYPES 1626 1642	bacterial growth,"ing"," bu"
+T70	KEYPHRASE-NOTYPES 1679 1686	disease,"lop"," Be"
+T71	KEYPHRASE-NOTYPES 1696 1697	B,"use"," bu"
+T72	KEYPHRASE-NOTYPES 1726 1749	virulence factors,"ess","or "
+T73	KEYPHRASE-NOTYPES 1762 1769	ability,"the","to "
+T74	KEYPHRASE-NOTYPES 1781 1787	toxins,"uce"," di"
+T75	KEYPHRASE-NOTYPES 1789 1796	disease,"ns,","in "
+T76	KEYPHRASE-NOTYPES 1800 1806	humans," in","is "
+T77	KEYPHRASE-NOTYPES 1814 1825	consequence,"the","of "
+T78	KEYPHRASE-NOTYPES 1833 1858	immunopathologic response,"the","to "
+T79	KEYPHRASE-NOTYPES 1875 1883	organism,"ing","and"
+T80	KEYPHRASE-NOTYPES 1895 1913	bacterial products,"the","it "
+T81	KEYPHRASE-NOTYPES 1936 1953	laboratory growth,"tro","of "
+T82	KEYPHRASE-NOTYPES 1957 1958	B," of"," bu"
+T83	KEYPHRASE-NOTYPES 1981 1991	incubation,"res","in "
+T84	KEYPHRASE-NOTYPES 1997 2011	special medium,"n a","nam"
+T85	KEYPHRASE-NOTYPES 2018 2047	Barbour Stoenner Kelly medium,"med"," pr"
+T86	KEYPHRASE-NOTYPES 2066 2067	C," 33",""

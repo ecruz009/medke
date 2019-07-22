@@ -1,32 +1,62 @@
-T0	PROCESS 0 1	cardiac unit
-T0	PROCESS 0 1	beat minute
-T0	PROCESS 0 1	blood pressure
-T0	PROCESS 0 1	mm hg
-T0	PROCESS 0 1	respiratory rate
-T0	PROCESS 0 1	room air
-T0	PROCESS 0 1	breath minute
-T0	PROCESS 0 1	comfortable lying
-T0	PROCESS 0 1	mucous membrane
-T0	PROCESS 0 1	oral lesion
-T0	PROCESS 0 1	nontender temporal artery
-T0	PROCESS 0 1	inguinal site
-T0	PROCESS 0 1	right-sided internal jugular venous-access catheter
-T0	PROCESS 0 1	lung field
-T0	PROCESS 0 1	cardiac examination
-T0	PROCESS 0 1	paced rhythm
-T0	PROCESS 0 1	carotid bruits
-T0	PROCESS 0 1	abdominal examination
-T0	PROCESS 0 1	nontender abdomen
-T0	PROCESS 0 1	nailbed capillary
-T0	PROCESS 0 1	peripheral pulse
-T0	PROCESS 0 1	neurologic examination
-T0	PROCESS 0 1	extraocular movement
-T0	PROCESS 0 1	visual field
-T0	PROCESS 0 1	cranial nerve
-T0	PROCESS 0 1	cranial nerve vii xii
-T0	PROCESS 0 1	normal bulk
-T0	PROCESS 0 1	sensory examination
-T0	PROCESS 0 1	light touch
-T0	PROCESS 0 1	deep tendon reflex
-T0	PROCESS 0 1	plantar response
-T0	PROCESS 0 1	patient speech
+T0	KEYPHRASE-NOTYPES 5 12	arrival,"pon","in "
+T1	KEYPHRASE-NOTYPES 20 32	Cardiac Unit,"the"," he"
+T2	KEYPHRASE-NOTYPES 38 49	temperature,"her","was"
+T3	KEYPHRASE-NOTYPES 59 60	F,"8.2"," he"
+T4	KEYPHRASE-NOTYPES 66 71	pulse,"her","was"
+T5	KEYPHRASE-NOTYPES 79 91	beats minute," 60"," he"
+T6	KEYPHRASE-NOTYPES 97 111	blood pressure,"her","was"
+T7	KEYPHRASE-NOTYPES 123 128	mm Hg,"/60"," an"
+T8	KEYPHRASE-NOTYPES 138 154	respiratory rate,"her","and"
+T9	KEYPHRASE-NOTYPES 159 185	room air oxygen saturation,"and","wer"
+T10	KEYPHRASE-NOTYPES 194 208	breaths minute," 16","and"
+T11	KEYPHRASE-NOTYPES 266 269	bed," in"," He"
+T12	KEYPHRASE-NOTYPES 275 291	mucous membranes,"Her","wer"
+T13	KEYPHRASE-NOTYPES 311 323	conjunctivae,"the","wer"
+T14	KEYPHRASE-NOTYPES 354 366	oral lesions," no"," Sh"
+T15	KEYPHRASE-NOTYPES 393 420	nontender temporal arteries,"le,"," No"
+T16	KEYPHRASE-NOTYPES 425 440	lymphadenopathy," No","was"
+T17	KEYPHRASE-NOTYPES 515 529	inguinal sites," or"," He"
+T18	KEYPHRASE-NOTYPES 535 539	neck,"Her","was"
+T19	KEYPHRASE-NOTYPES 556 566	inspection,"and","rev"
+T20	KEYPHRASE-NOTYPES 578 629	right-sided internal jugular venous-access catheter,"d a"," Th"
+T21	KEYPHRASE-NOTYPES 635 646	lung fields,"The","wer"
+T22	KEYPHRASE-NOTYPES 661 673	auscultation," to"," He"
+T23	KEYPHRASE-NOTYPES 679 698	cardiac examination,"Her","was"
+T24	KEYPHRASE-NOTYPES 717 729	paced rhythm,"r a","of "
+T25	KEYPHRASE-NOTYPES 736 748	beats minute," 60","wit"
+T26	KEYPHRASE-NOTYPES 757 764	murmurs,"out"," ru"
+T27	KEYPHRASE-NOTYPES 775 782	gallops," or"," Th"
+T28	KEYPHRASE-NOTYPES 798 808	subclavian," no","or "
+T29	KEYPHRASE-NOTYPES 812 826	carotid bruits," or"," Th"
+T30	KEYPHRASE-NOTYPES 832 853	abdominal examination,"The","sho"
+T31	KEYPHRASE-NOTYPES 864 876	organomegaly," no","and"
+T32	KEYPHRASE-NOTYPES 889 906	nontender abdomen,"ft,"," Sh"
+T33	KEYPHRASE-NOTYPES 919 927	clubbing," no"," cy"
+T34	KEYPHRASE-NOTYPES 929 937	cyanosis,"ng,"," or"
+T35	KEYPHRASE-NOTYPES 942 947	edema," or","on "
+T36	KEYPHRASE-NOTYPES 955 964	extremity,"any"," Th"
+T37	KEYPHRASE-NOTYPES 970 977	fingers,"The","wer"
+T38	KEYPHRASE-NOTYPES 1003 1013	dilatation," or","of "
+T39	KEYPHRASE-NOTYPES 1021 1040	nailbed capillaries,"her"," an"
+T40	KEYPHRASE-NOTYPES 1050 1067	peripheral pulses,"her","wer"
+T41	KEYPHRASE-NOTYPES 1117 1121	rash," no"," Th"
+T42	KEYPHRASE-NOTYPES 1127 1149	neurologic examination,"The","rev"
+T43	KEYPHRASE-NOTYPES 1161 1168	patient,"d a","who"
+T44	KEYPHRASE-NOTYPES 1209 1230	extraocular movements,"The","wer"
+T45	KEYPHRASE-NOTYPES 1249 1262	visual fields,"the","wer"
+T46	KEYPHRASE-NOTYPES 1276 1291	Cranial nerve V,"ct.","was"
+T47	KEYPHRASE-NOTYPES 1312 1325	distributions,"l 3"," as"
+T48	KEYPHRASE-NOTYPES 1335 1357	cranial nerves VII XII,"ere"," Th"
+T49	KEYPHRASE-NOTYPES 1369 1380	normal bulk,"was"," to"
+T50	KEYPHRASE-NOTYPES 1382 1386	tone,"lk,"," an"
+T51	KEYPHRASE-NOTYPES 1392 1397	power,"and","of "
+T52	KEYPHRASE-NOTYPES 1405 1412	muscles,"the"," an"
+T53	KEYPHRASE-NOTYPES 1422 1441	sensory examination,"the","was"
+T54	KEYPHRASE-NOTYPES 1456 1467	light touch," to"," pi"
+T55	KEYPHRASE-NOTYPES 1469 1477	pinprick,"ch,"," an"
+T56	KEYPHRASE-NOTYPES 1483 1492	vibration,"and"," Th"
+T57	KEYPHRASE-NOTYPES 1498 1518	deep tendon reflexes,"The","wer"
+T58	KEYPHRASE-NOTYPES 1549 1566	plantar responses,"the","wer"
+T59	KEYPHRASE-NOTYPES 1572 1578	flexor,"ere"," Th"
+T60	KEYPHRASE-NOTYPES 1584 1591	patient,"The","s s"
+T61	KEYPHRASE-NOTYPES 1594 1600	speech,"t’s","was"
