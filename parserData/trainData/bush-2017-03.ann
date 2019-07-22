@@ -1,0 +1,15 @@
+T1	DKE 114 130	etiologic agents
+T2	DKE 144 162	Treponema pallidum
+T3	DKE 187 195	syphilis
+T4	DKE 420 435	serologic tests
+T5	DKE 482 492	PCR assays
+T6	DKE 556 568	nucleic acid
+T7	DKE 672 686	B. burgdorferi
+T8	DKE 717 731	EM skin tissue
+T9	DKE 733 746	blood samples
+T10	DKE 770 783	cerebrospinal
+T11	DKE 785 801	meningitis cases
+T12	DKE 807 819	joint fluids
+T13	DKE 1019 1030	hematologic
+T14	DKE 1032 1041	metabolic
+T15	DKE 1143 1155	Lyme disease

@@ -1,0 +1,15 @@
+T1	DKE 94 111	clinical syndrome
+T2	DKE 113 131	Aseptic meningitis
+T3	DKE 228 244	viral meningitis
+T4	DKE 378 410	polymerase chain reaction assays
+T5	DKE 415 443	enteroviral ribonucleic acid
+T6	DKE 456 471	cytokine levels
+T7	DKE 473 486	interleukin-1
+T8	DKE 488 509	tumor necrosis factor
+T9	DKE 522 525	CSF
+T10	DKE 529 586	distinguish viral from bacterial meningitis are important
+T11	DKE 712 732	enigmatic meningitis
+T12	DKE 776 825	acute meningitis with a negative CSF Gram's stain
+T13	DKE 1094 1114	enigmatic meningitis
+T14	DKE 1031 1089	acute meningitis with a Gram's stain negative for bacteria
+T15	DKE 1577 1597	enigmatic meningitis
