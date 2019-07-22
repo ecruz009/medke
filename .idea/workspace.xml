@@ -2,32 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2914ac51-249a-4627-937f-c8f8bda855e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/TxtTrainParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/TxtTrainParser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/annParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/annParser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/data/enclitic-inflections.data" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/data/enclitic-inflections.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/lib/slf4j-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/lib/slf4j-simple.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/models/README-Models.txt" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/models/README-Models.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/models/english-bidirectional-distsim.tagger" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/models/english-bidirectional-distsim.tagger" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/models/english-bidirectional-distsim.tagger.props" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/models/english-bidirectional-distsim.tagger.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/models/english-caseless-left3words-distsim.tagger" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/models/english-caseless-left3words-distsim.tagger" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/models/english-caseless-left3words-distsim.tagger.props" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/models/english-caseless-left3words-distsim.tagger.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/models/english-left3words-distsim.tagger" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/models/english-left3words-distsim.tagger" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/models/english-left3words-distsim.tagger.props" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/models/english-left3words-distsim.tagger.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger-3.6.0-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger-3.6.0-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger-3.6.0-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger-3.6.0-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger-3.6.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger-3.6.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger-gui.bat" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger-gui.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger-gui.sh" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger-gui.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger.bat" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger.jar" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/stanford-postagger/stanford-postagger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/parserData/stanford-postagger/stanford-postagger.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scix_*/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/gen_keyphrase_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/gen_keyphrase_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/gen_keyphrase_core_bounds.py" beforeDir="false" afterPath="$PROJECT_DIR$/gen_keyphrase_core_bounds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/gen_keyphrase_core_stanford.py" beforeDir="false" afterPath="$PROJECT_DIR$/gen_keyphrase_core_stanford.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_eke-1.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/scix_eke-1.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_eke-2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/scix_eke-2.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_eke-3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/scix_eke-3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_eke-3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/scix_eke-3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/abbott-2006-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/abele-1990-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/agger-1991-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/applegren-2017-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/armstrong-2001-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/arvikar-2015-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/arvikar-2015-02.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/arvikar-2015-03.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/arvikar-2015-04.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/avery-2006-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/avigerstenblith-2014-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/avigerstenblith-2014-02.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/bacon-2008-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/barker-2001-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/belman-1999-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/belman-1999-02.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/belman-1999-03.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/bingham-1995-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/bockenstedt-2014-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/bockenstedt-2014-02.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/bockenstedt-2014-03.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/borchers-2015-01.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/borchers-2015-02.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/borchers-2015-03.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_output/borchers-2015-04.ann" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scix_*/scix_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/scix_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +46,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scix_eke-3.1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.py">
+        <entry file="file://$PROJECT_DIR$/scix_eke-3.2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="57" selection-start-column="57" selection-end-column="57" />
+              <folding>
+                <element signature="e#243#258#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TxtTrainParser.py">
+        <entry file="file://$PROJECT_DIR$/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-154">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="12" />
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -101,17 +117,6 @@
               <item name="medke" type="b2602c69:ProjectViewProjectNode" />
               <item name="medke" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="medke" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medke" type="462c0819:PsiDirectoryNode" />
-              <item name="parserData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="medke" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medke" type="462c0819:PsiDirectoryNode" />
-              <item name="parserData" type="462c0819:PsiDirectoryNode" />
-              <item name="trainData" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -126,8 +131,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/parserData" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/parserData" />
       <recent name="$PROJECT_DIR$/parserOutput" />
       <recent name="$PROJECT_DIR$/parsers" />
       <recent name="$PROJECT_DIR$/scix_*" />
@@ -148,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TxtTrainParser">
+  <component name="RunManager" selected="Python.config">
     <configuration name="ClassifyCRFtoANN" type="PythonConfigurationType" factoryName="Python">
       <module name="medke" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,7 +292,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scix_*/scix_eke-1.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scix_eke-1.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +313,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scix_*/scix_eke-3.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scix_eke-3.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,8 +356,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TxtTrainParser" />
         <item itemvalue="Python.config" />
+        <item itemvalue="Python.TxtTrainParser" />
         <item itemvalue="Python.annParser" />
         <item itemvalue="Python.scix_eke-1.0" />
         <item itemvalue="Python.scix_eke-3.2" />
@@ -447,24 +452,32 @@
       <option name="project" value="LOCAL" />
       <updated>1563558427887</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added/Generated Data">
+      <created>1563806341767</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563806341768</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1255" height="1337" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49837926" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" visible="true" weight="0.32324058" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918962" weight="0.32324058" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008104" side_tool="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -487,11 +500,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added/Generated Data" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crfModel/medicalData/trainList.txt" />
-    <entry file="file://$PROJECT_DIR$/crfModel/medicalData/testList.txt" />
     <entry file="file://$PROJECT_DIR$/crfModel/medicalData/testData/testList.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -588,15 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scix_*/gen_keyphrase_core_stanford.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#403#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crfModel/medicalData/testData/txts/abbott-2006-01.ann" />
     <entry file="file://$PROJECT_DIR$/scix_*/logs/scix_eke.log">
       <provider selected="true" editor-type-id="text-editor" />
@@ -607,48 +606,10 @@
     <entry file="file://$PROJECT_DIR$/scix_*/logs/test.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scix_*/scix_output/abbott-2006-01.ann">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scix_*/scix_eke-1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#19#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scix_*/scix_eke-2.0.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scix_*/scix_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scix_*/scix_eke-3.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#243#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scix_*/scix_eke-3.1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/annParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="159" column="15" selection-start-line="159" selection-start-column="15" selection-end-line="159" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TxtTrainParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -676,10 +637,93 @@
     <entry file="file://$PROJECT_DIR$/parserData/stanford-postagger/models/english-left3words-distsim.tagger">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/parserData/parserOutput/borchers-2015-05__output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TxtTrainParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_keyphrase_core.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_keyphrase_core_bounds.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_keyphrase_core_stanford.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#403#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_eke-1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_eke-2.0.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/abele-1990-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/agger-1991-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/avery-2006-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/bacon-2008-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/abbott-2006-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/barker-2001-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/belman-1999-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/belman-1999-02.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/belman-1999-03.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_output/arvikar-2015-01.ann">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="57" selection-start-column="57" selection-end-column="57" />
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_eke-3.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_eke-3.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#243#258#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
