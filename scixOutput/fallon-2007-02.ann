@@ -1,0 +1,24 @@
+T0	PROCESS 0 1	efficacy analysis
+T0	PROCESS 0 1	randomized participant
+T0	PROCESS 0 1	lyme patient
+T0	PROCESS 0 1	healthy control
+T0	PROCESS 0 1	clinical characteristic
+T0	PROCESS 0 1	continuous measure
+T0	PROCESS 0 1	categorical measure
+T0	PROCESS 0 1	iv placebo
+T0	PROCESS 0 1	multivariate measure
+T0	PROCESS 0 1	verbal fluency
+T0	PROCESS 0 1	longitudinal mixed-effects model
+T0	PROCESS 0 1	main effect
+T0	PROCESS 0 1	interaction term
+T0	PROCESS 0 1	nominal factor
+T0	PROCESS 0 1	continuous variable
+T0	PROCESS 0 1	three-way interaction
+T0	PROCESS 0 1	covariance structure
+T0	PROCESS 0 1	bayesian information criterion
+T0	PROCESS 0 1	backward elimination
+T0	PROCESS 0 1	mean structure
+T0	PROCESS 0 1	significant omnibus test
+T0	PROCESS 0 1	itt difference
+T0	PROCESS 0 1	pairwise comparison
+T0	PROCESS 0 1	post hoc test

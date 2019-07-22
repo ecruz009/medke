@@ -1,0 +1,16 @@
+T0	PROCESS 0 1	lyme disease
+T0	PROCESS 0 1	high index
+T0	PROCESS 0 1	laboratory diagnosis
+T0	PROCESS 0 1	2-step process
+T0	PROCESS 0 1	emergency physician
+T0	PROCESS 0 1	screening elisa
+T0	PROCESS 0 1	enzyme-linked immunosorbent assay
+T0	PROCESS 0 1	elisa result
+T0	PROCESS 0 1	western blot
+T0	PROCESS 0 1	positive western blot result
+T0	PROCESS 0 1	new onset
+T0	PROCESS 0 1	current treatment recommendation
+T0	PROCESS 0 1	central nervous system
+T0	PROCESS 0 1	full 21-day course
+T0	PROCESS 0 1	arrange follow-up
+T0	PROCESS 0 1	lyme disease facial palsy

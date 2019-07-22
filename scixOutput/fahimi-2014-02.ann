@@ -1,0 +1,29 @@
+T0	PROCESS 0 1	unique linkage number
+T0	PROCESS 0 1	index ed visit
+T0	PROCESS 0 1	ed encounter
+T0	PROCESS 0 1	primary outcome
+T0	PROCESS 0 1	serious ed
+T0	PROCESS 0 1	inpatient discharge diagnosis
+T0	PROCESS 0 1	icd-9 code
+T0	PROCESS 0 1	index ed bell
+T0	PROCESS 0 1	palsy diagnosis
+T0	PROCESS 0 1	ischemic stroke
+T0	PROCESS 0 1	acute ischemic stroke11
+T0	PROCESS 0 1	intracranial hemorrhage
+T0	PROCESS 0 1	subarachnoid hemorrhage
+T0	PROCESS 0 1	brain tumor
+T0	PROCESS 0 1	central nervous system infection
+T0	PROCESS 0 1	brain abscess
+T0	PROCESS 0 1	guillain-barré syndrome
+T0	PROCESS 0 1	lyme disease
+T0	PROCESS 0 1	otitis medium
+T0	PROCESS 0 1	herpes zoster
+T0	PROCESS 0 1	important disease entity
+T0	PROCESS 0 1	similar fashion
+T0	PROCESS 0 1	common mimic
+T0	PROCESS 0 1	diabetic neuropathy
+T0	PROCESS 0 1	clinical significance
+T0	PROCESS 0 1	patient outcome
+T0	PROCESS 0 1	delayed diagnosis
+T0	PROCESS 0 1	separate outcome
+T0	PROCESS 0 1	outcome diagnosis

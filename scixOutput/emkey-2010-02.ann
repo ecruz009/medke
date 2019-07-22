@@ -1,0 +1,32 @@
+T0	PROCESS 0 1	cardiac unit
+T0	PROCESS 0 1	beat minute
+T0	PROCESS 0 1	blood pressure
+T0	PROCESS 0 1	mm hg
+T0	PROCESS 0 1	respiratory rate
+T0	PROCESS 0 1	room air
+T0	PROCESS 0 1	breath minute
+T0	PROCESS 0 1	comfortable lying
+T0	PROCESS 0 1	mucous membrane
+T0	PROCESS 0 1	oral lesion
+T0	PROCESS 0 1	nontender temporal artery
+T0	PROCESS 0 1	inguinal site
+T0	PROCESS 0 1	right-sided internal jugular venous-access catheter
+T0	PROCESS 0 1	lung field
+T0	PROCESS 0 1	cardiac examination
+T0	PROCESS 0 1	paced rhythm
+T0	PROCESS 0 1	carotid bruits
+T0	PROCESS 0 1	abdominal examination
+T0	PROCESS 0 1	nontender abdomen
+T0	PROCESS 0 1	nailbed capillary
+T0	PROCESS 0 1	peripheral pulse
+T0	PROCESS 0 1	neurologic examination
+T0	PROCESS 0 1	extraocular movement
+T0	PROCESS 0 1	visual field
+T0	PROCESS 0 1	cranial nerve
+T0	PROCESS 0 1	cranial nerve vii xii
+T0	PROCESS 0 1	normal bulk
+T0	PROCESS 0 1	sensory examination
+T0	PROCESS 0 1	light touch
+T0	PROCESS 0 1	deep tendon reflex
+T0	PROCESS 0 1	plantar response
+T0	PROCESS 0 1	patient speech
