@@ -1,36 +1,36 @@
-T0	KEYPHRASE-NOTYPES 16 45	motor neurone facial weakness,"wer","and"
-T1	KEYPHRASE-NOTYPES 50 89	mononeuritis multiplex ring alarm bells,"and","for"
-T2	KEYPHRASE-NOTYPES 94 106	Lyme disease,"for",", b"
-T3	KEYPHRASE-NOTYPES 130 159	motor neurone facial weakness,"wer","doe"
-T4	KEYPHRASE-NOTYPES 226 231	clues,"the","to "
-T5	KEYPHRASE-NOTYPES 239 258	different diagnoses,"the"," Be"
-T6	KEYPHRASE-NOTYPES 260 264	Bell,"es.","s p"
-T7	KEYPHRASE-NOTYPES 267 272	palsy,"l’s","typ"
-T8	KEYPHRASE-NOTYPES 300 311	acute onset," an","to "
-T9	KEYPHRASE-NOTYPES 317 324	maximum,"o a","wit"
-T10	KEYPHRASE-NOTYPES 335 340	hours," 72"," [1"
-T11	KEYPHRASE-NOTYPES 360 368	patients," of","hav"
-T12	KEYPHRASE-NOTYPES 376 411	mild-tomoderate post-auricular pain,"e a","(25"
-T13	KEYPHRASE-NOTYPES 428 436	weakness,"the"," 50"
-T14	KEYPHRASE-NOTYPES 467 475	weakness,"the"," an"
-T15	KEYPHRASE-NOTYPES 495 503	weakness,"the",", w"
-T16	KEYPHRASE-NOTYPES 511 524	altered taste,"ith","in "
-T17	KEYPHRASE-NOTYPES 544 551	dry eye,"% a","is "
-T18	KEYPHRASE-NOTYPES 577 586	dry mouth,"% a"," du"
-T19	KEYPHRASE-NOTYPES 595 622	parasympathetic involvement," to"," [1"
-T20	KEYPHRASE-NOTYPES 629 637	Patients,"11]","wit"
-T21	KEYPHRASE-NOTYPES 643 655	Lyme disease,"ith","wit"
-T22	KEYPHRASE-NOTYPES 661 673	facial palsy,"ith","may"
-T23	KEYPHRASE-NOTYPES 693 697	tick,"d a","bit"
-T24	KEYPHRASE-NOTYPES 707 734	hard-bodied tick attachment,"— a","wit"
-T25	KEYPHRASE-NOTYPES 751 762	engorgement,"out","is "
-T26	KEYPHRASE-NOTYPES 819 833	transient rash,"e a"," er"
-T27	KEYPHRASE-NOTYPES 835 851	erythema migrans,"sh,"," 2–"
-T28	KEYPHRASE-NOTYPES 858 862	days,"–40","aft"
-T29	KEYPHRASE-NOTYPES 869 877	exposure,"ter"," [9"
-T30	KEYPHRASE-NOTYPES 932 942	arthralgia,"and","has"
-T31	KEYPHRASE-NOTYPES 989 998	diagnosis,"the","is "
-T32	KEYPHRASE-NOTYPES 1012 1031	serological testing,"al,","may"
-T33	KEYPHRASE-NOTYPES 1060 1080	paired blood samples,"rly","tak"
-T34	KEYPHRASE-NOTYPES 1092 1107	4-week interval,"t a"," to"
-T35	KEYPHRASE-NOTYPES 1122 1136	seroconversion,"for"," [9"
+T0	KEYPHRASE-NOTYPES 16 45	motor neurone facial weakness
+T1	KEYPHRASE-NOTYPES 50 89	mononeuritis multiplex ring alarm bells
+T2	KEYPHRASE-NOTYPES 94 106	Lyme disease
+T3	KEYPHRASE-NOTYPES 130 159	motor neurone facial weakness
+T4	KEYPHRASE-NOTYPES 226 231	clues
+T5	KEYPHRASE-NOTYPES 239 258	different diagnoses
+T6	KEYPHRASE-NOTYPES 260 264	Bell
+T7	KEYPHRASE-NOTYPES 267 272	palsy
+T8	KEYPHRASE-NOTYPES 300 311	acute onset
+T9	KEYPHRASE-NOTYPES 317 324	maximum
+T10	KEYPHRASE-NOTYPES 335 340	hours
+T11	KEYPHRASE-NOTYPES 360 368	patients
+T12	KEYPHRASE-NOTYPES 376 411	mild-tomoderate post-auricular pain
+T13	KEYPHRASE-NOTYPES 428 436	weakness
+T14	KEYPHRASE-NOTYPES 467 475	weakness
+T15	KEYPHRASE-NOTYPES 495 503	weakness
+T16	KEYPHRASE-NOTYPES 511 524	altered taste
+T17	KEYPHRASE-NOTYPES 544 551	dry eye
+T18	KEYPHRASE-NOTYPES 577 586	dry mouth
+T19	KEYPHRASE-NOTYPES 595 622	parasympathetic involvement
+T20	KEYPHRASE-NOTYPES 629 637	Patients
+T21	KEYPHRASE-NOTYPES 643 655	Lyme disease
+T22	KEYPHRASE-NOTYPES 661 673	facial palsy
+T23	KEYPHRASE-NOTYPES 693 697	tick
+T24	KEYPHRASE-NOTYPES 707 734	hard-bodied tick attachment
+T25	KEYPHRASE-NOTYPES 751 762	engorgement
+T26	KEYPHRASE-NOTYPES 819 833	transient rash
+T27	KEYPHRASE-NOTYPES 835 851	erythema migrans
+T28	KEYPHRASE-NOTYPES 858 862	days
+T29	KEYPHRASE-NOTYPES 869 877	exposure
+T30	KEYPHRASE-NOTYPES 932 942	arthralgia
+T31	KEYPHRASE-NOTYPES 989 998	diagnosis
+T32	KEYPHRASE-NOTYPES 1012 1031	serological testing
+T33	KEYPHRASE-NOTYPES 1060 1080	paired blood samples
+T34	KEYPHRASE-NOTYPES 1092 1107	4-week interval
+T35	KEYPHRASE-NOTYPES 1122 1136	seroconversion

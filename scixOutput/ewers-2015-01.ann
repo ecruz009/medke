@@ -1,41 +1,41 @@
-T0	KEYPHRASE-NOTYPES 11 37	2-week summer camping trip,"n a","in "
-T1	KEYPHRASE-NOTYPES 41 62	southern Pennsylvania," in"," a "
-T2	KEYPHRASE-NOTYPES 88 100	year-old boy," 15","pre"
-T3	KEYPHRASE-NOTYPES 116 143	nearby emergency department,"o a","aft"
-T4	KEYPHRASE-NOTYPES 150 162	several days,"ter","of "
-T5	KEYPHRASE-NOTYPES 166 182	subjective fever," of"," ma"
-T6	KEYPHRASE-NOTYPES 184 191	malaise,"er,"," an"
-T7	KEYPHRASE-NOTYPES 197 227	severe left arm radicular pain,"and"," He"
-T8	KEYPHRASE-NOTYPES 251 262	dehydration,"ith"," ad"
-T9	KEYPHRASE-NOTYPES 277 295	intravenous fluids,"red"," an"
-T10	KEYPHRASE-NOTYPES 313 325	Several days,"ed.","lat"
-T11	KEYPHRASE-NOTYPES 348 352	home,"ing","his"
-T12	KEYPHRASE-NOTYPES 357 365	arm pain,"his","res"
-T13	KEYPHRASE-NOTYPES 398 419	right-sided neck pain,"ped"," he"
-T14	KEYPHRASE-NOTYPES 421 429	headache,"in,"," an"
-T15	KEYPHRASE-NOTYPES 435 445	difficulty,"and","con"
-T16	KEYPHRASE-NOTYPES 465 469	week,"One","lat"
-T17	KEYPHRASE-NOTYPES 494 502	tinnitus," of"," ta"
-T18	KEYPHRASE-NOTYPES 504 521	taste disturbance,"us,"," ot"
-T19	KEYPHRASE-NOTYPES 523 530	otalgia,"ce,"," an"
-T20	KEYPHRASE-NOTYPES 536 559	subjective hearing loss,"and","in "
-T21	KEYPHRASE-NOTYPES 567 576	right ear,"his"," Th"
-T22	KEYPHRASE-NOTYPES 584 589	weeks,"ree","int"
-T23	KEYPHRASE-NOTYPES 599 606	illness,"his"," th"
-T24	KEYPHRASE-NOTYPES 612 619	patient,"the","pre"
-T25	KEYPHRASE-NOTYPES 635 661	local emergency department,"o a","for"
-T26	KEYPHRASE-NOTYPES 696 718	facial muscle weakness,"wer"," He"
-T27	KEYPHRASE-NOTYPES 730 749	previous complaints," no","of "
-T28	KEYPHRASE-NOTYPES 753 779	erythema chronicum migrans," of"," ar"
-T29	KEYPHRASE-NOTYPES 781 792	arthralgias,"ns,"," or"
-T30	KEYPHRASE-NOTYPES 797 806	arthritis," or"," He"
-T31	KEYPHRASE-NOTYPES 830 834	Bell,"ith","s P"
-T32	KEYPHRASE-NOTYPES 837 842	Palsy,"l’s"," an"
-T33	KEYPHRASE-NOTYPES 848 858	serologies,"and","for"
-T34	KEYPHRASE-NOTYPES 863 875	Lyme disease,"for"," he"
-T35	KEYPHRASE-NOTYPES 877 897	herpes simplex virus,"se,","1 a"
-T36	KEYPHRASE-NOTYPES 911 929	Epstein-Barr virus,"and","wer"
-T37	KEYPHRASE-NOTYPES 949 971	primary care physician,"His","pre"
-T38	KEYPHRASE-NOTYPES 983 995	doxy-cycline,"bed","for"
-T39	KEYPHRASE-NOTYPES 1002 1029	positive Lyme antibody test,"r a","and"
-T40	KEYPHRASE-NOTYPES 1050 1085	pediatric infectious disease clinic,"the",""
+T0	KEYPHRASE-NOTYPES 11 37	2-week summer camping trip
+T1	KEYPHRASE-NOTYPES 41 62	southern Pennsylvania
+T2	KEYPHRASE-NOTYPES 88 100	year-old boy
+T3	KEYPHRASE-NOTYPES 116 143	nearby emergency department
+T4	KEYPHRASE-NOTYPES 150 162	several days
+T5	KEYPHRASE-NOTYPES 166 182	subjective fever
+T6	KEYPHRASE-NOTYPES 184 191	malaise
+T7	KEYPHRASE-NOTYPES 197 227	severe left arm radicular pain
+T8	KEYPHRASE-NOTYPES 251 262	dehydration
+T9	KEYPHRASE-NOTYPES 277 295	intravenous fluids
+T10	KEYPHRASE-NOTYPES 313 325	Several days
+T11	KEYPHRASE-NOTYPES 348 352	home
+T12	KEYPHRASE-NOTYPES 357 365	arm pain
+T13	KEYPHRASE-NOTYPES 398 419	right-sided neck pain
+T14	KEYPHRASE-NOTYPES 421 429	headache
+T15	KEYPHRASE-NOTYPES 435 445	difficulty
+T16	KEYPHRASE-NOTYPES 465 469	week
+T17	KEYPHRASE-NOTYPES 494 502	tinnitus
+T18	KEYPHRASE-NOTYPES 504 521	taste disturbance
+T19	KEYPHRASE-NOTYPES 523 530	otalgia
+T20	KEYPHRASE-NOTYPES 536 559	subjective hearing loss
+T21	KEYPHRASE-NOTYPES 567 576	right ear
+T22	KEYPHRASE-NOTYPES 584 589	weeks
+T23	KEYPHRASE-NOTYPES 599 606	illness
+T24	KEYPHRASE-NOTYPES 612 619	patient
+T25	KEYPHRASE-NOTYPES 635 661	local emergency department
+T26	KEYPHRASE-NOTYPES 696 718	facial muscle weakness
+T27	KEYPHRASE-NOTYPES 730 749	previous complaints
+T28	KEYPHRASE-NOTYPES 753 779	erythema chronicum migrans
+T29	KEYPHRASE-NOTYPES 781 792	arthralgias
+T30	KEYPHRASE-NOTYPES 797 806	arthritis
+T31	KEYPHRASE-NOTYPES 830 834	Bell
+T32	KEYPHRASE-NOTYPES 837 842	Palsy
+T33	KEYPHRASE-NOTYPES 848 858	serologies
+T34	KEYPHRASE-NOTYPES 863 875	Lyme disease
+T35	KEYPHRASE-NOTYPES 877 897	herpes simplex virus
+T36	KEYPHRASE-NOTYPES 911 929	Epstein-Barr virus
+T37	KEYPHRASE-NOTYPES 949 971	primary care physician
+T38	KEYPHRASE-NOTYPES 983 995	doxy-cycline
+T39	KEYPHRASE-NOTYPES 1002 1029	positive Lyme antibody test
+T40	KEYPHRASE-NOTYPES 1050 1085	pediatric infectious disease clinic

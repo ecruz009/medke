@@ -1,42 +1,39 @@
-T0	KEYPHRASE-NOTYPES 0 23	Microbiologic isolation,"","of "
-T1	KEYPHRASE-NOTYPES 29 37	pathogen,"f a","rem"
-T2	KEYPHRASE-NOTYPES 51 64	gold standard,"he "," in"
-T3	KEYPHRASE-NOTYPES 69 98	infectious diseases diagnosis," in"," Ho"
-T4	KEYPHRASE-NOTYPES 114 130	etiologic agents,"ome"," fo"
-T5	KEYPHRASE-NOTYPES 136 143	example,"for","Tre"
-T6	KEYPHRASE-NOTYPES 168 183	causative agent,"the","of "
-T7	KEYPHRASE-NOTYPES 187 195	syphilis," of",", L"
-T8	KEYPHRASE-NOTYPES 198 207	L.M. Bush,"s),"," M."
-T9	KEYPHRASE-NOTYPES 209 247	M.T. Vazquez-Pertejo Disease-a-Month,"sh,","64 "
-T10	KEYPHRASE-NOTYPES 294 311	artificial medium," on","lea"
-T11	KEYPHRASE-NOTYPES 320 329	diagnosis,"ing","to "
-T12	KEYPHRASE-NOTYPES 345 361	direct detection,"the","of "
-T13	KEYPHRASE-NOTYPES 369 377	pathogen,"the","in "
-T14	KEYPHRASE-NOTYPES 381 398	patient specimens," in","and"
-T15	KEYPHRASE-NOTYPES 406 416	reactivity,"/or","in "
-T16	KEYPHRASE-NOTYPES 420 435	serologic tests," in"," Ad"
-T17	KEYPHRASE-NOTYPES 437 445	Advances,"ts.","in "
-T18	KEYPHRASE-NOTYPES 449 467	molecular medicine," in"," pa"
-T19	KEYPHRASE-NOTYPES 482 492	PCR assays,"rly","des"
-T20	KEYPHRASE-NOTYPES 517 534	minute quantities,"ven","of "
-T21	KEYPHRASE-NOTYPES 538 568	organism-specific nucleic acid," of"," ha"
-T22	KEYPHRASE-NOTYPES 596 606	laboratory,"the","s a"
-T23	KEYPHRASE-NOTYPES 607 616	ability,"ory","to "
-T24	KEYPHRASE-NOTYPES 627 645	specific diagnosis,"e a","of "
-T25	KEYPHRASE-NOTYPES 652 670	infectious disease," an"," B."
-T26	KEYPHRASE-NOTYPES 672 673	B,"se."," bu"
-T27	KEYPHRASE-NOTYPES 717 731	EM skin tissue,"rom"," bl"
-T28	KEYPHRASE-NOTYPES 733 746	blood samples,"ue,"," an"
-T29	KEYPHRASE-NOTYPES 755 764	occasions," on","fro"
-T30	KEYPHRASE-NOTYPES 785 801	meningitis cases,"al "," an"
-T31	KEYPHRASE-NOTYPES 807 819	joint fluids,"and"," Ho"
-T32	KEYPHRASE-NOTYPES 844 854	incubation,"res","on "
-T33	KEYPHRASE-NOTYPES 870 892	Barbour-Stoenner-Kelly,"zed","(BS"
-T34	KEYPHRASE-NOTYPES 894 897	BSK,"ly "," me"
-T35	KEYPHRASE-NOTYPES 899 905	medium,"SK)"," ha"
-T36	KEYPHRASE-NOTYPES 913 922	low yield,"s a"," an"
-T37	KEYPHRASE-NOTYPES 963 997	clinical microbiology laboratories,"ost","65 "
-T38	KEYPHRASE-NOTYPES 1047 1066	liver profile tests,"and","are"
-T39	KEYPHRASE-NOTYPES 1096 1128	offer limited diagnostic utility,"and","in "
-T40	KEYPHRASE-NOTYPES 1143 1155	Lyme disease,"ing","
-"
+T0	KEYPHRASE-NOTYPES 0 23	Microbiologic isolation
+T1	KEYPHRASE-NOTYPES 29 37	pathogen
+T2	KEYPHRASE-NOTYPES 51 64	gold standard
+T3	KEYPHRASE-NOTYPES 69 98	infectious diseases diagnosis
+T4	KEYPHRASE-NOTYPES 114 130	etiologic agents
+T5	KEYPHRASE-NOTYPES 136 143	example
+T6	KEYPHRASE-NOTYPES 168 183	causative agent
+T7	KEYPHRASE-NOTYPES 187 195	syphilis
+T8	KEYPHRASE-NOTYPES 233 247	artificial medium
+T9	KEYPHRASE-NOTYPES 258 260	diagnosis
+T10	KEYPHRASE-NOTYPES 280 292	direct detection
+T11	KEYPHRASE-NOTYPES 306 308	pathogen
+T12	KEYPHRASE-NOTYPES 317 330	patient specimens
+T13	KEYPHRASE-NOTYPES 345 347	reactivity
+T14	KEYPHRASE-NOTYPES 358 364	serologic tests
+T15	KEYPHRASE-NOTYPES 374 376	Advances
+T16	KEYPHRASE-NOTYPES 387 396	molecular medicine
+T17	KEYPHRASE-NOTYPES 414 429	PCR assays
+T18	KEYPHRASE-NOTYPES 452 465	minute quantities
+T19	KEYPHRASE-NOTYPES 484 497	organism-specific nucleic acid
+T20	KEYPHRASE-NOTYPES 535 536	laboratory
+T21	KEYPHRASE-NOTYPES 545 547	ability
+T22	KEYPHRASE-NOTYPES 564 576	specific diagnosis
+T23	KEYPHRASE-NOTYPES 591 599	infectious disease
+T24	KEYPHRASE-NOTYPES 601 602	B
+T25	KEYPHRASE-NOTYPES 648 660	EM skin tissue
+T26	KEYPHRASE-NOTYPES 667 675	blood samples
+T27	KEYPHRASE-NOTYPES 693 697	occasions
+T28	KEYPHRASE-NOTYPES 724 730	meningitis cases
+T29	KEYPHRASE-NOTYPES 741 748	joint fluids
+T30	KEYPHRASE-NOTYPES 783 785	incubation
+T31	KEYPHRASE-NOTYPES 806 822	Barbour Stoenner Kelly
+T32	KEYPHRASE-NOTYPES 825 826	BSK
+T33	KEYPHRASE-NOTYPES 833 834	medium
+T34	KEYPHRASE-NOTYPES 845 851	low yield
+T35	KEYPHRASE-NOTYPES 900 926	clinical microbiology laboratories
+T36	KEYPHRASE-NOTYPES 981 998	liver profile tests
+T37	KEYPHRASE-NOTYPES 1030 1059	offer limited diagnostic utility
+T38	KEYPHRASE-NOTYPES 1076 1084	Lyme disease

@@ -271,7 +271,7 @@ of	O 1648 1650
 the	O 1651 1654
 Lyme	I-KP 1655 1659
 disease	I-KP 1660 1667
-epidemic	O 1668 1676
+epidemic	I-KP 1668 1676
 in	O 1677 1679
 the	O 1680 1683
 northeastern	O 1684 1696
@@ -557,7 +557,7 @@ of	O 1648 1650
 the	O 1651 1654
 Lyme	I-KP 1655 1659
 disease	I-KP 1660 1667
-epidemic	O 1668 1676
+epidemic	I-KP 1668 1676
 in	O 1677 1679
 the	O 1680 1683
 northeastern	O 1684 1696

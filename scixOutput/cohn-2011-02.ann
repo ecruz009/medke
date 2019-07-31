@@ -1,45 +1,45 @@
-T0	KEYPHRASE-NOTYPES 6 20	identification,"rly","of "
-T1	KEYPHRASE-NOTYPES 30 38	children,"ose","at "
-T2	KEYPHRASE-NOTYPES 42 50	low risk," at","for"
-T3	KEYPHRASE-NOTYPES 55 70	Lyme meningitis,"for","wou"
-T4	KEYPHRASE-NOTYPES 87 108	outpatient management,"for","whi"
-T5	KEYPHRASE-NOTYPES 124 145	Lyme serology results,"ing"," Pr"
-T6	KEYPHRASE-NOTYPES 147 163	Previous studies,"ts.","ide"
-T7	KEYPHRASE-NOTYPES 186 208	laboratory differences,"and","bet"
-T8	KEYPHRASE-NOTYPES 217 225	children,"een","wit"
-T9	KEYPHRASE-NOTYPES 231 246	Lyme meningitis,"ith","ver"
-T10	KEYPHRASE-NOTYPES 254 265	forms,"sus","of "
-T11	KEYPHRASE-NOTYPES 269 287	aseptic meningitis," of"," [9"
-T12	KEYPHRASE-NOTYPES 311 332	single-center studies,"ese","wer"
-T13	KEYPHRASE-NOTYPES 349 366	small sample size," by","and"
-T14	KEYPHRASE-NOTYPES 378 388	validation,"ked"," In"
-T15	KEYPHRASE-NOTYPES 402 422	retrospective cohort,"ger","of "
-T16	KEYPHRASE-NOTYPES 430 438	children,"175","eva"
-T17	KEYPHRASE-NOTYPES 453 468	Lyme meningitis,"for"," Av"
-T18	KEYPHRASE-NOTYPES 470 475	Avery,"is,","et "
-T19	KEYPHRASE-NOTYPES 497 537	Lyme meningitis clinical prediction rule,"d a","bas"
-T20	KEYPHRASE-NOTYPES 555 562	factors,"e 3"," du"
-T21	KEYPHRASE-NOTYPES 564 572	duration,"rs:","of "
-T22	KEYPHRASE-NOTYPES 576 584	headache," of"," pr"
-T23	KEYPHRASE-NOTYPES 586 594	presence,"he,","of "
-T24	KEYPHRASE-NOTYPES 598 614	cranial neuritis," of"," an"
-T25	KEYPHRASE-NOTYPES 620 630	percentage,"and","of "
-T26	KEYPHRASE-NOTYPES 634 655	CSF mononuclear cells," of"," In"
-T27	KEYPHRASE-NOTYPES 662 680	prospective cohort,"n a","of "
-T28	KEYPHRASE-NOTYPES 687 695	children," 50","eva"
-T29	KEYPHRASE-NOTYPES 710 725	Lyme meningitis,"for"," th"
-T30	KEYPHRASE-NOTYPES 731 742	Avery model,"the","per"
-T31	KEYPHRASE-NOTYPES 770 783	investigators,"ese","sug"
-T32	KEYPHRASE-NOTYPES 796 810	simplification,"d a","of "
-T33	KEYPHRASE-NOTYPES 823 860	complicated Avery regression equation,"ore","ter"
-T34	KEYPHRASE-NOTYPES 873 877	Rule,"he ","of "
-T35	KEYPHRASE-NOTYPES 881 884	79s," of","” ["
-T36	KEYPHRASE-NOTYPES 892 900	Children,"13]","who"
-T37	KEYPHRASE-NOTYPES 932 940	criteria,"g 3","wer"
-T38	KEYPHRASE-NOTYPES 960 968	low risk," as","for"
-T39	KEYPHRASE-NOTYPES 973 988	Lyme meningitis,"for"," <7"
-T40	KEYPHRASE-NOTYPES 993 997	days," <7","of "
-T41	KEYPHRASE-NOTYPES 1001 1009	headache," of"," <7"
-T42	KEYPHRASE-NOTYPES 1016 1037	CSF mononuclear cells,"70%"," an"
-T43	KEYPHRASE-NOTYPES 1043 1050	absence,"and","of "
-T44	KEYPHRASE-NOTYPES 1073 1092	cranial nerve palsy,"er)",""
+T0	KEYPHRASE-NOTYPES 6 20	identification
+T1	KEYPHRASE-NOTYPES 30 38	children
+T2	KEYPHRASE-NOTYPES 42 50	low risk
+T3	KEYPHRASE-NOTYPES 55 70	Lyme meningitis
+T4	KEYPHRASE-NOTYPES 87 108	outpatient management
+T5	KEYPHRASE-NOTYPES 124 145	Lyme serology results
+T6	KEYPHRASE-NOTYPES 147 163	Previous studies
+T7	KEYPHRASE-NOTYPES 186 208	laboratory differences
+T8	KEYPHRASE-NOTYPES 217 225	children
+T9	KEYPHRASE-NOTYPES 231 246	Lyme meningitis
+T10	KEYPHRASE-NOTYPES 254 265	forms
+T11	KEYPHRASE-NOTYPES 269 287	aseptic meningitis
+T12	KEYPHRASE-NOTYPES 311 332	single-center studies
+T13	KEYPHRASE-NOTYPES 349 366	small sample size
+T14	KEYPHRASE-NOTYPES 378 388	validation
+T15	KEYPHRASE-NOTYPES 402 422	retrospective cohort
+T16	KEYPHRASE-NOTYPES 430 438	children
+T17	KEYPHRASE-NOTYPES 453 468	Lyme meningitis
+T18	KEYPHRASE-NOTYPES 470 475	Avery
+T19	KEYPHRASE-NOTYPES 497 537	Lyme meningitis clinical prediction rule
+T20	KEYPHRASE-NOTYPES 555 562	factors
+T21	KEYPHRASE-NOTYPES 564 572	duration
+T22	KEYPHRASE-NOTYPES 576 584	headache
+T23	KEYPHRASE-NOTYPES 586 594	presence
+T24	KEYPHRASE-NOTYPES 598 614	cranial neuritis
+T25	KEYPHRASE-NOTYPES 620 630	percentage
+T26	KEYPHRASE-NOTYPES 634 655	CSF mononuclear cells
+T27	KEYPHRASE-NOTYPES 662 680	prospective cohort
+T28	KEYPHRASE-NOTYPES 687 695	children
+T29	KEYPHRASE-NOTYPES 710 725	Lyme meningitis
+T30	KEYPHRASE-NOTYPES 731 742	Avery model
+T31	KEYPHRASE-NOTYPES 770 783	investigators
+T32	KEYPHRASE-NOTYPES 796 810	simplification
+T33	KEYPHRASE-NOTYPES 823 860	complicated Avery regression equation
+T34	KEYPHRASE-NOTYPES 873 877	Rule
+T35	KEYPHRASE-NOTYPES 881 884	79s
+T36	KEYPHRASE-NOTYPES 892 900	Children
+T37	KEYPHRASE-NOTYPES 932 940	criteria
+T38	KEYPHRASE-NOTYPES 960 968	low risk
+T39	KEYPHRASE-NOTYPES 973 988	Lyme meningitis
+T40	KEYPHRASE-NOTYPES 993 997	days
+T41	KEYPHRASE-NOTYPES 1001 1009	headache
+T42	KEYPHRASE-NOTYPES 1016 1037	CSF mononuclear cells
+T43	KEYPHRASE-NOTYPES 1043 1050	absence
+T44	KEYPHRASE-NOTYPES 1073 1092	cranial nerve palsy

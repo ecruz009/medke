@@ -1,39 +1,39 @@
-T0	KEYPHRASE-NOTYPES 3 21	additional problem,"An","is "
-T1	KEYPHRASE-NOTYPES 34 51	clinical spectrum,"the","of "
-T2	KEYPHRASE-NOTYPES 61 69	patients,"ese","now"
-T3	KEYPHRASE-NOTYPES 93 107	diverse number,"ore","of "
-T4	KEYPHRASE-NOTYPES 111 117	causes," of","oth"
-T5	KEYPHRASE-NOTYPES 129 151	nonpolio enteroviruses,"han"," in"
-T6	KEYPHRASE-NOTYPES 168 178	meningitis,"(1)","due"
-T7	KEYPHRASE-NOTYPES 186 206	culturable pathogens," to","in "
-T8	KEYPHRASE-NOTYPES 220 242	pathogen concentration,"the","in "
-T9	KEYPHRASE-NOTYPES 246 249	CSF," in","is "
-T10	KEYPHRASE-NOTYPES 263 285	diagnostic sensitivity,"the","of "
-T11	KEYPHRASE-NOTYPES 289 318	standard microbiologic stains," of","(eg"
-T12	KEYPHRASE-NOTYPES 352 374	Listeria monocytogenes,"is,"," Cr"
-T13	KEYPHRASE-NOTYPES 376 399	Cryptococcus neoformans,"es,"," [6"
-T14	KEYPHRASE-NOTYPES 410 420	meningitis,"(2)","due"
-T15	KEYPHRASE-NOTYPES 428 444	treatable causes," to","not"
-T16	KEYPHRASE-NOTYPES 465 468	CSF,"rom","und"
-T17	KEYPHRASE-NOTYPES 475 493	routine conditions,"der","(eg"
-T18	KEYPHRASE-NOTYPES 499 528	human immuno-deficiency virus,"eg,","[HI"
-T19	KEYPHRASE-NOTYPES 530 533	HIV,"us ",", L"
-T20	KEYPHRASE-NOTYPES 536 548	Lyme disease,"V],"," sy"
-T21	KEYPHRASE-NOTYPES 550 558	syphilis,"se,","; a"
-T22	KEYPHRASE-NOTYPES 570 588	systemic illnesses,"3) ","(eg"
-T23	KEYPHRASE-NOTYPES 594 604	bacteremia,"eg,"," en"
-T24	KEYPHRASE-NOTYPES 606 618	endocarditis,"ia,"," va"
-T25	KEYPHRASE-NOTYPES 620 630	vasculitis,"is,"," or"
-T26	KEYPHRASE-NOTYPES 635 664	parameningeal focal processes," or","(eg"
-T27	KEYPHRASE-NOTYPES 670 681	brain tumor,"eg,"," br"
-T28	KEYPHRASE-NOTYPES 683 688	brain,"or,","or "
-T29	KEYPHRASE-NOTYPES 692 710	paraspinal abscess," or"," tr"
-T30	KEYPHRASE-NOTYPES 712 731	transverse myelitis,"ss,"," he"
-T31	KEYPHRASE-NOTYPES 733 760	herpes simplex encephalitis,"is,",", m"
-T32	KEYPHRASE-NOTYPES 819 842	complex host population,"gly","wit"
-T33	KEYPHRASE-NOTYPES 861 866	array,"ing","of "
-T34	KEYPHRASE-NOTYPES 870 893	treatable possibilities," of","fos"
-T35	KEYPHRASE-NOTYPES 902 911	confusion,"ers","in "
-T36	KEYPHRASE-NOTYPES 915 925	management," in"," un"
-T37	KEYPHRASE-NOTYPES 927 957	unnecessary diagnostic testing,"nt,"," an"
-T38	KEYPHRASE-NOTYPES 963 987	misdirected expenditures,"and",""
+T0	KEYPHRASE-NOTYPES 3 21	additional problem
+T1	KEYPHRASE-NOTYPES 34 51	clinical spectrum
+T2	KEYPHRASE-NOTYPES 61 69	patients
+T3	KEYPHRASE-NOTYPES 93 107	diverse number
+T4	KEYPHRASE-NOTYPES 111 117	causes
+T5	KEYPHRASE-NOTYPES 129 151	nonpolio enteroviruses
+T6	KEYPHRASE-NOTYPES 168 178	meningitis
+T7	KEYPHRASE-NOTYPES 186 206	culturable pathogens
+T8	KEYPHRASE-NOTYPES 220 242	pathogen concentration
+T9	KEYPHRASE-NOTYPES 246 249	CSF
+T10	KEYPHRASE-NOTYPES 263 285	diagnostic sensitivity
+T11	KEYPHRASE-NOTYPES 289 318	standard microbiologic stains
+T12	KEYPHRASE-NOTYPES 352 374	Listeria monocytogenes
+T13	KEYPHRASE-NOTYPES 376 399	Cryptococcus neoformans
+T14	KEYPHRASE-NOTYPES 410 420	meningitis
+T15	KEYPHRASE-NOTYPES 428 444	treatable causes
+T16	KEYPHRASE-NOTYPES 465 468	CSF
+T17	KEYPHRASE-NOTYPES 475 493	routine conditions
+T18	KEYPHRASE-NOTYPES 499 528	human immuno-deficiency virus
+T19	KEYPHRASE-NOTYPES 530 533	HIV
+T20	KEYPHRASE-NOTYPES 536 548	Lyme disease
+T21	KEYPHRASE-NOTYPES 550 558	syphilis
+T22	KEYPHRASE-NOTYPES 570 588	systemic illnesses
+T23	KEYPHRASE-NOTYPES 594 604	bacteremia
+T24	KEYPHRASE-NOTYPES 606 618	endocarditis
+T25	KEYPHRASE-NOTYPES 620 630	vasculitis
+T26	KEYPHRASE-NOTYPES 635 664	parameningeal focal processes
+T27	KEYPHRASE-NOTYPES 670 681	brain tumor
+T28	KEYPHRASE-NOTYPES 683 688	brain
+T29	KEYPHRASE-NOTYPES 692 710	paraspinal abscess
+T30	KEYPHRASE-NOTYPES 712 731	transverse myelitis
+T31	KEYPHRASE-NOTYPES 733 760	herpes simplex encephalitis
+T32	KEYPHRASE-NOTYPES 819 842	complex host population
+T33	KEYPHRASE-NOTYPES 861 866	array
+T34	KEYPHRASE-NOTYPES 870 893	treatable possibilities
+T35	KEYPHRASE-NOTYPES 902 911	confusion
+T36	KEYPHRASE-NOTYPES 915 925	management
+T37	KEYPHRASE-NOTYPES 927 957	unnecessary diagnostic testing
+T38	KEYPHRASE-NOTYPES 963 987	misdirected expenditures

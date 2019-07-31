@@ -14,8 +14,6 @@ T13	DKE 342 364	Francisella tularensis
 T14	DKE 370 380	babesiosis
 T15	DKE 382 397	Babesia microti
 T16	DKE 400 414	IgG antibodies
-T17	DKE 423 431	antigens
-T18	DKE 435 449	E. chaffeensis
 T19	DKE 451 468	E. phagocytophila
 T20	DKE 470 483	R. rickettsii
 T21	DKE 485 493	R. typhi
@@ -45,3 +43,5 @@ T44	DKE 2016 2034	secondary antibody
 T45	DKE 2204 2216	Lyme disease
 T46	DKE 0 13	Serum samples
 T47	DKE 2249 2261	serum sample
+T48	DKE 214 242	Rocky Mountain spotted fever
+T17	DKE 423 449	antigens of E. chaffeensis

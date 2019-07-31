@@ -24,7 +24,10 @@ txts = sorted( [os.path.join(input_root, txt_folder, txt) for txt in os.listdir(
 anns = sorted([os.path.join(input_root, anns_folder, ann) for ann in os.listdir(os.path.join(input_root, anns_folder))])
 #Kept same naming convention as original experiments
 outs = sorted( [os.path.join(output_fold, txt[:-4]+'__output.txt') for txt in os.listdir(os.path.join(input_root, txt_folder))])
-
+#Remove the hidden file .DS_Store from list (Comment out if this isn't an issue on your machine)
+txts.remove(os.path.join(input_root, txt_folder, ".DS_Store"))
+anns.remove(os.path.join(input_root, anns_folder, ".DS_Store"))
+outs.remove(os.path.join(output_fold, ".DS_Store"[:-4]+'__output.txt'))
 
 for txt, ann, out in zip(txts, anns, outs):
 
@@ -132,11 +135,14 @@ txt_folder = 'txts'
 
 output_fold ='medicalData/formatBIO/trainBIO'
 
-txts = sorted([os.path.join(input_root, txt_folder, txt) for txt in os.listdir(os.path.join(input_root, txt_folder))])
+txts = sorted( [os.path.join(input_root, txt_folder, txt) for txt in os.listdir(os.path.join(input_root, txt_folder))])
 anns = sorted([os.path.join(input_root, anns_folder, ann) for ann in os.listdir(os.path.join(input_root, anns_folder))])
-# Kept same naming convention as original experiments
-outs = sorted(
-    [os.path.join(output_fold, txt[:-4] + '__output.txt') for txt in os.listdir(os.path.join(input_root, txt_folder))])
+#Kept same naming convention as original experiments
+outs = sorted( [os.path.join(output_fold, txt[:-4]+'__output.txt') for txt in os.listdir(os.path.join(input_root, txt_folder))])
+#Remove the hidden file .DS_Store from list (Comment out if this isn't an issue on your machine)
+txts.remove(os.path.join(input_root, txt_folder, ".DS_Store"))
+anns.remove(os.path.join(input_root, anns_folder, ".DS_Store"))
+outs.remove(os.path.join(output_fold, ".DS_Store"[:-4]+'__output.txt'))
 
 for txt, ann, out in zip(txts, anns, outs):
 

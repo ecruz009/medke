@@ -9,7 +9,6 @@ T8	DKE 1083 1093	spirochete
 T9	DKE 1097 1120	spiral-shaped bacterium
 T10	DKE 1128 1148	Borrelia burgdorferi
 T11	DKE 1280 1293	bullseye rash
-T12	DKE 1298 1310	neurological
 T13	DKE 1328 1340	facial palsy
 T14	DKE 1412 1422	joint pain
 T15	DKE 1426 1435	arthritis
@@ -20,3 +19,6 @@ T19	DKE 2021 2033	Lyme disease
 T20	DKE 2007 2017	antibodies
 T21	DKE 2088 2096	Borrelia
 T22	DKE 2256 2276	antibiotic treatment
+T23	DKE 801 813	Lyme disease
+T12	DKE 1298 1319	neurological problems
+T24	DKE 1880 1892	Lyme disease

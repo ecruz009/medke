@@ -1,32 +1,32 @@
-T0	KEYPHRASE-NOTYPES 4 11	patient,"One","in "
-T1	KEYPHRASE-NOTYPES 20 35	treatment group,"ach","had"
-T2	KEYPHRASE-NOTYPES 40 58	objective evidence,"had","of "
-T3	KEYPHRASE-NOTYPES 62 74	Lyme disease," of","at "
-T4	KEYPHRASE-NOTYPES 82 97	last evaluation,"the","(i."
-T5	KEYPHRASE-NOTYPES 105 114	treatment,"e.,","fai"
-T6	KEYPHRASE-NOTYPES 126 133	patient,". A","in "
-T7	KEYPHRASE-NOTYPES 141 158	ceftriaxone group,"the","who"
-T8	KEYPHRASE-NOTYPES 178 205	seventh-cranial-nerve palsy,"ith","and"
-T9	KEYPHRASE-NOTYPES 210 224	normal results,"and","on "
-T10	KEYPHRASE-NOTYPES 228 243	lumbar puncture," on","con"
-T11	KEYPHRASE-NOTYPES 262 267	palsy,"ave","at "
-T12	KEYPHRASE-NOTYPES 275 296	three-month follow-up,"the","and"
-T13	KEYPHRASE-NOTYPES 311 322	ceftriaxone,"ven","for"
-T14	KEYPHRASE-NOTYPES 346 351	weeks,"ive"," De"
-T15	KEYPHRASE-NOTYPES 361 370	treatment,"ite"," th"
-T16	KEYPHRASE-NOTYPES 376 381	palsy,"the","per"
-T17	KEYPHRASE-NOTYPES 398 412	second patient,"n a"," la"
-T18	KEYPHRASE-NOTYPES 414 435	large-joint arthritis,"nt,","dev"
-T19	KEYPHRASE-NOTYPES 453 462	treatment,"ing","wit"
-T20	KEYPHRASE-NOTYPES 468 479	doxycycline,"ith"," th"
-T21	KEYPHRASE-NOTYPES 486 493	patient,"his","als"
-T22	KEYPHRASE-NOTYPES 503 510	fatigue,"had"," jo"
-T23	KEYPHRASE-NOTYPES 528 538	limitation,"ng,","of "
-T24	KEYPHRASE-NOTYPES 542 556	joint movement," of"," ar"
-T25	KEYPHRASE-NOTYPES 558 568	arthralgia,"nt,"," an"
-T26	KEYPHRASE-NOTYPES 574 581	myalgia,"and"," he"
-T27	KEYPHRASE-NOTYPES 608 631	intravenous ceftriaxone,"ved","for"
-T28	KEYPHRASE-NOTYPES 642 647	weeks,"ree","and"
-T29	KEYPHRASE-NOTYPES 658 677	complete resolution,"d a","of "
-T30	KEYPHRASE-NOTYPES 685 690	signs,"all","and"
-T31	KEYPHRASE-NOTYPES 695 703	symptoms,"and",""
+T0	KEYPHRASE-NOTYPES 4 11	patient
+T1	KEYPHRASE-NOTYPES 20 35	treatment group
+T2	KEYPHRASE-NOTYPES 40 58	objective evidence
+T3	KEYPHRASE-NOTYPES 62 74	Lyme disease
+T4	KEYPHRASE-NOTYPES 82 97	last evaluation
+T5	KEYPHRASE-NOTYPES 105 114	treatment
+T6	KEYPHRASE-NOTYPES 126 133	patient
+T7	KEYPHRASE-NOTYPES 141 158	ceftriaxone group
+T8	KEYPHRASE-NOTYPES 178 205	seventh-cranial-nerve palsy
+T9	KEYPHRASE-NOTYPES 210 224	normal results
+T10	KEYPHRASE-NOTYPES 228 243	lumbar puncture
+T11	KEYPHRASE-NOTYPES 262 267	palsy
+T12	KEYPHRASE-NOTYPES 275 296	three-month follow-up
+T13	KEYPHRASE-NOTYPES 311 322	ceftriaxone
+T14	KEYPHRASE-NOTYPES 346 351	weeks
+T15	KEYPHRASE-NOTYPES 361 370	treatment
+T16	KEYPHRASE-NOTYPES 376 381	palsy
+T17	KEYPHRASE-NOTYPES 398 412	second patient
+T18	KEYPHRASE-NOTYPES 414 435	large-joint arthritis
+T19	KEYPHRASE-NOTYPES 453 462	treatment
+T20	KEYPHRASE-NOTYPES 468 479	doxycycline
+T21	KEYPHRASE-NOTYPES 486 493	patient
+T22	KEYPHRASE-NOTYPES 503 510	fatigue
+T23	KEYPHRASE-NOTYPES 528 538	limitation
+T24	KEYPHRASE-NOTYPES 542 556	joint movement
+T25	KEYPHRASE-NOTYPES 558 568	arthralgia
+T26	KEYPHRASE-NOTYPES 574 581	myalgia
+T27	KEYPHRASE-NOTYPES 608 631	intravenous ceftriaxone
+T28	KEYPHRASE-NOTYPES 642 647	weeks
+T29	KEYPHRASE-NOTYPES 658 677	complete resolution
+T30	KEYPHRASE-NOTYPES 685 690	signs
+T31	KEYPHRASE-NOTYPES 695 703	symptoms

@@ -1,55 +1,55 @@
-T0	KEYPHRASE-NOTYPES 7 22	scapularis tick," I.","is "
-T1	KEYPHRASE-NOTYPES 56 77	known human pathogens,"ven"," In"
-T2	KEYPHRASE-NOTYPES 82 87	order," In","of "
-T3	KEYPHRASE-NOTYPES 102 111	frequency,"ing","of "
-T4	KEYPHRASE-NOTYPES 124 129	cases,"ted"," th"
-T5	KEYPHRASE-NOTYPES 146 147	B,"em,"," bu"
-T6	KEYPHRASE-NOTYPES 162 188	Anaplasma phagocytophilium,"ri,"," an"
-T7	KEYPHRASE-NOTYPES 194 209	Babesia microti,"and","hav"
-T8	KEYPHRASE-NOTYPES 233 241	majority,"the","of "
-T9	KEYPHRASE-NOTYPES 245 263	related infections," of","in "
-T10	KEYPHRASE-NOTYPES 267 279	recent years," in"," [6"
-T11	KEYPHRASE-NOTYPES 289 311	accurate determination," An","of "
-T12	KEYPHRASE-NOTYPES 319 323	rate,"the","of "
-T13	KEYPHRASE-NOTYPES 327 351	Lyme disease coinfection," of","wit"
-T14	KEYPHRASE-NOTYPES 418 432	uncommon event," an"," Hu"
-T15	KEYPHRASE-NOTYPES 434 465	Human granulocytic anaplasmosis,"nt.","(fo"
-T16	KEYPHRASE-NOTYPES 476 487	ehrlichosis,"rly"," ca"
-T17	KEYPHRASE-NOTYPES 502 518	phagocytophilium," A.","typ"
-T18	KEYPHRASE-NOTYPES 538 548	leukopenia,"ces"," th"
-T19	KEYPHRASE-NOTYPES 550 566	thrombocytopenia,"ia,"," an"
-T20	KEYPHRASE-NOTYPES 572 586	mild elevation,"and","of "
-T21	KEYPHRASE-NOTYPES 590 617	hepatic amino-transaminases," of"," wh"
-T22	KEYPHRASE-NOTYPES 645 657	Lyme disease," in","sho"
-T23	KEYPHRASE-NOTYPES 676 689	consideration,"the","of "
-T24	KEYPHRASE-NOTYPES 693 704	coinfection," of","wit"
-T25	KEYPHRASE-NOTYPES 715 735	rickettsial organism,"his"," [8"
-T26	KEYPHRASE-NOTYPES 746 766	parasitic protozoa B,"The"," mi"
-T27	KEYPHRASE-NOTYPES 768 775	microti," B.","is "
-T28	KEYPHRASE-NOTYPES 798 808	scapularis," I.","in "
-T29	KEYPHRASE-NOTYPES 816 825	Northeast,"the","and"
-T30	KEYPHRASE-NOTYPES 830 852	upper Midwest sections,"and","of "
-T31	KEYPHRASE-NOTYPES 860 873	United States,"the"," In"
-T32	KEYPHRASE-NOTYPES 875 884	Infection,"es.","may"
-T33	KEYPHRASE-NOTYPES 912 923	transfusion," by","of "
-T34	KEYPHRASE-NOTYPES 927 941	infected blood," of","or "
-T35	KEYPHRASE-NOTYPES 953 968	infected mother," an","to "
-T36	KEYPHRASE-NOTYPES 976 981	fetus,"her","in "
-T37	KEYPHRASE-NOTYPES 987 1003	vertical fashion,"n a"," [8"
-T38	KEYPHRASE-NOTYPES 1010 1025	Important clues,"86]","tha"
-T39	KEYPHRASE-NOTYPES 1048 1059	possibility,"the","of "
-T40	KEYPHRASE-NOTYPES 1063 1074	coinfection," of","wit"
-T41	KEYPHRASE-NOTYPES 1085 1108	red blood cell pathogen,"his","are"
-T42	KEYPHRASE-NOTYPES 1120 1139	severe presentation,"ore","of "
-T43	KEYPHRASE-NOTYPES 1143 1150	disease," of"," he"
-T44	KEYPHRASE-NOTYPES 1152 1168	hemolytic anemia,"se,","and"
-T45	KEYPHRASE-NOTYPES 1173 1192	low platelet counts,"and"," an"
-T46	KEYPHRASE-NOTYPES 1202 1212	observance,"the","of "
-T47	KEYPHRASE-NOTYPES 1220 1229	classic \,"the","mal"
-T48	KEYPHRASE-NOTYPES 1230 1244	maltese cross \,"c \"," ar"
-T49	KEYPHRASE-NOTYPES 1246 1257	arrangement,"s\"","of "
-T50	KEYPHRASE-NOTYPES 1261 1270	organisms," of","wit"
-T51	KEYPHRASE-NOTYPES 1278 1299	infected erythrocytes,"hin"," Pa"
-T52	KEYPHRASE-NOTYPES 1301 1309	Patients,"es.","wit"
-T53	KEYPHRASE-NOTYPES 1329 1346	anatomic asplenia," or","are"
-T54	KEYPHRASE-NOTYPES 1380 1390	infections,"est"," [8"
+T0	KEYPHRASE-NOTYPES 7 22	scapularis tick
+T1	KEYPHRASE-NOTYPES 56 77	known human pathogens
+T2	KEYPHRASE-NOTYPES 82 87	order
+T3	KEYPHRASE-NOTYPES 102 111	frequency
+T4	KEYPHRASE-NOTYPES 124 129	cases
+T5	KEYPHRASE-NOTYPES 146 147	B
+T6	KEYPHRASE-NOTYPES 162 188	Anaplasma phagocytophilium
+T7	KEYPHRASE-NOTYPES 194 209	Babesia microti
+T8	KEYPHRASE-NOTYPES 233 241	majority
+T9	KEYPHRASE-NOTYPES 245 263	related infections
+T10	KEYPHRASE-NOTYPES 267 279	recent years
+T11	KEYPHRASE-NOTYPES 289 311	accurate determination
+T12	KEYPHRASE-NOTYPES 319 323	rate
+T13	KEYPHRASE-NOTYPES 327 351	Lyme disease coinfection
+T14	KEYPHRASE-NOTYPES 418 432	uncommon event
+T15	KEYPHRASE-NOTYPES 434 465	Human granulocytic anaplasmosis
+T16	KEYPHRASE-NOTYPES 476 487	ehrlichosis
+T17	KEYPHRASE-NOTYPES 502 518	phagocytophilium
+T18	KEYPHRASE-NOTYPES 538 548	leukopenia
+T19	KEYPHRASE-NOTYPES 550 566	thrombocytopenia
+T20	KEYPHRASE-NOTYPES 572 586	mild elevation
+T21	KEYPHRASE-NOTYPES 590 617	hepatic amino-transaminases
+T22	KEYPHRASE-NOTYPES 645 657	Lyme disease
+T23	KEYPHRASE-NOTYPES 676 689	consideration
+T24	KEYPHRASE-NOTYPES 693 704	coinfection
+T25	KEYPHRASE-NOTYPES 715 735	rickettsial organism
+T26	KEYPHRASE-NOTYPES 746 766	parasitic protozoa B
+T27	KEYPHRASE-NOTYPES 768 775	microti
+T28	KEYPHRASE-NOTYPES 798 808	scapularis
+T29	KEYPHRASE-NOTYPES 816 825	Northeast
+T30	KEYPHRASE-NOTYPES 830 852	upper Midwest sections
+T31	KEYPHRASE-NOTYPES 860 873	United States
+T32	KEYPHRASE-NOTYPES 875 884	Infection
+T33	KEYPHRASE-NOTYPES 912 923	transfusion
+T34	KEYPHRASE-NOTYPES 927 941	infected blood
+T35	KEYPHRASE-NOTYPES 953 968	infected mother
+T36	KEYPHRASE-NOTYPES 976 981	fetus
+T37	KEYPHRASE-NOTYPES 987 1003	vertical fashion
+T38	KEYPHRASE-NOTYPES 1010 1025	Important clues
+T39	KEYPHRASE-NOTYPES 1048 1059	possibility
+T40	KEYPHRASE-NOTYPES 1063 1074	coinfection
+T41	KEYPHRASE-NOTYPES 1085 1108	red blood cell pathogen
+T42	KEYPHRASE-NOTYPES 1120 1139	severe presentation
+T43	KEYPHRASE-NOTYPES 1143 1150	disease
+T44	KEYPHRASE-NOTYPES 1152 1168	hemolytic anemia
+T45	KEYPHRASE-NOTYPES 1173 1192	low platelet counts
+T46	KEYPHRASE-NOTYPES 1202 1212	observance
+T47	KEYPHRASE-NOTYPES 1220 1229	classic \
+T48	KEYPHRASE-NOTYPES 1230 1244	maltese cross \
+T49	KEYPHRASE-NOTYPES 1246 1257	arrangement
+T50	KEYPHRASE-NOTYPES 1261 1270	organisms
+T51	KEYPHRASE-NOTYPES 1278 1299	infected erythrocytes
+T52	KEYPHRASE-NOTYPES 1301 1309	Patients
+T53	KEYPHRASE-NOTYPES 1329 1346	anatomic asplenia
+T54	KEYPHRASE-NOTYPES 1380 1390	infections

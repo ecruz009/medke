@@ -1,32 +1,32 @@
-T0	KEYPHRASE-NOTYPES 0 12	Lyme disease,"","can"
-T1	KEYPHRASE-NOTYPES 69 78	incidence,"ing","in "
-T2	KEYPHRASE-NOTYPES 82 88	Canada," in","it "
-T3	KEYPHRASE-NOTYPES 119 129	high index,"n a","of "
-T4	KEYPHRASE-NOTYPES 133 142	suspicion," of"," La"
-T5	KEYPHRASE-NOTYPES 144 164	Laboratory diagnosis,"on.","is "
-T6	KEYPHRASE-NOTYPES 170 184	2-step process,"s a","5 I"
-T7	KEYPHRASE-NOTYPES 195 199	case,"his"," th"
-T8	KEYPHRASE-NOTYPES 205 224	emergency physician,"the","ord"
-T9	KEYPHRASE-NOTYPES 237 252	screening ELISA,"the","(en"
-T10	KEYPHRASE-NOTYPES 254 287	enzyme-linked immunosorbent assay,"SA "," fo"
-T11	KEYPHRASE-NOTYPES 298 305	patient,"our"," If"
-T12	KEYPHRASE-NOTYPES 314 326	ELISA result,"the","is "
-T13	KEYPHRASE-NOTYPES 361 373	Western blot,"r a"," A "
-T14	KEYPHRASE-NOTYPES 377 398	positive Western blot,". A","res"
-T15	KEYPHRASE-NOTYPES 419 428	diagnosis,"the","5 L"
-T16	KEYPHRASE-NOTYPES 431 443	Lyme disease,"s.5","sho"
-T17	KEYPHRASE-NOTYPES 472 479	patient,"any","wit"
-T18	KEYPHRASE-NOTYPES 487 496	new onset,"h a","of "
-T19	KEYPHRASE-NOTYPES 500 510	Bell palsy," of"," Cu"
-T20	KEYPHRASE-NOTYPES 512 545	Current treatment recommendations,"sy.","for"
-T21	KEYPHRASE-NOTYPES 569 581	Lyme disease,"ted","wit"
-T22	KEYPHRASE-NOTYPES 587 621	central nervous system involvement,"ith","inc"
-T23	KEYPHRASE-NOTYPES 630 641	ceftriaxone,"ude","and"
-T24	KEYPHRASE-NOTYPES 646 656	oxycycline,"and"," [6"
-T25	KEYPHRASE-NOTYPES 671 678	patient,"his"," yo"
-T26	KEYPHRASE-NOTYPES 692 704	Western blot,"r a"," ex"
-T27	KEYPHRASE-NOTYPES 717 729	prescription,"his","of "
-T28	KEYPHRASE-NOTYPES 733 744	doxycycline," of","to "
-T29	KEYPHRASE-NOTYPES 759 777	full 21-day course,"e a"," ar"
-T30	KEYPHRASE-NOTYPES 787 796	follow-up,"nge"," an"
-T31	KEYPHRASE-NOTYPES 825 852	Lyme disease facial palsies,"ost","res"
+T0	KEYPHRASE-NOTYPES 0 12	Lyme disease
+T1	KEYPHRASE-NOTYPES 69 78	incidence
+T2	KEYPHRASE-NOTYPES 82 88	Canada
+T3	KEYPHRASE-NOTYPES 119 129	high index
+T4	KEYPHRASE-NOTYPES 133 142	suspicion
+T5	KEYPHRASE-NOTYPES 144 164	Laboratory diagnosis
+T6	KEYPHRASE-NOTYPES 170 184	2-step process
+T7	KEYPHRASE-NOTYPES 195 199	case
+T8	KEYPHRASE-NOTYPES 205 224	emergency physician
+T9	KEYPHRASE-NOTYPES 237 252	screening ELISA
+T10	KEYPHRASE-NOTYPES 254 287	enzyme-linked immunosorbent assay
+T11	KEYPHRASE-NOTYPES 298 305	patient
+T12	KEYPHRASE-NOTYPES 314 326	ELISA result
+T13	KEYPHRASE-NOTYPES 361 373	Western blot
+T14	KEYPHRASE-NOTYPES 377 398	positive Western blot
+T15	KEYPHRASE-NOTYPES 419 428	diagnosis
+T16	KEYPHRASE-NOTYPES 431 443	Lyme disease
+T17	KEYPHRASE-NOTYPES 472 479	patient
+T18	KEYPHRASE-NOTYPES 487 496	new onset
+T19	KEYPHRASE-NOTYPES 500 510	Bell palsy
+T20	KEYPHRASE-NOTYPES 512 545	Current treatment recommendations
+T21	KEYPHRASE-NOTYPES 569 581	Lyme disease
+T22	KEYPHRASE-NOTYPES 587 621	central nervous system involvement
+T23	KEYPHRASE-NOTYPES 630 641	ceftriaxone
+T24	KEYPHRASE-NOTYPES 646 656	oxycycline
+T25	KEYPHRASE-NOTYPES 671 678	patient
+T26	KEYPHRASE-NOTYPES 692 704	Western blot
+T27	KEYPHRASE-NOTYPES 717 729	prescription
+T28	KEYPHRASE-NOTYPES 733 744	doxycycline
+T29	KEYPHRASE-NOTYPES 759 777	full 21-day course
+T30	KEYPHRASE-NOTYPES 787 796	follow-up
+T31	KEYPHRASE-NOTYPES 825 852	Lyme disease facial palsies

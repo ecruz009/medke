@@ -143,8 +143,8 @@ obvious	O 773 780
 scientific	O 781 791
 benefit.	O 792 800
 
-Lyme	O 801 805
-disease	O 806 813
+Lyme	B-KP 801 805
+disease	I-KP 806 813
 made	O 814 818
 a	O 819 820
 meteoric	O 821 829
@@ -220,7 +220,7 @@ bullseye	B-KP 1280 1288
 rash	I-KP 1289 1293
 and	O 1294 1297
 neurological	B-KP 1298 1310
-problems	O 1311 1319
+problems	I-KP 1311 1319
 such	O 1320 1324
 as	O 1325 1327
 facial	B-KP 1328 1334
@@ -319,8 +319,8 @@ a	O 1862 1863
 chronic	O 1864 1871
 form	O 1872 1876
 of	O 1877 1879
-Lyme	O 1880 1884
-disease	O 1885 1892
+Lyme	B-KP 1880 1884
+disease	I-KP 1885 1892
 that	O 1893 1897
 left	O 1898 1902
 them	O 1903 1907
@@ -548,8 +548,8 @@ obvious	O 773 780
 scientific	O 781 791
 benefit.	O 792 800
 
-Lyme	O 801 805
-disease	O 806 813
+Lyme	B-KP 801 805
+disease	I-KP 806 813
 made	O 814 818
 a	O 819 820
 meteoric	O 821 829
@@ -625,7 +625,7 @@ bullseye	B-KP 1280 1288
 rash	I-KP 1289 1293
 and	O 1294 1297
 neurological	B-KP 1298 1310
-problems	O 1311 1319
+problems	I-KP 1311 1319
 such	O 1320 1324
 as	O 1325 1327
 facial	B-KP 1328 1334
@@ -724,8 +724,8 @@ a	O 1862 1863
 chronic	O 1864 1871
 form	O 1872 1876
 of	O 1877 1879
-Lyme	O 1880 1884
-disease	O 1885 1892
+Lyme	B-KP 1880 1884
+disease	I-KP 1885 1892
 that	O 1893 1897
 left	O 1898 1902
 them	O 1903 1907

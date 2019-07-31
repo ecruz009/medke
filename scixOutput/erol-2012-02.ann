@@ -1,43 +1,43 @@
-T0	KEYPHRASE-NOTYPES 4 9	onset,"The","of "
-T1	KEYPHRASE-NOTYPES 13 36	acute cerebellar ataxia," of","var"
-T2	KEYPHRASE-NOTYPES 51 60	days,"m a","to "
-T3	KEYPHRASE-NOTYPES 64 77	several weeks," to","aft"
-T4	KEYPHRASE-NOTYPES 87 108	acute febrile illness," an"," Ce"
-T5	KEYPHRASE-NOTYPES 110 126	Cerebellar signs,"ss.","are"
-T6	KEYPHRASE-NOTYPES 150 174	many infectious diseases,"ing"," in"
-T7	KEYPHRASE-NOTYPES 186 202	varicella-zoster,"ing"," Ep"
-T8	KEYPHRASE-NOTYPES 218 230	entero-virus,"rr,"," ru"
-T9	KEYPHRASE-NOTYPES 232 239	rubeola,"us,"," pa"
-T10	KEYPHRASE-NOTYPES 241 251	parvovirus,"la,"," an"
-T11	KEYPHRASE-NOTYPES 257 278	mycoplasma infections,"and"," Va"
-T12	KEYPHRASE-NOTYPES 280 289	Varicella,"ns.","is "
-T13	KEYPHRASE-NOTYPES 324 341	infectious agents,"ese","in "
-T14	KEYPHRASE-NOTYPES 345 359	young children," in"," Th"
-T15	KEYPHRASE-NOTYPES 365 377	pathogenesis,"The","of "
-T16	KEYPHRASE-NOTYPES 381 387	ataxia," of","rem"
-T17	KEYPHRASE-NOTYPES 418 426	evidence,"ing","sug"
-T18	KEYPHRASE-NOTYPES 444 464	autoimmune mechanism," an","may"
-T19	KEYPHRASE-NOTYPES 482 502	Antiviral antibodies,"ed.","and"
-T20	KEYPHRASE-NOTYPES 507 530	autoreactive antibodies,"and","tar"
-T21	KEYPHRASE-NOTYPES 541 559	cerebellar neurons,"ing"," po"
-T22	KEYPHRASE-NOTYPES 570 584	autoantibodies,"bly","spe"
-T23	KEYPHRASE-NOTYPES 602 632	centrosome protein pericentrin,"the"," ha"
-T24	KEYPHRASE-NOTYPES 660 663	CSF,"the","of "
-T25	KEYPHRASE-NOTYPES 667 685	varicella patients," of"," In"
-T26	KEYPHRASE-NOTYPES 690 701	cases," In"," vi"
-T27	KEYPHRASE-NOTYPES 703 722	viral nucleic acids,"es,","hav"
-T28	KEYPHRASE-NOTYPES 751 754	CSF,"the"," su"
-T29	KEYPHRASE-NOTYPES 776 784	pathogen,"the","may"
-T30	KEYPHRASE-NOTYPES 809 831	central nervous system,"the","[12"
-T31	KEYPHRASE-NOTYPES 859 864	Table," in","1, "
-T32	KEYPHRASE-NOTYPES 868 890	cerebellar involvement," 1,","in "
-T33	KEYPHRASE-NOTYPES 898 902	form,"the","of "
-T34	KEYPHRASE-NOTYPES 906 916	cerebritis," of","or "
-T35	KEYPHRASE-NOTYPES 920 957	acute demyelinating encephalomyelitis," or","are"
-T36	KEYPHRASE-NOTYPES 975 983	patients," in","wit"
-T37	KEYPHRASE-NOTYPES 989 1001	Lyme disease,"ith"," ho"
-T38	KEYPHRASE-NOTYPES 1017 1021	case,"his","is "
-T39	KEYPHRASE-NOTYPES 1029 1041	first report,"the","of "
-T40	KEYPHRASE-NOTYPES 1045 1068	acute cerebellar ataxia," of","ass"
-T41	KEYPHRASE-NOTYPES 1085 1097	Lyme disease,"ith","in "
-T42	KEYPHRASE-NOTYPES 1105 1115	literature,"the",""
+T0	KEYPHRASE-NOTYPES 4 9	onset
+T1	KEYPHRASE-NOTYPES 13 36	acute cerebellar ataxia
+T2	KEYPHRASE-NOTYPES 51 60	days
+T3	KEYPHRASE-NOTYPES 64 77	several weeks
+T4	KEYPHRASE-NOTYPES 87 108	acute febrile illness
+T5	KEYPHRASE-NOTYPES 110 126	Cerebellar signs
+T6	KEYPHRASE-NOTYPES 150 174	many infectious diseases
+T7	KEYPHRASE-NOTYPES 186 202	varicella-zoster
+T8	KEYPHRASE-NOTYPES 218 230	entero-virus
+T9	KEYPHRASE-NOTYPES 232 239	rubeola
+T10	KEYPHRASE-NOTYPES 241 251	parvovirus
+T11	KEYPHRASE-NOTYPES 257 278	mycoplasma infections
+T12	KEYPHRASE-NOTYPES 280 289	Varicella
+T13	KEYPHRASE-NOTYPES 324 341	infectious agents
+T14	KEYPHRASE-NOTYPES 345 359	young children
+T15	KEYPHRASE-NOTYPES 365 377	pathogenesis
+T16	KEYPHRASE-NOTYPES 381 387	ataxia
+T17	KEYPHRASE-NOTYPES 418 426	evidence
+T18	KEYPHRASE-NOTYPES 444 464	autoimmune mechanism
+T19	KEYPHRASE-NOTYPES 482 502	Antiviral antibodies
+T20	KEYPHRASE-NOTYPES 507 530	autoreactive antibodies
+T21	KEYPHRASE-NOTYPES 541 559	cerebellar neurons
+T22	KEYPHRASE-NOTYPES 570 584	autoantibodies
+T23	KEYPHRASE-NOTYPES 602 632	centrosome protein pericentrin
+T24	KEYPHRASE-NOTYPES 660 663	CSF
+T25	KEYPHRASE-NOTYPES 667 685	varicella patients
+T26	KEYPHRASE-NOTYPES 690 701	cases
+T27	KEYPHRASE-NOTYPES 703 722	viral nucleic acids
+T28	KEYPHRASE-NOTYPES 751 754	CSF
+T29	KEYPHRASE-NOTYPES 776 784	pathogen
+T30	KEYPHRASE-NOTYPES 809 831	central nervous system
+T31	KEYPHRASE-NOTYPES 859 864	Table
+T32	KEYPHRASE-NOTYPES 868 890	cerebellar involvement
+T33	KEYPHRASE-NOTYPES 898 902	form
+T34	KEYPHRASE-NOTYPES 906 916	cerebritis
+T35	KEYPHRASE-NOTYPES 920 957	acute demyelinating encephalomyelitis
+T36	KEYPHRASE-NOTYPES 975 983	patients
+T37	KEYPHRASE-NOTYPES 989 1001	Lyme disease
+T38	KEYPHRASE-NOTYPES 1017 1021	case
+T39	KEYPHRASE-NOTYPES 1029 1041	first report
+T40	KEYPHRASE-NOTYPES 1045 1068	acute cerebellar ataxia
+T41	KEYPHRASE-NOTYPES 1085 1097	Lyme disease
+T42	KEYPHRASE-NOTYPES 1105 1115	literature

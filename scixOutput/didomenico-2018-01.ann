@@ -1,43 +1,43 @@
-T0	KEYPHRASE-NOTYPES 0 3	LNB,"","is,"
-T1	KEYPHRASE-NOTYPES 8 20	inmany cases,"is,"," re"
-T2	KEYPHRASE-NOTYPES 36 69	appropriate antimicrobial therapy," to","and"
-T3	KEYPHRASE-NOTYPES 78 98	clinical improvement,"the","sus"
-T4	KEYPHRASE-NOTYPES 116 136	antibiotic treatment,"the","pro"
-T5	KEYPHRASE-NOTYPES 145 161	evidence,"ide","for"
-T6	KEYPHRASE-NOTYPES 170 189	direct contribution,"the","of "
-T7	KEYPHRASE-NOTYPES 193 194	B," of"," bu"
-T8	KEYPHRASE-NOTYPES 211 231	disease pathogenesis," in"," Ho"
-T9	KEYPHRASE-NOTYPES 246 265	chronic persistence,"the"," th"
-T10	KEYPHRASE-NOTYPES 271 292	frequent reoccurrence,"the","of "
-T11	KEYPHRASE-NOTYPES 296 299	LNB," of","and"
-T12	KEYPHRASE-NOTYPES 308 315	ability,"the","of "
-T13	KEYPHRASE-NOTYPES 319 320	B," of"," bu"
-T14	KEYPHRASE-NOTYPES 346 361	multiple cycles,"ate","of "
-T15	KEYPHRASE-NOTYPES 365 385	antibiotic treatment," of","is "
-T16	KEYPHRASE-NOTYPES 417 426	formation,"the","of "
-T17	KEYPHRASE-NOTYPES 430 437	biofilm," of","or "
-T18	KEYPHRASE-NOTYPES 441 473	biofilmlike protective structure," or","(20"
-T19	KEYPHRASE-NOTYPES 491 508	different studies,"ed,","hav"
-T20	KEYPHRASE-NOTYPES 525 526	B,"hat"," bu"
-T21	KEYPHRASE-NOTYPES 551 562	fromamotile,"tch","to "
-T22	KEYPHRASE-NOTYPES 568 585	stationary status,"o a"," in"
-T23	KEYPHRASE-NOTYPES 600 605	cells,"the","are"
-T24	KEYPHRASE-NOTYPES 628 642	biofilm matrix,"n a","(22"
-T25	KEYPHRASE-NOTYPES 649 650	B,"2)."," bu"
-T26	KEYPHRASE-NOTYPES 713 740	human infected skin tissues," in","(22"
-T27	KEYPHRASE-NOTYPES 757 767	structures,"ese","exp"
-T28	KEYPHRASE-NOTYPES 776 805	different mucopolysaccharides,"ess"," pa"
-T29	KEYPHRASE-NOTYPES 830 847	extracellular DNA,"te,","and"
-T30	KEYPHRASE-NOTYPES 852 859	calcium,"and"," wh"
-T31	KEYPHRASE-NOTYPES 875 890	typical markers,"all","of "
-T32	KEYPHRASE-NOTYPES 894 901	biofilm," of","(22"
-T33	KEYPHRASE-NOTYPES 912 920	presence,"The","of "
-T34	KEYPHRASE-NOTYPES 924 931	biofilm," of","may"
-T35	KEYPHRASE-NOTYPES 948 956	low rate,"the","of "
-T36	KEYPHRASE-NOTYPES 969 978	detection,"lia","in "
-T37	KEYPHRASE-NOTYPES 986 991	blood,"the","of "
-T38	KEYPHRASE-NOTYPES 995 1012	infected patients," of","as "
-T39	KEYPHRASE-NOTYPES 1028 1035	ability,"the","of "
-T40	KEYPHRASE-NOTYPES 1043 1054	spirochetes,"the","to "
-T41	KEYPHRASE-NOTYPES 1068 1089	host immune systemand,"the","res"
-T42	KEYPHRASE-NOTYPES 1101 1119	antibiotic therapy,"the","(21"
+T0	KEYPHRASE-NOTYPES 0 3	LNB
+T1	KEYPHRASE-NOTYPES 8 20	inmany cases
+T2	KEYPHRASE-NOTYPES 36 69	appropriate antimicrobial therapy
+T3	KEYPHRASE-NOTYPES 78 98	clinical improvement
+T4	KEYPHRASE-NOTYPES 116 136	antibiotic treatment
+T5	KEYPHRASE-NOTYPES 145 161	evidence
+T6	KEYPHRASE-NOTYPES 170 189	direct contribution
+T7	KEYPHRASE-NOTYPES 193 194	B
+T8	KEYPHRASE-NOTYPES 211 231	disease pathogenesis
+T9	KEYPHRASE-NOTYPES 246 265	chronic persistence
+T10	KEYPHRASE-NOTYPES 271 292	frequent reoccurrence
+T11	KEYPHRASE-NOTYPES 296 299	LNB
+T12	KEYPHRASE-NOTYPES 308 315	ability
+T13	KEYPHRASE-NOTYPES 319 320	B
+T14	KEYPHRASE-NOTYPES 346 361	multiple cycles
+T15	KEYPHRASE-NOTYPES 365 385	antibiotic treatment
+T16	KEYPHRASE-NOTYPES 417 426	formation
+T17	KEYPHRASE-NOTYPES 430 437	biofilm
+T18	KEYPHRASE-NOTYPES 441 473	biofilmlike protective structure
+T19	KEYPHRASE-NOTYPES 491 508	different studies
+T20	KEYPHRASE-NOTYPES 525 526	B
+T21	KEYPHRASE-NOTYPES 551 562	fromamotile
+T22	KEYPHRASE-NOTYPES 568 585	stationary status
+T23	KEYPHRASE-NOTYPES 600 605	cells
+T24	KEYPHRASE-NOTYPES 628 642	biofilm matrix
+T25	KEYPHRASE-NOTYPES 649 650	B
+T26	KEYPHRASE-NOTYPES 713 740	human infected skin tissues
+T27	KEYPHRASE-NOTYPES 757 767	structures
+T28	KEYPHRASE-NOTYPES 776 805	different mucopolysaccharides
+T29	KEYPHRASE-NOTYPES 830 847	extracellular DNA
+T30	KEYPHRASE-NOTYPES 852 859	calcium
+T31	KEYPHRASE-NOTYPES 875 890	typical markers
+T32	KEYPHRASE-NOTYPES 894 901	biofilm
+T33	KEYPHRASE-NOTYPES 912 920	presence
+T34	KEYPHRASE-NOTYPES 924 931	biofilm
+T35	KEYPHRASE-NOTYPES 948 956	low rate
+T36	KEYPHRASE-NOTYPES 969 978	detection
+T37	KEYPHRASE-NOTYPES 986 991	blood
+T38	KEYPHRASE-NOTYPES 995 1012	infected patients
+T39	KEYPHRASE-NOTYPES 1028 1035	ability
+T40	KEYPHRASE-NOTYPES 1043 1054	spirochetes
+T41	KEYPHRASE-NOTYPES 1068 1089	host immune systemand
+T42	KEYPHRASE-NOTYPES 1101 1119	antibiotic therapy

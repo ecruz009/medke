@@ -25,10 +25,10 @@ granulocytic	I-KP 161 173
 ehrlichiosis	I-KP 174 186
 (Ehrlichia	B-KP 187 197
 phagocytophila),	O 198 214
-Rocky	O 215 220
-Mountain	O 221 229
-spotted	O 230 237
-fever	O 238 243
+Rocky	I-KP 215 220
+Mountain	I-KP 221 229
+spotted	I-KP 230 237
+fever	I-KP 238 243
 (Rickettsia	B-KP 244 255
 rickettsii),	O 256 268
 murine	I-KP 269 275
@@ -51,7 +51,7 @@ IgG	I-KP 401 404
 antibodies	I-KP 405 415
 against	O 416 423
 antigens	I-KP 424 432
-of	O 433 435
+of	I-KP 433 435
 E.	I-KP 436 438
 
 chaffeensis,	O 439 451
@@ -400,10 +400,10 @@ granulocytic	I-KP 161 173
 ehrlichiosis	I-KP 174 186
 (Ehrlichia	B-KP 187 197
 phagocytophila),	O 198 214
-Rocky	O 215 220
-Mountain	O 221 229
-spotted	O 230 237
-fever	O 238 243
+Rocky	I-KP 215 220
+Mountain	I-KP 221 229
+spotted	I-KP 230 237
+fever	I-KP 238 243
 (Rickettsia	B-KP 244 255
 rickettsii),	O 256 268
 murine	I-KP 269 275
@@ -426,7 +426,7 @@ IgG	I-KP 401 404
 antibodies	I-KP 405 415
 against	O 416 423
 antigens	I-KP 424 432
-of	O 433 435
+of	I-KP 433 435
 E.	I-KP 436 438
 
 chaffeensis,	O 439 451

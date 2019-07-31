@@ -6,3 +6,11 @@ T4	KEYPHRASE_NOTYPES 469 484	chromosomal DNA
 T5	KEYPHRASE_NOTYPES 507 526	double-stranded DNA
 T6	KEYPHRASE_NOTYPES 822 851	nonspecific borrelia proteins
 T7	KEYPHRASE_NOTYPES 1113 1134	protoplasmic cylinder
+T8	KEYPHRASE_NOTYPES 0 20	Borrelia burgdorferi
+T9	KEYPHRASE_NOTYPES 130 151	special silver stains
+T10	KEYPHRASE_NOTYPES 288 308	central protoplasmic
+T11	KEYPHRASE_NOTYPES 340 360	periplasmic flagella
+T12	KEYPHRASE_NOTYPES 469 484	chromosomal DNA
+T13	KEYPHRASE_NOTYPES 507 526	double-stranded DNA
+T14	KEYPHRASE_NOTYPES 822 851	nonspecific borrelia proteins
+T15	KEYPHRASE_NOTYPES 1113 1134	protoplasmic cylinder

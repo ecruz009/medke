@@ -84,7 +84,7 @@ with	O 549 553
 higher	O 554 560
 synovial	B-KP 561 569
 WBC	I-KP 570 573
-counts	O 574 580
+counts	I-KP 574 580
 which	O 581 586
 may	O 587 590
 suggest	O 591 598
@@ -134,7 +134,7 @@ arthritis.	I-KP 861 871
 [22-24]	O 872 879
 Lyme	B-KP 880 884
 arthritis	I-KP 885 894
-rarely,	I-KP 895 902
+rarely,	O 895 902
 if	O 903 905
 ever,	O 906 911
 causes	O 912 918
@@ -174,8 +174,8 @@ evidence	O 1164 1172
 of	O 1173 1175
 joint	O 1176 1181
 inflammation.\nOther	O 1182 1202
-inflammatory	O 1203 1215
-arthritides,	O 1216 1228
+inflammatory	B-KP 1203 1215
+arthritides,	I-KP 1216 1228
 such	O 1229 1233
 as	O 1234 1236
 rheumatoid	B-KP 1237 1247
@@ -335,7 +335,7 @@ with	O 549 553
 higher	O 554 560
 synovial	B-KP 561 569
 WBC	I-KP 570 573
-counts	O 574 580
+counts	I-KP 574 580
 which	O 581 586
 may	O 587 590
 suggest	O 591 598
@@ -385,7 +385,7 @@ arthritis.	I-KP 861 871
 [22-24]	O 872 879
 Lyme	B-KP 880 884
 arthritis	I-KP 885 894
-rarely,	I-KP 895 902
+rarely,	O 895 902
 if	O 903 905
 ever,	O 906 911
 causes	O 912 918
@@ -425,8 +425,8 @@ evidence	O 1164 1172
 of	O 1173 1175
 joint	O 1176 1181
 inflammation.\nOther	O 1182 1202
-inflammatory	O 1203 1215
-arthritides,	O 1216 1228
+inflammatory	B-KP 1203 1215
+arthritides,	I-KP 1216 1228
 such	O 1229 1233
 as	O 1234 1236
 rheumatoid	B-KP 1237 1247

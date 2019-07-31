@@ -1,51 +1,51 @@
-T0	KEYPHRASE-NOTYPES 2 22	physical examination,"A","was"
-T1	KEYPHRASE-NOTYPES 46 73	initial clinical impression," an","of "
-T2	KEYPHRASE-NOTYPES 77 103	supraspinatus tendinopathy," of","and"
-T3	KEYPHRASE-NOTYPES 108 119	impingement,"and"," Th"
-T4	KEYPHRASE-NOTYPES 132 142	procedures,"re,","wer"
-T5	KEYPHRASE-NOTYPES 165 172	attempt," an","to "
-T6	KEYPHRASE-NOTYPES 188 215	initial clinical impression,"the"," Ob"
-T7	KEYPHRASE-NOTYPES 217 228	Observation,"on.","of "
-T8	KEYPHRASE-NOTYPES 236 243	patient,"the","rev"
-T9	KEYPHRASE-NOTYPES 258 275	flu-like symptoms,"(1)","(ru"
-T10	KEYPHRASE-NOTYPES 277 287	runny nose,"ms "," si"
-T11	KEYPHRASE-NOTYPES 289 305	sinus congestion,"se,"," an"
-T12	KEYPHRASE-NOTYPES 311 323	itchy throat,"and",", w"
-T13	KEYPHRASE-NOTYPES 351 362	recent bout,"o a","of "
-T14	KEYPHRASE-NOTYPES 366 382	sinus congestion," of","due"
-T15	KEYPHRASE-NOTYPES 390 408	seasonal allergies," to"," an"
-T16	KEYPHRASE-NOTYPES 431 438	posture,"ing"," wh"
-T17	KEYPHRASE-NOTYPES 451 469	common observation,"s a","in "
-T18	KEYPHRASE-NOTYPES 473 498	supraspinatus impingement," in"," [1"
-T19	KEYPHRASE-NOTYPES 504 525	Palpation examination,"[1]","of "
-T20	KEYPHRASE-NOTYPES 533 554	right upper extremity,"the","rev"
-T21	KEYPHRASE-NOTYPES 564 574	tenderness,"led","at "
-T22	KEYPHRASE-NOTYPES 582 598	distal insertion,"the","of "
-T23	KEYPHRASE-NOTYPES 606 626	supraspinatus tendon,"the","and"
-T24	KEYPHRASE-NOTYPES 638 664	supraspinatus muscle belly,"the"," A "
-T25	KEYPHRASE-NOTYPES 668 679	painful arc,". A","at "
-T26	KEYPHRASE-NOTYPES 687 694	degrees,"120","of "
-T27	KEYPHRASE-NOTYPES 698 707	abduction," of"," mi"
-T28	KEYPHRASE-NOTYPES 709 736	minimal scapular dyskinesia,"on,","on "
-T29	KEYPHRASE-NOTYPES 744 754	right side,"the"," an"
-T30	KEYPHRASE-NOTYPES 760 764	pain,"and","at "
-T31	KEYPHRASE-NOTYPES 768 812	end-range passive shoulder internal rotation," at","wer"
-T32	KEYPHRASE-NOTYPES 830 868	right shoulder range-of-motion testing," in","in "
-T33	KEYPHRASE-NOTYPES 872 880	standing," in","and"
-T34	KEYPHRASE-NOTYPES 885 901	supine positions,"and","as "
-T35	KEYPHRASE-NOTYPES 918 923	Magee," by","25 "
-T36	KEYPHRASE-NOTYPES 933 955	range-ofmotion testing,"ter"," ma"
-T37	KEYPHRASE-NOTYPES 957 978	manual muscle testing,"ng,","(MM"
-T38	KEYPHRASE-NOTYPES 980 983	MMT,"ng "," on"
-T39	KEYPHRASE-NOTYPES 997 1002	scale,"o 5","was"
-T40	KEYPHRASE-NOTYPES 1023 1033	techniques,"ing","sug"
-T41	KEYPHRASE-NOTYPES 1047 1053	Hislop," by","and"
-T42	KEYPHRASE-NOTYPES 1058 1068	Montgomery,"and"," [2"
-T43	KEYPHRASE-NOTYPES 1079 1086	patient,"The","s s"
-T44	KEYPHRASE-NOTYPES 1089 1110	strength measurements,"t’s","rev"
-T45	KEYPHRASE-NOTYPES 1120 1143	right shoulder strength,"led","(fo"
-T46	KEYPHRASE-NOTYPES 1145 1170	force-generating capacity,"th "," of"
-T47	KEYPHRASE-NOTYPES 1175 1192	external rotation," of","and"
-T48	KEYPHRASE-NOTYPES 1197 1206	abduction,"and","of "
-T49	KEYPHRASE-NOTYPES 1227 1231	pain,"ked","in "
-T50	KEYPHRASE-NOTYPES 1239 1253	right shoulder,"the",""
+T0	KEYPHRASE-NOTYPES 2 22	physical examination
+T1	KEYPHRASE-NOTYPES 46 73	initial clinical impression
+T2	KEYPHRASE-NOTYPES 77 103	supraspinatus tendinopathy
+T3	KEYPHRASE-NOTYPES 108 119	impingement
+T4	KEYPHRASE-NOTYPES 132 142	procedures
+T5	KEYPHRASE-NOTYPES 165 172	attempt
+T6	KEYPHRASE-NOTYPES 188 215	initial clinical impression
+T7	KEYPHRASE-NOTYPES 217 228	Observation
+T8	KEYPHRASE-NOTYPES 236 243	patient
+T9	KEYPHRASE-NOTYPES 258 275	flu-like symptoms
+T10	KEYPHRASE-NOTYPES 277 287	runny nose
+T11	KEYPHRASE-NOTYPES 289 305	sinus congestion
+T12	KEYPHRASE-NOTYPES 311 323	itchy throat
+T13	KEYPHRASE-NOTYPES 351 362	recent bout
+T14	KEYPHRASE-NOTYPES 366 382	sinus congestion
+T15	KEYPHRASE-NOTYPES 390 408	seasonal allergies
+T16	KEYPHRASE-NOTYPES 431 438	posture
+T17	KEYPHRASE-NOTYPES 451 469	common observation
+T18	KEYPHRASE-NOTYPES 473 498	supraspinatus impingement
+T19	KEYPHRASE-NOTYPES 504 525	Palpation examination
+T20	KEYPHRASE-NOTYPES 533 554	right upper extremity
+T21	KEYPHRASE-NOTYPES 564 574	tenderness
+T22	KEYPHRASE-NOTYPES 582 598	distal insertion
+T23	KEYPHRASE-NOTYPES 606 626	supraspinatus tendon
+T24	KEYPHRASE-NOTYPES 638 664	supraspinatus muscle belly
+T25	KEYPHRASE-NOTYPES 668 679	painful arc
+T26	KEYPHRASE-NOTYPES 687 694	degrees
+T27	KEYPHRASE-NOTYPES 698 707	abduction
+T28	KEYPHRASE-NOTYPES 709 736	minimal scapular dyskinesia
+T29	KEYPHRASE-NOTYPES 744 754	right side
+T30	KEYPHRASE-NOTYPES 760 764	pain
+T31	KEYPHRASE-NOTYPES 768 812	end-range passive shoulder internal rotation
+T32	KEYPHRASE-NOTYPES 830 868	right shoulder range-of-motion testing
+T33	KEYPHRASE-NOTYPES 872 880	standing
+T34	KEYPHRASE-NOTYPES 885 901	supine positions
+T35	KEYPHRASE-NOTYPES 918 923	Magee
+T36	KEYPHRASE-NOTYPES 933 955	range-ofmotion testing
+T37	KEYPHRASE-NOTYPES 957 978	manual muscle testing
+T38	KEYPHRASE-NOTYPES 980 983	MMT
+T39	KEYPHRASE-NOTYPES 997 1002	scale
+T40	KEYPHRASE-NOTYPES 1023 1033	techniques
+T41	KEYPHRASE-NOTYPES 1047 1053	Hislop
+T42	KEYPHRASE-NOTYPES 1058 1068	Montgomery
+T43	KEYPHRASE-NOTYPES 1079 1086	patient
+T44	KEYPHRASE-NOTYPES 1089 1110	strength measurements
+T45	KEYPHRASE-NOTYPES 1120 1143	right shoulder strength
+T46	KEYPHRASE-NOTYPES 1145 1170	force-generating capacity
+T47	KEYPHRASE-NOTYPES 1175 1192	external rotation
+T48	KEYPHRASE-NOTYPES 1197 1206	abduction
+T49	KEYPHRASE-NOTYPES 1227 1231	pain
+T50	KEYPHRASE-NOTYPES 1239 1253	right shoulder
