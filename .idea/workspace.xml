@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2914ac51-249a-4627-937f-c8f8bda855e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SVM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crfModel/semeval_to_BIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/crfModel/semeval_to_BIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,86 +14,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SVM.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/crfModel/semeval_to_BIO.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2160">
-              <caret line="144" column="44" selection-start-line="144" selection-start-column="44" selection-end-line="144" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scix_eke-3.3.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eval.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="213" column="4" lean-forward="true" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="737">
+                <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gen_keyphrase_core.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gen_keyphrase_core_bounds.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gen_keyphrase_core_stanford.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="132" column="23" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
-              <folding>
-                <element signature="e#403#441#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/annParser.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TxtTrainParser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="65" column="10" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="10" />
-              <folding>
-                <element signature="e#632#641#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -107,6 +45,7 @@
       <find>logger.infor</find>
       <find>ptree</find>
       <find>print</find>
+      <find>tagger</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,15 +61,15 @@
         <option value="$PROJECT_DIR$/crfModel/CRFNER.py" />
         <option value="$PROJECT_DIR$/crfModel/Domain-Entities-extraction-given-JSON.py" />
         <option value="$PROJECT_DIR$/crfModel/ClassifyCRFtoANN.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/scix_*/config.py" />
         <option value="$PROJECT_DIR$/parsers/config.py" />
-        <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/scix_eke-3.1.py" />
         <option value="$PROJECT_DIR$/gen_keyphrase_core_stanford.py" />
         <option value="$PROJECT_DIR$/SVM.py" />
         <option value="$PROJECT_DIR$/crfModel/semeval_to_BIO.py" />
         <option value="$PROJECT_DIR$/eval.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -162,11 +101,6 @@
               <item name="medke" type="462c0819:PsiDirectoryNode" />
               <item name="crfModel" type="462c0819:PsiDirectoryNode" />
               <item name="medicalData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="medke" type="b2602c69:ProjectViewProjectNode" />
-              <item name="medke" type="462c0819:PsiDirectoryNode" />
-              <item name="parserData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.eval">
+  <component name="RunManager" selected="Python.TxtTrainParser">
     <configuration name="CRFNER" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="medke" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -450,8 +384,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.eval" />
         <item itemvalue="Python.TxtTrainParser" />
+        <item itemvalue="Python.eval" />
         <item itemvalue="Python.CRFNER" />
         <item itemvalue="Python.scix_test" />
         <item itemvalue="Python.scix_eke-3.2" />
@@ -574,11 +508,19 @@
       <option name="project" value="LOCAL" />
       <updated>1564596032934</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Removed unused stanford-postagger">
+      <created>1564676199478</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1564676199478</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1255" height="1337" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -615,7 +557,8 @@
     <MESSAGE value="Reworked file placement" />
     <MESSAGE value="generate scix data" />
     <MESSAGE value="Correct .DS_Store error and regenerated data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct .DS_Store error and regenerated data" />
+    <MESSAGE value="Removed unused stanford-postagger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unused stanford-postagger" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parserData/stanford-postagger/models/english-bidirectional-distsim.tagger.props">
@@ -722,14 +665,6 @@
     <entry file="file://$PROJECT_DIR$/parserData/parserOutput/borchers-2015-05__output.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scixOutput/abbott-2006-01.ann" />
     <entry file="file://$PROJECT_DIR$/scix_eke-3.1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -753,16 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TxtTrainParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="65" column="10" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="10" />
-          <folding>
-            <element signature="e#632#641#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SVM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -773,18 +698,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scix_eke-3.3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/annParser.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eval.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -813,6 +728,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="144" column="44" selection-start-line="144" selection-start-column="44" selection-end-line="144" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scix_eke-3.3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TxtTrainParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1975">
+          <caret line="215" column="36" selection-start-line="215" selection-start-column="30" selection-end-line="215" selection-end-column="36" />
+          <folding>
+            <element signature="e#632#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="737">
+            <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
