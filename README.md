@@ -5,8 +5,6 @@ Domain knowledge entity extraction for scientific documents in biomedical scienc
 
 Language(s) Used: Python 3.7
 
-Java needed for stanford-postagger 
-
 Python Modules:
 1. sklearn-crfsuite    
 2. nltk            
