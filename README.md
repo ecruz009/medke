@@ -62,7 +62,7 @@ Note:  All testing and training data can be found in the `medicalData` folder
 
 2.  The resulting 100 negative annotation file are combined using the command `cut -d$'\t' -f 3 Negative/*.ann > combinedNegAnn.ann` to create a single file with all the negative DKEs.  The same is done with all manual annotations to create a `combinedPosAnn.ann` file.
 
-3.  The `combinedPosAnn.ann` and `combinedNegAnn.ann` are then joined to create `PosAndNeg.ann` which serves as the sample for the SVM classifier.
+3.  The `combinedPosAnn.ann` and `combinedNegAnn.ann` are then joined to create `PosAndNegAnn.ann` which serves as the sample for the SVM classifier.
 
 ##To Do
 - Complete the SVM classifier
