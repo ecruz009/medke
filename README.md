@@ -16,7 +16,7 @@ Python Modules:
 
 The medke codebase is a repurposed program based off of the codebase semeval2017 (https://github.com/SeerLabs/semeval2017) with the code being updated from Python 2 to Python 3.  The purpose of this program is the extraction of DKEs from text.  At the time of writing this document, the DKE extractor program consists of 20 executable python files.  
 
-The .py file interactions can be divided into three groups with one group being all .py files found in the `crfModel` folder , the second being any file within the `svmModel`, and the last being any .py file outside said folder. For brevity, the groups will be labeled crfModel, svmModel, and Other respectively.
+The .py file interactions can be divided into three groups with one group being all .py files found in the `crfModel` folder , the second being any file within the `svmModel` folder, and the last being any .py file outside the previous mentioned folders. For brevity, the groups will be labeled crfModel, svmModel, and Other respectively.
 
 
 —crfModel (`ClassifyCRFtoANN.py`, `convert.py`, `CRFNER.py`, `DataExtraction.py`, `Domain-Entities-extraction-given-JSON.py`, `FeatureExtraction.py`, `PhraseEval.py`, and `semeval_to_BIO.py`)—
@@ -56,7 +56,7 @@ Note:  All testing and training data can be found in the `medicalData` folder
 
 5.  `eval.py` serves to calculate the P, R, F1, and Macro F when supplied with a folder containing gold standard .ann files and a folder containing prediction .ann files.  The folders are `crfModel/medicalData/testData/anns` and `crfModel/medicalData/predictedANN` respectively.
 
--svmModel(`CreateNegative.py`)
+—svmModel(`CreateNegative.py`)
 
 1.  `CreateNegative.py` serves to create the samples necessary for the SVM classifier.  The text file `annList.txt` is used to cycle through all 100 manual annotations and all 100 eke annotations to create the negative annotations under the folder `svmModel/AnnotationData/Negative/`.
 
