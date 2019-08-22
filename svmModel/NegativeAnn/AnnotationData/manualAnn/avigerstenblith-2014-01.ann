@@ -1,0 +1,29 @@
+T1	DKE 0 12	Neuroimaging
+T2	DKE 52 64	Lyme disease
+T3	DKE 66 114	Single-photon emission computed tomography scans
+T4	DKE 212 218	cortex
+T5	DKE 223 247	subcortical white matter
+T6	DKE 254 286	magnetic resonance imaging scans
+T7	DKE 296 344	single-photon emission computed tomography scans
+T8	DKE 470 490	white matter lesions
+T9	DKE 492 511	enlarged ventricles
+T10	DKE 517 533	cortical atrophy
+T11	DKE 583 593	spirochete
+T12	DKE 646 663	brain territories
+T13	DKE 712 736	Neuropsychologic testing
+T14	DKE 854 875	Electroencephalograms
+T15	DKE 929 941	Lyme disease
+T16	DKE 960 972	encephalitis
+T17	DKE 974 993	Cerebrospinal fluid
+T18	DKE 995 998	CSF
+T19	DKE 1013 1028	Lyme antibodies
+T20	DKE 1067 1079	Lyme disease
+T21	DKE 1094 1108	nervous system
+T22	DKE 1217 1231	CSF antibodies
+T23	DKE 1274 1294	serologic antibodies
+T24	DKE 1310 1322	Lyme disease
+T25	DKE 1370 1387	CSF antibody test
+T26	DKE 1405 1440	central nervous system Lyme disease
+T27	DKE 1456 1473	CSF antibody test
+T28	DKE 1509 1521	Lyme disease
+T29	DKE 1571 1574	CSF
