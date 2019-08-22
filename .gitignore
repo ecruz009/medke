@@ -2,7 +2,7 @@
 !crfsemeval/test.txt
 
 # Log folder and testing files
-logs/
+#logs/
 test.*
 
 # Byte-compiled / optimized / DLL files

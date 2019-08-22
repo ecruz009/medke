@@ -14,9 +14,9 @@ Python Modules:
 
 ##Description
 
-The medke codebase is a repurposed program based off of the codebase semeval2017 (https://github.com/SeerLabs/semeval2017) with the code being updated from Python 2 to Python 3.  The purpose of this program is the extraction of DKEs from text.  At the time of writing this document, the DKE extractor program consists of 22 executable python files.  
+The medke codebase is a repurposed program based off of the codebase semeval2017 (https://github.com/SeerLabs/semeval2017) with the code being updated from Python 2 to Python 3.  The purpose of this program is the extraction of DKEs from text.  At the time of writing this document, the DKE extractor program consists of 20 executable python files.  
 
-The .py file interactions can be divided into two groups with one group being all .py files found in the crfModel folder and the other being any .py file outside said folder. For brevity, the groups will be labeled crfModel and Other respectively.
+The .py file interactions can be divided into three groups with one group being all .py files found in the `crfModel` folder , the second being any file within the `svmModel`, and the last being any .py file outside said folder. For brevity, the groups will be labeled crfModel, svmModel, and Other respectively.
 
 
 —crfModel (`ClassifyCRFtoANN.py`, `convert.py`, `CRFNER.py`, `DataExtraction.py`, `Domain-Entities-extraction-given-JSON.py`, `FeatureExtraction.py`, `PhraseEval.py`, and `semeval_to_BIO.py`)—
@@ -41,10 +41,9 @@ Note:  All testing and training data can be found in the `medicalData` folder
 —Other (`annParser.py`, `config.py`, `eval.py`, `gen_keyphrase_*.py`, `scix_eke-*.py`, `scix_test.py`, `SVM.py`, and `TxtTrainParser.py`)——
 
 
-1.  The four `scix_eke-*.py` scripts must be supplied with the arguments TESTDIR and OUTDIR in order to execute.  The TESTDIR supplies the directory containing the .txt files to be tested and the OUTDIR supplies the directory containing the output .ann files.  The four scripts take the supplied .txt files, run through them for keyphrases (specifically NP), and output them as .ann files.  For `scix_eke-3.2.py`, a third argument N is necessary which specifies the the N chars before and after the keyphrase extracted.  Note that each script calls upon a specific `gen_keyphrase_*.py` script.
-    - `scix_eke-1.0.py` calls upon `gen_keyphrase_core.py`
-    - `scix_eke-2.0.py` calls upon `gen_keyphrase_core_bounds.py`
+1.  The three `scix_eke-3.*.py` scripts must be supplied with the arguments TESTDIR and OUTDIR in order to execute.  The TESTDIR supplies the directory containing the .txt files to be tested and the OUTDIR supplies the directory containing the output .ann files.  The three scripts take the supplied .txt files, run through them for keyphrases (specifically NP), and output them as .ann files.  For `scix_eke-3.2.py` and `scix_eke-3.3.py`, a third argument N is necessary which specifies the the N chars before and after the keyphrase extracted.  Note that each script calls upon a specific `gen_keyphrase_*.py` script.
     - `scix_eke-3.1.py`, `scix_eke-3.2.py`, and `scix_eke-3.3.py` call upon `gen_core_keyphrase_core_stanford.py`
+    - Note the output directory is `scixOutput`
 
 2.  The script `scix_test.py` serves to test a single file for keyphrase generation instead of a whole directory.  It requires a single text file to be supplied for its argument and calls upon `gen_keyphrase_core_bounds.py` when looking for the nounphrases.  
 
@@ -57,5 +56,13 @@ Note:  All testing and training data can be found in the `medicalData` folder
 
 5.  `eval.py` serves to calculate the P, R, F1, and Macro F when supplied with a folder containing gold standard .ann files and a folder containing prediction .ann files.  The folders are `crfModel/medicalData/testData/anns` and `crfModel/medicalData/predictedANN` respectively.
 
+-svmModel(`CreateNegative.py`)
+
+1.  `CreateNegative.py` serves to create the samples necessary for the SVM classifier.  The text file `annList.txt` is used to cycle through all 100 manual annotations and all 100 eke annotations to create the negative annotations under the folder `svmModel/AnnotationData/Negative/`.
+
+2.  The resulting 100 negative annotation file are combined using the command `cut -d$'\t' -f 3 Negative/*.ann > combinedNegAnn.ann` to create a single file with all the negative DKEs.  The same is done with all manual annotations to create a `combinedPosAnn.ann` file.
+
+3.  The `combinedPosAnn.ann` and `combinedNegAnn.ann` are then joined to create `PosAndNeg.ann` which serves as the sample for the SVM classifier.
+
 ##To Do
-- Begin outlining `SVM.py`
+- Complete the SVM classifier
