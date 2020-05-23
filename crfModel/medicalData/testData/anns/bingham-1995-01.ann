@@ -16,16 +16,17 @@ T15	DKE 530 544	acute myositis
 T16	DKE 548 570	chronic encephalopathy
 T17	DKE 581 593	facial palsy
 T18	DKE 598 616	aseptic meningitis
-T19	DKE 793 809	neuroborreliosis
-T20	DKE 817 830	Lyme serology
-T21	DKE 865 876	systemic LD
-T22	DKE 951 967	oral spirochetes
-T23	DKE 908 935	asymptomatic seroconversion
-T24	DKE 1025 1034	pathogens
-T25	DKE 1177 1179	LD
-T26	DKE 1301 1317	neuroborreliosis
-T27	DKE 1381 1383	LD
-T28	DKE 1396 1408	seropositive
-T29	DKE 1439 1451	seropositive
-T30	DKE 1544 1560	neuroborreliosis
-T31	DKE 1625 1638	Lyme serology
+T19	DKE 648 673	neurologic manifestations
+T20	DKE 792 808	neuroborreliosis
+T21	DKE 816 829	Lyme serology
+T22	DKE 864 875	systemic LD
+T23	DKE 950 966	oral spirochetes
+T24	DKE 907 934	asymptomatic seroconversion
+T25	DKE 1024 1033	pathogens
+T26	DKE 1279 1281	LD
+T27	DKE 1300 1316	neuroborreliosis
+T28	DKE 1379 1381	LD
+T29	DKE 1394 1406	seropositive
+T30	DKE 1437 1449	seropositive
+T31	DKE 1542 1558	neuroborreliosis
+T32	DKE 1623 1636	Lyme serology

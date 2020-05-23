@@ -18,3 +18,13 @@ T17	DKE 1276 1291	Cranial nerve V
 T18	DKE 1335 1357	cranial nerves VII–XII
 T19	DKE 1498 1518	deep tendon reflexes
 T20	DKE 1549 1578	plantar responses were flexor
+T21	DKE 661 673	auscultation
+T22	DKE 757 764	murmurs
+T23	DKE 766 770	rubs
+T24	DKE 775 782	gallops
+T25	DKE 864 876	organomegaly
+T26	DKE 929 937	cyanosis
+T27	DKE 919 927	clubbing
+T28	DKE 942 947	edema
+T29	DKE 991 999	tapering
+T30	DKE 1050 1067	peripheral pulses

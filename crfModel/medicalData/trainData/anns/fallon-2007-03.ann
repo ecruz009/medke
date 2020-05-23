@@ -5,11 +5,7 @@ T4	DKE 243 254	Lyme ELISA,
 T5	DKE 261 267	IgG WB
 T6	DKE 281 287	IgM WB
 T7	DKE 293 318	intrathecal Ab production
-T8	DKE 379 406	positive intrathecal sample
-T9	DKE 416 428	seropositive
-T10	DKE 456 463	CSF PCR
 T11	DKE 528 539	spirochetes
-T12	DKE 638 649	cells’s DNA
 T13	DKE 695 712	PCR amplification
 T14	DKE 720 729	spoT gene
 T15	DKE 750 762	PCR amplicon
@@ -28,3 +24,9 @@ T27	DKE 1222 1235	B burgdorferi
 T28	DKE 1273 1282	spoT gene
 T29	DKE 1307 1335	streptomycin resistance gene
 T30	DKE 1337 1356	spoT mutant strains
+T12	DKE 646 649	DNA
+T10	DKE 456 459	CSF
+T31	DKE 460 463	PCR
+T8	DKE 379 406	positive intrathecal sample
+T9	DKE 567 588	dark-field microscopy
+T32	DKE 548 562	phase contrast

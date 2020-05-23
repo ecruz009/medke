@@ -48,3 +48,7 @@ T47	DKE 2199 2216	CSF Lyme serology
 T48	DKE 2338 2360	neurologic examination
 T49	DKE 2401 2438	B. burgdorferi IgM and IgG antibodies
 T50	DKE 2462 2465	IgG
+T51	DKE 713 722	hypotonia
+T52	DKE 730 735	limbs
+T53	DKE 1278 1285	protein
+T54	DKE 1290 1312	glucose concentrations

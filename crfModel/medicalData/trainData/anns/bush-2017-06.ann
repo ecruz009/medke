@@ -10,19 +10,20 @@ T9	DKE 646 665	A. phagocytophilium
 T10	DKE 710 731	Macrolide antibiotics
 T11	DKE 823 846	beta-lactam medications
 T12	DKE 851 862	doxycycline
-T13	DKE 1110 1121	doxycycline
-T14	DKE 1351 1362	antibiotics
-T15	DKE 1406 1408	IV
-T16	DKE 1410 1434	cephalosporin antibiotic
-T17	DKE 1436 1447	ceftriaxone
-T18	DKE 1503 1517	B. burgdorferi
-T19	DKE 1613 1629	oral doxycycline
-T20	DKE 1674 1697	intravenous ceftriaxone
-T21	DKE 1759 1771	Lyme disease
-T22	DKE 1801 1825	neurologic abnormalities
-T23	DKE 1879 1901	atrioventricular block
-T24	DKE 1929 1952	intravenous ceftriaxone
-T25	DKE 2016 2026	oral agent
-T26	DKE 2058 2075	cardiac pacemaker
-T27	DKE 2231 2239	AV block
-T28	DKE 2285 2296	oral agents
+T13	DKE 1108 1119	doxycycline
+T14	DKE 1349 1360	antibiotics
+T15	DKE 1391 1402	intravenous
+T16	DKE 1404 1406	IV
+T17	DKE 1408 1432	cephalosporin antibiotic
+T18	DKE 1434 1445	ceftriaxone
+T19	DKE 1501 1515	B. burgdorferi
+T20	DKE 1611 1627	oral doxycycline
+T21	DKE 1672 1695	intravenous ceftriaxone
+T22	DKE 1757 1769	Lyme disease
+T23	DKE 1799 1823	neurologic abnormalities
+T24	DKE 1880 1902	atrioventricular block
+T25	DKE 1930 1953	intravenous ceftriaxone
+T26	DKE 2017 2027	oral agent
+T27	DKE 2059 2076	cardiac pacemaker
+T28	DKE 2229 2237	AV block
+T29	DKE 2283 2294	oral agents

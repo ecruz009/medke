@@ -5,9 +5,14 @@ T5	DKE 273 281	proteins
 T6	DKE 331 364	Nova blot semidry transfer system
 T7	DKE 420 444	nitrocellulose membranes
 T4	DKE 175 194	polyacrylamide gels
-T8	DKE 499 526	bovine serum albumin in PBS
-T9	DKE 630 679	IgG and IgM antibodies to B. burgdorferi antigens
-T10	DKE 876 898	biotinylated antiserum
-T11	DKE 900 936	goat anti-human IgG γ chain specific
-T12	DKE 940 960	IgM m chain specific
-T13	DKE 1035 1069	Peroxidase-conjugated streptavidin
+T9	DKE 629 651	IgG and IgM antibodies
+T10	DKE 655 678	B. burgdorferi antigens
+T11	DKE 302 316	nitrocellulose
+T8	DKE 499 519	bovine serum albumin
+T12	DKE 523 526	PBS
+T13	DKE 528 537	Membranes
+T14	DKE 776 779	PBS
+T15	DKE 875 897	biotinylated antiserum
+T16	DKE 915 935	IgG γ chain specific
+T17	DKE 939 959	IgM m chain specific
+T18	DKE 1034 1068	Peroxidase-conjugated streptavidin

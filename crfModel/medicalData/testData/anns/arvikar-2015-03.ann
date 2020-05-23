@@ -7,19 +7,19 @@ T6	DKE 412 426	IV ceftriaxone
 T7	DKE 523 534	antibiotics
 T8	DKE 645 655	IV therapy
 T9	DKE 708 718	antibiotic
-T10	DKE 800 816	oral doxycycline
-T11	DKE 906 916	IV therapy
-T12	DKE 947 976	persistent joint inflammation
-T13	DKE 982 991	synovitis
-T14	DKE 1014 1024	IV therapy
-T15	DKE 1072 1099	synovial tissue hypertrophy
-T16	DKE 1152 1166	IV antibiotics
-T17	DKE 1403 1427	oral amoxicillin therapy
-T18	DKE 1453 1467	IV ceftriaxone
-T19	DKE 1497 1508	antibiotics
-T20	DKE 1552 1562	daptomycin
-T21	DKE 1564 1574	carbomycin
-T22	DKE 1580 1592	cefoperazone
-T23	DKE 1653 1664	spirochetes
-T24	DKE 1719 1730	antibiotics
-T25	DKE 1767 1781	Lyme arthritis
+T10	DKE 905 915	IV therapy
+T11	DKE 946 975	persistent joint inflammation
+T12	DKE 981 990	synovitis
+T13	DKE 1013 1023	IV therapy
+T14	DKE 1071 1098	synovial tissue hypertrophy
+T15	DKE 1151 1165	IV antibiotics
+T16	DKE 1402 1426	oral amoxicillin therapy
+T17	DKE 1452 1466	IV ceftriaxone
+T18	DKE 1496 1507	antibiotics
+T19	DKE 1551 1561	daptomycin
+T20	DKE 1563 1573	carbomycin
+T21	DKE 1579 1591	cefoperazone
+T22	DKE 1652 1663	spirochetes
+T23	DKE 1718 1729	antibiotics
+T24	DKE 1766 1780	Lyme arthritis
+T25	DKE 799 815	oral doxycycline

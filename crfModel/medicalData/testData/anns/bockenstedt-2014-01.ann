@@ -10,11 +10,11 @@ T9	DKE 739 753	Lyme arthritis
 T10	DKE 784 802	systemic infection
 T11	DKE 828 842	joint effusion
 T12	DKE 874 887	Baker’s cysts
-T13	DKE 919 939	antibiotic treatment
-T14	DKE 941 955	Lyme arthritis
-T15	DKE 993 1002	synovitis
-T16	DKE 1127 1136	synovitis
-T17	DKE 1190 1201	antibiotics
-T18	DKE 1221 1257	antibiotic-refractory Lyme arthritis
-T19	DKE 1320 1333	B burgdorferi
-T20	DKE 1454 1486	nonseptic inflammatory arthritis
+T13	DKE 940 954	Lyme arthritis
+T14	DKE 992 1001	synovitis
+T15	DKE 1126 1135	synovitis
+T16	DKE 1189 1200	antibiotics
+T17	DKE 1220 1256	antibiotic-refractory Lyme arthritis
+T18	DKE 1319 1332	B burgdorferi
+T19	DKE 1453 1485	nonseptic inflammatory arthritis
+T20	DKE 918 938	antibiotic treatment

@@ -16,16 +16,16 @@ T17	DKE 1002 1022	rheumatoid arthritis
 T18	DKE 1024 1036	Fibromyalgia
 T19	DKE 1066 1078	Lyme disease
 T20	DKE 1098 1110	fibromyalgia
-T21	DKE 1237 1257	rheumatoid arthritis
-T22	DKE 1259 1277	reactive arthritis
-T23	DKE 1282 1301	psoriatic arthritis
-T24	DKE 1334 1346	Lyme disease
-T25	DKE 1375 1396	spirochetal infection
-T26	DKE 1474 1487	endemic areas
-T27	DKE 1532 1544	Lyme disease
-T28	DKE 1635 1643	antibody
-T29	DKE 1657 1671	B. burgdorferi
-T30	DKE 1682 1715	antibiotic-treated Lyme arthritis
-T9	DKE 561 580	synovial WBC counts
-T14	DKE 880 894	Lyme arthritis
-T31	DKE 1203 1227	inflammatory arthritides
+T9	DKE 1236 1256	rheumatoid arthritis
+T14	DKE 1258 1276	reactive arthritis
+T21	DKE 1281 1300	psoriatic arthritis
+T22	DKE 1333 1345	Lyme disease
+T23	DKE 1374 1395	spirochetal infection
+T24	DKE 1473 1486	endemic areas
+T25	DKE 1531 1543	Lyme disease
+T26	DKE 1634 1642	antibody
+T27	DKE 1656 1670	B. burgdorferi
+T28	DKE 1681 1714	antibiotic-treated Lyme arthritis
+T29	DKE 561 580	synovial WBC counts
+T30	DKE 880 894	Lyme arthritis
+T31	DKE 1202 1226	inflammatory arthritides

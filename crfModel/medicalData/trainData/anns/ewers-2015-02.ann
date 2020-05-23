@@ -3,20 +3,21 @@ T2	DKE 64 76	CN VII palsy
 T3	DKE 107 129	lymphocytic meningitis
 T4	DKE 161 177	neuroborreliosis
 T5	DKE 207 219	CN VII palsy
-T6	DKE 288 295	CNs III
 T7	DKE 377 380	CNs
 T8	DKE 412 414	MR
 T9	DKE 535 563	right-sided CNs VII and VIII
-T10	DKE 629 641	right CN III
 T11	DKE 650 654	CN V
 T12	DKE 770 773	CNs
 T13	DKE 777 780	MRI
 T14	DKE 813 848	pediatric cases of neuroborreliosis
-T15	DKE 886 912	pediatric neuroborreliosis
-T16	DKE 946 969	right-sided CN VI palsy
-T17	DKE 981 984	MRI
-T18	DKE 1023 1040	CN VI bilaterally
-T19	DKE 1052 1072	CN III ipsilaterally
-T20	DKE 1081 1097	thalamic lesions
-T21	DKE 1196 1211	CN inflammation
-T22	DKE 1287 1317	NorthAmerican neuroborreliosis
+T6	DKE 889 915	pediatric neuroborreliosis
+T10	DKE 949 972	right-sided CN VI palsy
+T15	DKE 984 987	MRI
+T16	DKE 1026 1043	CN VI bilaterally
+T17	DKE 1055 1075	CN III ipsilaterally
+T18	DKE 1084 1100	thalamic lesions
+T19	DKE 1202 1217	CN inflammation
+T20	DKE 1293 1324	North American neuroborreliosis
+T21	DKE 288 309	CNs III, VI, and VIII
+T22	DKE 635 644	CN III, X
+T23	DKE 686 689	MRI
