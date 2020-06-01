@@ -14,6 +14,7 @@ T13	DKE 534 552	western blot tests
 T14	DKE 644 658	nervous system
 T15	DKE 823 825	LM
 T16	DKE 879 887	antibody
-T17	DKE 914 938	Borrelia burgdorferi DNA
-T18	DKE 942 967	polymerase chain reaction
-T19	DKE 989 1019	polymerase chain reaction test
+T17	DKE 917 937	Borrelia burgdorferi
+T18	DKE 938 941	DNA
+T19	DKE 945 970	polymerase chain reaction
+T20	DKE 992 1017	polymerase chain reaction

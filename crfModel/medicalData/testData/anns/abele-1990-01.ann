@@ -1,28 +1,28 @@
-T1	DKE 27 35	Borrelia
-T2	DKE 63 79	etiologic agents
-T3	DKE 129 155	erythema chronicum migrans
-T4	DKE 157 160	ECM
-T5	DKE 163 175	Lyme disease
-T6	DKE 177 179	LD
-T7	DKE 182 217	acrodermatitis chronica atrophicans
-T8	DKE 219 222	ACA
-T9	DKE 225 252	lymphadenosis benigna cutis
-T10	DKE 253 257	(LBC
-T11	DKE 278 300	Spiegler-Fendt sarcoid
-T12	DKE 328 335	morphea
-T13	DKE 337 367	lichen sclerosus et atrophicus
-T14	DKE 369 372	LSA
-T15	DKE 375 420	progressive facial hemiatrophyofParry-Romberg
-T16	DKE 421 424	PFH
-T17	DKE 427 468	benign lymphocytic infiltrate of the skin
-T18	DKE 486 489	BLI
-T19	DKE 496 512	Shulman syndrome
-T20	DKE 514 536	eosinophilic fasciitis
-T21	DKE 539 551	Lyme disease
-T22	DKE 595 598	ACA
-T23	DKE 600 603	LBC
-T24	DKE 605 608	LSA
-T25	DKE 610 613	PFH
-T26	DKE 615 618	BLI
-T27	DKE 624 640	Shulman syndrome
-T28	DKE 682 691	borreliae
+T1	DKE 28 36	Borrelia
+T2	DKE 65 81	etiologic agents
+T3	DKE 132 158	erythema chronicum migrans
+T4	DKE 160 163	ECM
+T5	DKE 166 178	Lyme disease
+T6	DKE 180 182	LD
+T7	DKE 185 220	acrodermatitis chronica atrophicans
+T8	DKE 222 225	ACA
+T9	DKE 228 255	lymphadenosis benigna cutis
+T10	DKE 257 260	LBC
+T11	DKE 281 303	Spiegler-Fendt sarcoid
+T12	DKE 332 339	morphea
+T13	DKE 341 371	lichen sclerosus et atrophicus
+T14	DKE 373 376	LSA
+T15	DKE 379 426	progressive facial hemiatrophy of Parry-Romberg
+T16	DKE 428 431	PFH
+T17	DKE 434 475	benign lymphocytic infiltrate of the skin
+T18	DKE 493 496	BLI
+T19	DKE 503 519	Shulman syndrome
+T20	DKE 521 543	eosinophilic fasciitis
+T21	DKE 546 558	Lyme disease
+T22	DKE 602 605	ACA
+T23	DKE 607 610	LBC
+T24	DKE 612 615	LSA
+T25	DKE 617 620	PFH
+T26	DKE 622 625	BLI
+T27	DKE 631 647	Shulman syndrome
+T28	DKE 689 698	borreliae

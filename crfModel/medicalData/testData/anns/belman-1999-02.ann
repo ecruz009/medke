@@ -7,10 +7,10 @@ T6	DKE 280 282	EM
 T7	DKE 316 318	EM
 T8	DKE 347 350	FNP
 T9	DKE 468 495	Lyme disease-associated FNP
-T10	DKE 630 651	Lyme neuroborreliosis
-T11	DKE 680 683	FNP
-T12	DKE 708 721	endemic areas
-T13	DKE 802 805	FNP
-T14	DKE 825 841	neuroborreliosis
-T15	DKE 871 901	CSF Bb-specific IgM antibodies
-T16	DKE 1091 1118	Lyme disease-associated FNP
+T10	DKE 679 680	F
+T11	DKE 707 720	endemic areas
+T12	DKE 801 804	FNP
+T13	DKE 870 900	CSF Bb-specific IgM antibodies
+T14	DKE 824 840	neuroborreliosis
+T15	DKE 1094 1106	Lyme disease
+T16	DKE 1118 1121	FNP

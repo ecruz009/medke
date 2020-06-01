@@ -18,12 +18,13 @@ T17	DKE 974 993	Cerebrospinal fluid
 T18	DKE 995 998	CSF
 T19	DKE 1013 1028	Lyme antibodies
 T20	DKE 1067 1079	Lyme disease
-T21	DKE 1094 1108	nervous system
-T22	DKE 1217 1231	CSF antibodies
-T23	DKE 1274 1294	serologic antibodies
-T24	DKE 1310 1322	Lyme disease
-T25	DKE 1370 1387	CSF antibody test
-T26	DKE 1405 1440	central nervous system Lyme disease
-T27	DKE 1456 1473	CSF antibody test
-T28	DKE 1509 1521	Lyme disease
-T29	DKE 1571 1574	CSF
+T21	DKE 1371 1388	CSF antibody test
+T22	DKE 1406 1441	central nervous system Lyme disease
+T23	DKE 1510 1522	Lyme disease
+T24	DKE 1572 1575	CSF
+T25	DKE 1457 1474	CSF antibody test
+T26	DKE 1311 1323	Lyme disease
+T27	DKE 1218 1221	CSF
+T28	DKE 1275 1295	serologic antibodies
+T29	DKE 1222 1232	antibodies
+T30	DKE 1527 1537	antibodies
