@@ -144,9 +144,13 @@ for txt, ann, out in zip(txts, anns, outs):
         for ti,token in enumerate(tokens):
 
             curr_end = current_off + len(token)
+            # if there is a single punctuation mark, such as "-", treat it specially
+            if re.match(r"[-<>&=]",token):
+                m = None
+            else:
+                # separate punctuation marks with alphenumeric characters
+                m = re.match(r"^(\W*)([\w-]*)(\W*$)",token)
 
-            # separate punctuation marks, with alphenumeric characters, a mid_off is defined to point the character positions: ([\w-]*)
-            m = re.match(r"^(\W*)([\w-]*)(\W*$)",token)
             if m: 
                 punct_pre,token_word,punct_suf = tokens_punct_match = m.groups()
                 # the prefix puncutation, if exists

@@ -9,8 +9,7 @@ was	O 34 37
 isolated	O 38 46
 from	O 47 51
 2	O 52 53
-×	 O 54 55
-	O 55 55
+x	O 54 55
 10^6	O 56 60
 monocytes	O 61 70
 using	O 71 76
@@ -27,7 +26,7 @@ CA	O 117 119
 according	O 121 130
 to	O 131 133
 the	O 134 137
-manufacturer’s	O 138 152
+manufacturer's	O 138 152
 instructions	O 153 165
 .	 O 165 166
 
@@ -141,11 +140,11 @@ cells	O 949 954
 1	O 956 957
 arbitrary	O 958 967
 unit	O 968 972
-cytokine	O 973 981
-mRNA	O 982 986
+cytokine	B-KP 973 981
+mRNA	I-KP 982 986
 concentration	O 987 1000
 /	O 1000 1001
-GAPDH	O 1001 1006
+GAPDH	B-KP 1001 1006
 mRNA	I-KP 1007 1011
 concentration	O 1012 1025
 [	 O 1026 1027

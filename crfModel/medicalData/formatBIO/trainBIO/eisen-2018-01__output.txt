@@ -25,9 +25,7 @@ by	O 151 153
 tick-borne	B-KP 154 164
 pathogens	I-KP 165 174
 and	O 175 178
->	 O 179 180
-70	O 180 182
-%	 O 182 183
+>70%	O 179 183
 are	O 184 187
 Lyme	B-KP 188 192
 disease	I-KP 193 200
@@ -176,8 +174,7 @@ by	O 915 917
 I	B-KP 918 919
 .	 I-KP 919 920
 scapularis	I-KP 921 931
-–	 O 932 933
-	O 933 933
+-	O 932 933
 including	O 934 943
 five	O 944 948
 bacteria	O 949 957
@@ -219,8 +216,7 @@ virus	O 1109 1114
 Powassan	B-KP 1116 1124
 virus	I-KP 1125 1130
 )	 O 1130 1131
-–	 O 1132 1133
-	O 1133 1133
+-	O 1132 1133
 are	O 1134 1137
 known	O 1138 1143
 to	O 1144 1146
