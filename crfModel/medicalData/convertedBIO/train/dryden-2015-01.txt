@@ -26,8 +26,7 @@ three	O	116,121
 active	O	122,128
 life	B-KP	129,133
 stages	I-KP	134,140
-–	O	141,142
-	O	142,142
+-	O	141,142
 the	O	143,146
 larvae	O	147,153
 ,	O	153,154
