@@ -23,25 +23,24 @@ T24	DKE 537 573	indirect fluorescent antibody assays
 T25	DKE 575 578	IFA
 T26	DKE 654 667	F. tularensis
 T27	DKE 674 693	agglutination assay
-T28	DKE 784 798	IgG antibodies
-T29	DKE 811 823	Lyme disease
-T30	DKE 824 835	spirochaete
-T31	DKE 863 896	enzyme-linked immunosorbent assay
-T32	DKE 898 903	ELISA
-T33	DKE 911 919	antigens
-T36	DKE 1067 1096	Hanks' balanced salt solution
-T37	DKE 1098 1102	HBSS
-T38	DKE 1164 1168	HBSS
-T34	DKE 927 969	N40 strain of B. burgdorferi sensu stricto
-T35	DKE 1181 1193	spirochaetes
-T39	DKE 1351 1363	spirochaetes
-T40	DKE 1503 1510	antigen
-T41	DKE 1741 1749	antibody
-T42	DKE 1782 1832	alkaline phosphatase-conjugated goat antihuman IgG
-T43	DKE 1929 1987	p-nitrophenyl phosphate substrate in diethanolamine buffer
-T44	DKE 2016 2034	secondary antibody
-T45	DKE 2204 2216	Lyme disease
-T46	DKE 0 13	Serum samples
-T47	DKE 2249 2261	serum sample
-T48	DKE 214 242	Rocky Mountain spotted fever
-T17	DKE 423 449	antigens of E. chaffeensis
+T17	DKE 783 797	IgG antibodies
+T18	DKE 810 822	Lyme disease
+T28	DKE 823 834	spirochaete
+T29	DKE 862 895	enzyme-linked immunosorbent assay
+T30	DKE 897 902	ELISA
+T31	DKE 910 918	antigens
+T32	DKE 940 954	B. burgdorferi
+T33	DKE 1066 1095	Hanks' balanced salt solution
+T34	DKE 1097 1101	HBSS
+T35	DKE 1163 1167	HBSS
+T36	DKE 1180 1192	spirochaetes
+T37	DKE 1221 1241	darkfield microscopy
+T38	DKE 1350 1362	spirochaetes
+T39	DKE 1502 1509	antigen
+T40	DKE 1740 1748	antibody
+T41	DKE 1781 1831	alkaline phosphatase-conjugated goat antihuman IgG
+T42	DKE 1928 1986	p-nitrophenyl phosphate substrate in diethanolamine buffer
+T43	DKE 2015 2033	secondary antibody
+T44	DKE 2203 2215	Lyme disease
+T45	DKE 214 242	Rocky Mountain spotted fever
+T46	DKE 423 449	antigens of E. chaffeensis

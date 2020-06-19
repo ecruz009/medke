@@ -1,46 +1,70 @@
-# Code to convert *__output.txt to training and test files
-# No need to run unless training and test files are changed.
+"""
+Code to convert *__output.txt to training and test files
+No need to run unless training and test files are changed.
+Returns tokenized terms with BIO notation to identify
+keyphrases and offset boundaries.
 
-'''
-#Old Code for malletformatfeatures
+Python version tested: 3.7.5
 
-tfs = open("training.txt").read().split("\n")[:-1]
-for tf in tfs:
-    con = [x.split("\t") for x in open("malletformatfeatures/"+tf+"__output.txt").read().split("\n")[:-1]]
-    with open("malletformat/training/"+tf.split("_")[0],"w") as f:
-        for c in con:
-             if len(c)==1:
-                 f.write("\n")
-             else:
-                 f.write(c[0]+"\t"+c[3].split(" ")[0]+"\t"+c[3].split(" ")[1]+","+c[3].split(" ")[2]+"\n")
+Prerequiresite:
+* text and annotation files under ./medicalData/formatBIO/testBIO
+* text and annotation files under ./medicalData/formatBIO/trainBIO
 
-tfs = open("test.txt").read().split("\n")[:-1]
-for tf in tfs:
-    con = [x.split("\t") for x in open("malletformatfeatures/"+tf+"__output.txt").read().split("\n")[:-1]]
-    with open("malletformat/test/"+tf.split("_")[0],"w") as f:
-        for c in con:
-             if len(c)==1:
-                 f.write("\n")
-             else:
-                 f.write(c[0]+"\t"+c[3].split(" ")[0]+"\t"+c[3].split(" ")[1]+","+c[3].split(" ")[2]+"\n")
-'''
+Output:
+* files for CRF training under ./medicalData/convertedBIO/test
+* files for CRF training under ./medicalData/convertedBIO/train
+
+Usage:
+$ python3 convert.py
+
+Authorship:
+Sagnik Choudhury 2017: initial version for JCDL 2017 paper
+Agnese Chiatte 2017: initial version for JCDL 2017 paper
+Gunnar Reiske 2019: for JCDL 2020 paper
+Jian Wu 2020: for JCDL 2020 paper, add find_to_tag(), fixed bugs when parsing tokens containing punctuation. Add input arguments.
+"""
+import codecs
+import os
+import sys
 #Made to accept formatBIO type files
-tfs = open("medicalData/testData/testList.txt").read().split("\n")[:-1]
-for tf in tfs:
-    con = [x.split("\t") for x in open("medicalData/formatBIO/testBIO/"+tf+"__output.txt").read().split("\n")[:-1]]
-    with open("medicalData/convertedBIO/test/"+tf.split("_")[0]+".txt","w") as f:
-        for c in con:
-             if len(c)==1:
-                 f.write("\n")
-             else:
-                 f.write(c[0]+"\t"+c[1].split(" ")[0]+"\t"+c[1].split(" ")[1]+","+c[1].split(" ")[2]+"\n")
+inputFileDir_test = 'medicalData/formatBIO/testBIO/'
+outputFileDir_test = 'medicalData/convertedBIO/test/'
+testListpath = 'medicalData/testData/testList.txt'
 
-tfs = open("medicalData/trainData/trainList.txt").read().split("\n")[:-1]
+inputFileDir_train = 'medicalData/formatBIO/trainBIO/'
+outputFileDir_train = 'medicalData/convertedBIO/train/'
+trainListpath = 'medicalData/trainData/trainList.txt'
+print("working on test files: %s" % testListpath)
+#tfs = codecs.open(testListpath,'r','utf-8-sig').read().split("\n")[:-1]
+tfs = []
+with codecs.open(testListpath,'r','utf-8-sig') as f:
+    for line in f:
+        tfs.append(line.strip('\n'))
+
 for tf in tfs:
-    con = [x.split("\t") for x in open("medicalData/formatBIO/trainBIO/"+tf+"__output.txt").read().split("\n")[:-1]]
-    with open("medicalData/convertedBIO/train/"+tf.split("_")[0]+".txt","w") as f:
+    print("processing: %s" % tf)
+    con = [x.split("\t") for x in codecs.open(inputFileDir_test+tf+"__output.txt",'r','utf-8-sig').read().split("\n")[:-1]]
+    with codecs.open(outputFileDir_test+tf.split("_")[0]+".txt","w",'utf-8-sig') as f:
         for c in con:
              if len(c)==1:
                  f.write("\n")
              else:
-                 f.write(c[0]+"\t"+c[1].split(" ")[0]+"\t"+c[1].split(" ")[1]+","+c[1].split(" ")[2]+"\n")
+                 token = c[0]
+                 tag,left,right = c[1].strip().split()
+                 f.write(token+'\t'+tag+'\t'+left+','+right+'\n')
+print("%d test output to: %s" % (len(tfs), outputFileDir_test))
+
+
+print("working on train files: %s" % trainListpath)
+tfs = codecs.open(trainListpath,'r','utf-8-sig').read().split("\n")[:-1]
+for tf in tfs:
+    con = [x.split("\t") for x in codecs.open(inputFileDir_train+tf+"__output.txt",'r','utf-8-sig').read().split("\n")[:-1]]
+    with codecs.open(outputFileDir_train+tf.split("_")[0]+".txt","w",'utf-8-sig') as f:
+        for c in con:
+             if len(c)==1:
+                 f.write("\n")
+             else:
+                 token = c[0]
+                 tag,left,right = c[1].strip().split()
+                 f.write(token+'\t'+tag+'\t'+left+','+right+'\n')
+print("%d train output to: %s" % (len(tfs), outputFileDir_train))
