@@ -1,25 +1,19 @@
 """
 Conversion script expecting data in Semeval2017 format
 for keyphrase extraction (grouped as txts and ann files)
-
 Returns tokenized terms with BIO notation to identify
 keyphrases and offset boundaries.
-
 Python version tested: 3.7.5
-
 Prerequiresite: 
 * text and annotation files under ./medicalData/testData
 * text and annotation files under ./medicalData/trainData
-
 Output: 
 * intermediate files for CRF training under ./medicalData/formatBIO/testBIO
 * intermediate files for CRF training under ./medicalData/formatBIO/trainBIO
-
 Usage: 
 $ python3 semeval_to_BIO.py 
 examplle: 
 $ python3 semeval_to_BIO.py -i medicalData/trainData -o medicalData/formatBIO/trainBIO
-
 Authorship:
 Sagnik Choudhury 2017: initial version for JCDL 2017 paper
 Agnese Chiatte 2017: initial version for JCDL 2017 paper
@@ -32,7 +26,7 @@ import string
 import re
 import codecs
 import argparse
-
+#%%
 # find the bio tag of the current token, the span of the token is provided
 def find_bio_tag(current_off,curr_end,kpw_starts,kpw_offs):
     # determine the correct tag and write the token
@@ -50,6 +44,7 @@ def find_bio_tag(current_off,curr_end,kpw_starts,kpw_offs):
               bio_tag = 'O'
     return bio_tag
 
+#%%
 # judge if a token is the last word in a sentence
 # cases(things like "B. burgdorferi", "USA).", "Borrelia spp. [followed by a starting sentence]" will not end a sentence)
 def is_sent_end(ti,token,tokens):
@@ -64,11 +59,22 @@ def is_sent_end(ti,token,tokens):
         return False
     elif token[-1] == '.':
         return True
-
+#%%
 parser = argparse.ArgumentParser()
-parser.add_argument("-i","--input_root",metavar="INPUT_ROOT",type=str,default="medicalData/testData",help="Relative path of input directory, containing anns/ and txts/. Default is medicalData/testData.")
-parser.add_argument("-o","--output_root",metavar="OUTPUT_ROOT",type=str,default="medicalData/formatBIO/testBIO",help="Relative path of output directory. Default is medicalData/formatBIO/testBIO.")
 
+# training corpus = original or larger
+# trainingCorpus = 'larger'
+trainingCorpus = 'original'
+
+# dataset = test or train
+dataset = 'test'
+# dataset = 'train'
+
+defaultInputString     = 'medicalData/' + trainingCorpus + '/' + dataset + 'Data'
+defaultOutputputString = 'medicalData/formatBio/' + trainingCorpus + '/' + dataset + 'BIO'
+parser.add_argument("-i","--input_root",metavar="INPUT_ROOT",type=str,default=defaultInputString,help="Relative path of input directory, containing anns/ and txts/. Default is medicalData/trainData.")
+parser.add_argument("-o","--output_root",metavar="OUTPUT_ROOT",type=str,default=defaultOutputputString,help="Relative path of output directory. Default is medicalData/formatBIO/trainBIO.")
+      
 args = parser.parse_args()
 
 #BIO converion for all testData
@@ -198,7 +204,6 @@ for txt, ann, out in zip(txts, anns, outs):
                     pass
             except IndexError:
                 pass
-
             if re.match(r".*[A-Z]\.$",token): 
                 pass
             elif token[-1] == '.':
@@ -206,5 +211,6 @@ for txt, ann, out in zip(txts, anns, outs):
             """
             
 
-print("processed %d files under: %s" % (len(txts),input_root))
+print("\nprocessed %d files under: %s" % (len(txts),input_root))
 print("output files to: %s" % output_fold)
+

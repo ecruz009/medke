@@ -1,7 +1,10 @@
+
+# import nltk
+# nltk.download()
 from nltk import pos_tag
 
 def convertCONLLFormJustExtractionSemEval(loc):
-    dT=open(loc).read().split("\n")[:-2]
+    dT=open(loc, encoding = 'utf8').read().split("\n")[:-2]
     sI = [-1] + [i for i, x in enumerate(dT) if not x.strip()] + [len(dT)]
     sT1s = [dT[sI[i]+1:sI[i+1]] for i in range(len(sI)-1)]
     sTs = []
@@ -13,7 +16,7 @@ def convertCONLLFormJustExtractionSemEval(loc):
     return sTs
 
 def convertCONLLFormJustExtractionSemEvalPerfile(loc):
-    dT=open(loc).read().split("\n")[:-2]
+    dT=open(loc, encoding = 'utf8').read().split("\n")[:-2]
     sI = [-1] + [i for i, x in enumerate(dT) if not x.strip()] + [len(dT)]
     sT1s = [dT[sI[i]+1:sI[i+1]] for i in range(len(sI)-1)]
     sTs = []
